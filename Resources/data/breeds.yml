@@ -1,0 +1,6072 @@
+affenpinscher:
+    name: Affenpinscher
+    origin: 'Germany, France'
+    fci: 'Group 02 Section 01 #186'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05 - (Toys)'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/17/Affenpinscher.jpg'
+    translations: { en: Affenpinscher }
+afghan-hound:
+    name: 'Afghan Hound'
+    origin: Afghanistan
+    fci: 'Group 10 Section 01 #228'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - (Hounds)'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/fe/Afghan_Hound.jpg'
+    translations: { en: 'Afghan Hound' }
+afghan-shepherd:
+    name: 'Afghan Shepherd'
+    origin: Afghanistan
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e6/Afghan_Shepherd.jpg'
+    translations: { en: 'Afghan Shepherd' }
+aidi:
+    name: Aidi
+    origin: Morocco
+    fci: 'Group 02 Section 02 #247'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e8/Aidi.jpg'
+    translations: { en: Aidi }
+airedale-terrier:
+    name: 'Airedale Terrier'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 01 #007'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - (Terriers)'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/52/Airedale_Terrier.jpg'
+    translations: { en: 'Airedale Terrier' }
+akbash:
+    name: Akbash
+    origin: Turkey
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/74/Turkish_akbash.jpg'
+    translations: { en: Akbash }
+akita-inu:
+    name: 'Akita Inu'
+    origin: Japan
+    fci: 'Group 05 Section 05 #255'
+    akc: 'See American Akita'
+    ankc: 'See American Akita'
+    ckc: 'See American Akita'
+    tkc: Utility
+    nzkc: Utility
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e0/Japaneseakita.jpg'
+    translations: { en: 'Akita Inu' }
+alano-espanol:
+    name: 'Alano Español'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0f/Alano-espanol-0003.jpg'
+    translations: { en: 'Alano Español' }
+alaskan-klee-kai:
+    name: 'Alaskan Klee Kai'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/54/WOWAKK-Kukai-Alaskan-Klee-Kai.jpg'
+    translations: { en: 'Alaskan Klee Kai' }
+alaskan-malamute:
+    name: 'Alaskan Malamute'
+    origin: 'United States'
+    fci: 'Group 05 Section 01 #243'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 – (Working Dogs)'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/16/Alaskanmalamute0b.jpg'
+    translations: { en: 'Alaskan Malamute' }
+alpine-dachsbracke:
+    name: 'Alpine Dachsbracke'
+    origin: Austria
+    fci: 'Group 06 Section 02 #254'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/23/Alpejski_go%C5%84czy_kr%C3%B3tkono%C5%BCny_g99.jpg'
+    translations: { en: 'Alpine Dachsbracke' }
+alpine-spaniel:
+    name: 'Alpine Spaniel'
+    origin: 'Switzerland, Savoy'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/07/Alpine_spaniel.jpg'
+    translations: { en: 'Alpine Spaniel' }
+american-akita:
+    name: 'American Akita'
+    origin: 'Japan/United States'
+    fci: 'Group 05 Section 05 #344'
+    akc: 'Working Group'
+    ankc: 'Group 6 (Utility)'
+    ckc: 'Group 03 - (Working Dogs)'
+    tkc: Utility
+    nzkc: Utility
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5d/American_akita.jpg'
+    translations: { en: 'American Akita' }
+american-bulldog:
+    name: 'American Bulldog'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/60/Saylor%27s_Doc_Holliday.jpg'
+    translations: { en: 'American Bulldog' }
+american-cocker-spaniel:
+    name: 'American Cocker Spaniel'
+    origin: 'United States'
+    fci: 'Group 08 Section 02 #167'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/21/American_Cocker_in_Tallinn_2.JPG/200px-American_Cocker_in_Tallinn_2.JPG'
+    translations: { en: 'American Cocker Spaniel' }
+american-eskimo-dog:
+    name: 'American Eskimo Dog'
+    origin: Germany
+    fci: ''
+    akc: 'Non-Sporting Group'
+    ankc: ''
+    ckc: 'Group 06 (Non-sporting)'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/47/American_Eskimo_Dog.jpg'
+    translations: { en: 'American Eskimo Dog' }
+american-foxhound:
+    name: 'American Foxhound'
+    origin: 'United States'
+    fci: 'Group 06 Section 01 #303'
+    akc: 'Hound Group'
+    ankc: ''
+    ckc: 'Group 02 (Hounds)'
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e7/AmericanFoxhound2.jpg'
+    translations: { en: 'American Foxhound' }
+american-hairless-terrier:
+    name: 'American Hairless Terrier'
+    origin: 'United States'
+    fci: ''
+    akc: 'FSS (Miscellaneous)'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/ba/TagnonPond9-6-03.jpg'
+    translations: { en: 'American Hairless Terrier' }
+american-pit-bull-terrier:
+    name: 'American Pit Bull Terrier'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0c/American_Pit_Bull_Terrier_-_Seated.jpg'
+    translations: { en: 'American Pit Bull Terrier' }
+american-staffordshire-terrier:
+    name: 'American Staffordshire Terrier'
+    origin: 'United States'
+    fci: 'Group 03 Section 03 #286'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terrier'
+    tkc: ''
+    nzkc: Terrier
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a8/Ameryka%C5%84ski_staford_222.jpg'
+    translations: { en: 'American Staffordshire Terrier' }
+american-water-spaniel:
+    name: 'American Water Spaniel'
+    origin: 'United States'
+    fci: 'Group 08 Section 03 #301'
+    akc: 'Sporting Group'
+    ankc: ''
+    ckc: Sporting
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5a/Chien_d%27eau_americain_champion_1.JPG/200px-Chien_d%27eau_americain_champion_1.JPG'
+    translations: { en: 'American Water Spaniel' }
+anatolian-shepherd-dog:
+    name: 'Anatolian Shepherd Dog'
+    origin: Turkey
+    fci: 'Group 02 Section 02 #331'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: ''
+    tkc: Pastoral
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/88/Anatolian_589.jpg'
+    translations: { en: 'Anatolian Shepherd Dog' }
+andalusian-hound:
+    name: 'Andalusian Hound'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/10/Sheila.jpg'
+    translations: { en: 'Andalusian Hound' }
+anglo-francais-de-petite-venerie:
+    name: 'Anglo-Français de Petite Vénerie'
+    origin: France
+    fci: 'Group 06 Section 01 #325'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/31/Anglo-Fran%C3%A7ais_de_petite_v%C3%A9nerie.jpg'
+    translations: { en: 'Anglo-Français de Petite Vénerie' }
+appenzeller-sennenhund:
+    name: 'Appenzeller Sennenhund'
+    origin: Switzerland
+    fci: 'Group 02 Section 03 #046'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/40/Appenzeller_czer%C5%84_045.jpg'
+    translations: { en: 'Appenzeller Sennenhund' }
+ariege-pointer:
+    name: 'Ariege Pointer'
+    origin: France
+    fci: 'Group 07 Section 01 #177'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/fa/Pointer_of_Ariege_from_1915.JPG/200px-Pointer_of_Ariege_from_1915.JPG'
+    translations: { en: 'Ariege Pointer' }
+ariegeois:
+    name: Ariegeois
+    origin: France
+    fci: 'Group 06 Section 01 #020'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b8/Go%C5%84czy_059.jpg'
+    translations: { en: Ariegeois }
+armant:
+    name: Armant
+    origin: Egypt
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/22/Armant_dog%2C_with_some_orange_stuff_and_trees_in_background.jpg'
+    translations: { en: Armant }
+armenian-gampr-dog:
+    name: 'Armenian Gampr dog'
+    origin: Armenia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0c/Gampr_Hamlik_Parsanyan_2.jpg'
+    translations: { en: 'Armenian Gampr dog' }
+artois-hound:
+    name: 'Artois Hound'
+    origin: France
+    fci: 'Group 06 Section 01 #028'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/ce/Artois_from_1915.JPG/200px-Artois_from_1915.JPG'
+    translations: { en: 'Artois Hound' }
+australian-cattle-dog:
+    name: 'Australian Cattle Dog'
+    origin: Australia
+    fci: 'Group 01 Section 02 #287'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - (Herding Dogs)'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/cc/ACD-blue-spud.jpg'
+    translations: { en: 'Australian Cattle Dog' }
+australian-kelpie:
+    name: 'Australian Kelpie'
+    origin: Australia
+    fci: 'Group 01 Section 01 #293'
+    akc: ''
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - (Herding Dogs)'
+    tkc: ''
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/3d/Hilu.jpg'
+    translations: { en: 'Australian Kelpie' }
+australian-shepherd:
+    name: 'Australian Shepherd'
+    origin: 'United States'
+    fci: 'Group 01 Section 01 #342'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - (Herding Dogs)'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/30/Redtriaussie01.jpg'
+    translations: { en: 'Australian Shepherd' }
+australian-silky-terrier:
+    name: 'Australian Silky Terrier'
+    origin: Australia
+    fci: 'Group 03 Section 04 #236'
+    akc: 'Toy Group'
+    ankc: 'Group 1 (Toys)'
+    ckc: 'Group 05 (Toys)'
+    tkc: Toy
+    nzkc: Toy
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/38/Silkyterrier125.jpg'
+    translations: { en: 'Australian Silky Terrier' }
+australian-stumpy-tail-cattle-dog-10:
+    name: 'Australian Stumpy Tail Cattle Dog[10]'
+    origin: Australia
+    fci: 'Group 01 Section 02 #351 Provisional'
+    akc: ''
+    ankc: 'Group 05 - (Working dogs)'
+    ckc: 'Group 07 - (Herding Dogs)'
+    tkc: ''
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/16/Australian_Stumpy_Tail_Cattle_Dog.jpg'
+    translations: { en: 'Australian Stumpy Tail Cattle Dog[10]' }
+australian-terrier:
+    name: 'Australian Terrier'
+    origin: Australia
+    fci: 'Group 03 Section 02 #008'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terrier)'
+    ckc: 'Group 04 (Terriers)'
+    tkc: Terriers
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/00/Australian_Terrier_002_U.jpg'
+    translations: { en: 'Australian Terrier' }
+austrian-black-and-tan-hound:
+    name: 'Austrian Black and Tan Hound'
+    origin: Austria
+    fci: 'Group 06 Section 01 #063'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/ac/Brandlbracke.JPG/200px-Brandlbracke.JPG'
+    translations: { en: 'Austrian Black and Tan Hound' }
+austrian-pinscher:
+    name: 'Austrian Pinscher'
+    origin: Austria
+    fci: 'Group 02 Section 01 #064'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/54/Pinczer_austiacki_678.jpg'
+    translations: { en: 'Austrian Pinscher' }
+azawakh:
+    name: Azawakh
+    origin: Mali
+    fci: 'Group 10 Section 03 #307'
+    akc: 'FSS (Miscellaneous)'
+    ankc: Hound
+    ckc: ''
+    tkc: Hound
+    nzkc: ''
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e0/Azawakh-Red_male_black_mantle.jpg'
+    translations: { en: Azawakh }
+bakharwal-dog:
+    name: 'Bakharwal Dog'
+    origin: Pakistan
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Bakharwal Dog' }
+barbet:
+    name: Barbet
+    origin: France
+    fci: 'Group 08 Section 03 #105'
+    akc: FSS
+    ankc: ''
+    ckc: 'Group 01 (Sporting)'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/20/Barbet.jpg'
+    translations: { en: Barbet }
+basenji:
+    name: Basenji
+    origin: 'Democratic Republic of the Congo'
+    fci: 'Group 05 Section 06 #043'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/59/Basenji_600.jpg'
+    translations: { en: Basenji }
+basque-ratter:
+    name: 'Basque Ratter'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Basque Ratter' }
+basque-shepherd-dog:
+    name: 'Basque Shepherd Dog'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/ff/Pastor_vasco_m_14months_loby_3018.jpg'
+    translations: { en: 'Basque Shepherd Dog' }
+basset-artesien-normand:
+    name: 'Basset Artésien Normand'
+    origin: France
+    fci: 'Group 06 Section 01 #034'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e4/Basset_artezyjsko-normandzki._Umbra_z_Romisz%C3%B3wki.jpg'
+    translations: { en: 'Basset Artésien Normand' }
+basset-bleu-de-gascogne:
+    name: 'Basset Bleu de Gascogne'
+    origin: France
+    fci: 'Group 06 Section 01 #035'
+    akc: ''
+    ankc: ''
+    ckc: Hound
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/47/Basset_bleu_de_Gascogne.jpg'
+    translations: { en: 'Basset Bleu de Gascogne' }
+basset-fauve-de-bretagne:
+    name: 'Basset Fauve de Bretagne'
+    origin: France
+    fci: ''
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: Hound
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/ad/Basset_Fauve_de_Bretagne_600.jpg'
+    translations: { en: 'Basset Fauve de Bretagne' }
+basset-griffon-vendeen-grand:
+    name: 'Basset Griffon Vendéen, Grand'
+    origin: France
+    fci: ''
+    akc: 'FSS (Miscellaneous)'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/76/G_Basset_Griffon_Vendeen_600.jpg'
+    translations: { en: 'Basset Griffon Vendéen, Grand' }
+basset-griffon-vendeen-petit:
+    name: 'Basset Griffon Vendéen, Petit'
+    origin: France
+    fci: 'Group 06 Section 01 #067'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hound'
+    tkc: Hound
+    nzkc: Hounds
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e4/P_Basset_Griffon_Vendeen_600.jpg'
+    translations: { en: 'Basset Griffon Vendéen, Petit' }
+basset-hound:
+    name: 'Basset Hound'
+    origin: France
+    fci: 'Group 06 Section 01 #163'
+    akc: 'Hound Group'
+    ankc: 'Group 4 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a9/Bluebasset.jpeg/200px-Bluebasset.jpeg'
+    translations: { en: 'Basset Hound' }
+bavarian-mountain-hound:
+    name: 'Bavarian Mountain Hound'
+    origin: Germany
+    fci: 'Group 06 Section 02 #217'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a6/2005-12_Zoran2.jpg'
+    translations: { en: 'Bavarian Mountain Hound' }
+beagle:
+    name: Beagle
+    origin: 'United Kingdom (England)'
+    fci: 'Group 06 Section 01 #161'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 – Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg'
+    translations: { en: Beagle }
+beagle-harrier:
+    name: Beagle-Harrier
+    origin: France
+    fci: 'Group 06 Section 01 #290'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2f/Beagle-Harrier-fr.jpg'
+    translations: { en: Beagle-Harrier }
+bearded-collie:
+    name: 'Bearded Collie'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 01 Section 01 #271'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - Herding'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/9c/Bearded_Collie_600.jpg'
+    translations: { en: 'Bearded Collie' }
+beauceron:
+    name: Beauceron
+    origin: France
+    fci: 'Group 01 Section 01 #044'
+    akc: 'Herding Group'
+    ankc: ''
+    ckc: ''
+    tkc: Working
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/bc/Owczarek_francuski_beauceron_009pl.jpg'
+    translations: { en: Beauceron }
+bedlington-terrier:
+    name: 'Bedlington Terrier'
+    origin: 'United Kingdom'
+    fci: 'Group 03 Section 01 #009'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d0/Bedlington_Terriers.jpg'
+    translations: { en: 'Bedlington Terrier' }
+belgian-shepherd-dog-groenendael:
+    name: 'Belgian Shepherd Dog (Groenendael)'
+    origin: Belgium
+    fci: 'Group 01 Section 01 #015'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c4/European_Groenendael_male.jpg'
+    translations: { en: 'Belgian Shepherd Dog (Groenendael)' }
+belgian-shepherd-dog-laekenois:
+    name: 'Belgian Shepherd Dog (Laekenois)'
+    origin: Belgium
+    fci: 'Group 01 Section 01 #015'
+    akc: 'FSS (Miscellaneous)'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/71/Fang-sitt-040728.jpg'
+    translations: { en: 'Belgian Shepherd Dog (Laekenois)' }
+belgian-shepherd-dog-malinois:
+    name: 'Belgian Shepherd Dog (Malinois)'
+    origin: Belgium
+    fci: 'Group 01 Section 01 #015'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/69/Malinois_rybnik-kamien_pl.jpg'
+    translations: { en: 'Belgian Shepherd Dog (Malinois)' }
+belgian-shepherd-tervuren:
+    name: 'Belgian Shepherd (Tervuren)'
+    origin: Belgium
+    fci: 'Group 01 Section 01 #015'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/99/Tervueren.jpg'
+    translations: { en: 'Belgian Shepherd (Tervuren)' }
+bergamasco-shepherd:
+    name: 'Bergamasco Shepherd'
+    origin: Italy
+    fci: 'Group 01 Section 01 #194'
+    akc: 'Herding Group'
+    ankc: ''
+    ckc: Pastoral
+    tkc: ''
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e4/Ortensia_di_Valle_Scrivia.jpg'
+    translations: { en: 'Bergamasco Shepherd' }
+berger-blanc-suisse:
+    name: 'Berger Blanc Suisse'
+    origin: Switzerland
+    fci: 'Group 01 Section 01 #347'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/89/A-Wurf_von_den_Spessartraeubern.jpg'
+    translations: { en: 'Berger Blanc Suisse' }
+berger-picard:
+    name: 'Berger Picard'
+    origin: France
+    fci: 'Group 01 Section 01 #176'
+    akc: 'FSS (Miscellaneous)'
+    ankc: ''
+    ckc: 'Group 07 (Herding)'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a9/BergerPicard.jpg'
+    translations: { en: 'Berger Picard' }
+berner-laufhund:
+    name: 'Berner Laufhund'
+    origin: Switzerland
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4c/Gonczy_bernenski_pl1.jpg'
+    translations: { en: 'Berner Laufhund' }
+bernese-mountain-dog:
+    name: 'Bernese Mountain Dog'
+    origin: Switzerland
+    fci: 'Group 02 Section 03 #045'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/28/Berner_sennhund.jpg'
+    translations: { en: 'Bernese Mountain Dog' }
+bichon-frise:
+    name: 'Bichon Frisé'
+    origin: 'Spain, Belgium'
+    fci: 'Group 09 Section 01 #215'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 06 - Non-Sporting'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/93/Bichon_Fris%C3%A9_-_studdogbichon.jpg'
+    translations: { en: 'Bichon Frisé' }
+billy:
+    name: Billy
+    origin: France
+    fci: 'Group 06 Section 01 #025'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: ''
+    translations: { en: Billy }
+black-and-tan-coonhound:
+    name: 'Black and Tan Coonhound'
+    origin: 'United States'
+    fci: 'Group 06 Section 01 #300'
+    akc: 'Hound Group'
+    ankc: ''
+    ckc: 'Group 02 - Hounds'
+    tkc: ''
+    nzkc: Hound
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/48/Black_and_Tan_Coonhound.jpg'
+    translations: { en: 'Black and Tan Coonhound' }
+black-and-tan-virginia-foxhound:
+    name: 'Black and Tan Virginia Foxhound'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Black and Tan Virginia Foxhound' }
+black-norwegian-elkhound:
+    name: 'Black Norwegian Elkhound'
+    origin: Norway
+    fci: 'Group 05 Section 02 #242,268'
+    akc: ''
+    ankc: 'Group 04 (Hounds)'
+    ckc: ''
+    tkc: ''
+    nzkc: Hounds
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ed/Paying_attention%2C_sort_of.jpg'
+    translations: { en: 'Black Norwegian Elkhound' }
+black-russian-terrier:
+    name: 'Black Russian Terrier'
+    origin: Russia
+    fci: 'Group 02 Section 01 #327'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/cf/Czarny_terier_rosyjski_64.jpg'
+    translations: { en: 'Black Russian Terrier' }
+blackmouth-cur:
+    name: 'Blackmouth Cur'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/3c/MurphysKassieBlackmouthAlabama2.jpg'
+    translations: { en: 'Blackmouth Cur' }
+bleu-de-gascogne-grand:
+    name: 'Bleu de Gascogne, Grand'
+    origin: France
+    fci: 'Group 06 Section 01 #022'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/1e/Oldblue.jpg'
+    translations: { en: 'Bleu de Gascogne, Grand' }
+bleu-de-gascogne-petit:
+    name: 'Bleu de Gascogne, Petit'
+    origin: France
+    fci: 'Group 06 Section 01 #031'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/33/Ma%C5%82y_go%C5%84czy_gasko%C5%84ski_Cita_z_Beckova_Cb5.jpg'
+    translations: { en: 'Bleu de Gascogne, Petit' }
+bloodhound:
+    name: Bloodhound
+    origin: 'Belgium, France'
+    fci: 'Group 06 Section 01 #084'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c6/Bloodhound_800.jpg'
+    translations: { en: Bloodhound }
+blue-heeler:
+    name: 'Blue Heeler'
+    origin: Australia
+    fci: 'see Australian Cattle Dog'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Blue Heeler' }
+blue-lacy:
+    name: 'Blue Lacy'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2b/BlueLacyPhoto1.jpg'
+    translations: { en: 'Blue Lacy' }
+blue-paul-terrier:
+    name: 'Blue Paul Terrier'
+    origin: 'United Kingdom (Scotland)'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: ''
+    translations: { en: 'Blue Paul Terrier' }
+bluetick-coonhound:
+    name: 'Bluetick Coonhound'
+    origin: 'United States'
+    fci: ''
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: ''
+    tkc: ''
+    nzkc: Hound
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d6/BluetickCoonhound.jpg'
+    translations: { en: 'Bluetick Coonhound' }
+boerboel:
+    name: Boerboel
+    origin: 'South Africa'
+    fci: ''
+    akc: 'Working Group'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6f/Boerboel.jpg'
+    translations: { en: Boerboel }
+bohemian-shepherd:
+    name: 'Bohemian Shepherd'
+    origin: 'Czech Republic'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e8/IRLUKA_KROSANDRA_%281%29.jpg'
+    translations: { en: 'Bohemian Shepherd' }
+bolognese:
+    name: Bolognese
+    origin: Italy
+    fci: 'Group 09 Section 01 #196'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5e/Bolo%C5%84czyk_5e3.jpg'
+    translations: { en: Bolognese }
+border-collie:
+    name: 'Border Collie'
+    origin: 'United Kingdom (Scotland, England, Wales)'
+    fci: 'Group 01 Section 01 #297'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - Herding'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e4/Border_Collie_600.jpg'
+    translations: { en: 'Border Collie' }
+border-terrier:
+    name: 'Border Terrier'
+    origin: 'United Kingdom (Scotland, England)'
+    fci: 'Group 03 Section 01 #010'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/70/Border_Terrier.jpg'
+    translations: { en: 'Border Terrier' }
+borzoi:
+    name: Borzoi
+    origin: Russia
+    fci: 'Group 10 Section 01 #193'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/87/Borzoi_female.jpg'
+    translations: { en: Borzoi }
+bosnian-coarse-haired-hound:
+    name: 'Bosnian Coarse-haired Hound'
+    origin: 'Bosnia and Herzegovina'
+    fci: 'Group 06 Section 01 #155'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/cd/Gonic.jpg'
+    translations: { en: 'Bosnian Coarse-haired Hound' }
+boston-terrier:
+    name: 'Boston Terrier'
+    origin: 'United States'
+    fci: 'Group 09 Section 11 #140'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 07 (Non-Sporting)'
+    ckc: 'Group 06 - Non-Sporting'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/66/BostonTerrierBrindleStand_w.jpg'
+    translations: { en: 'Boston Terrier' }
+bouvier-des-ardennes:
+    name: 'Bouvier des Ardennes'
+    origin: Belgium
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/12/Bouvier_des_Ardennes.JPG/200px-Bouvier_des_Ardennes.JPG'
+    translations: { en: 'Bouvier des Ardennes' }
+bouvier-des-flandres:
+    name: 'Bouvier des Flandres'
+    origin: Belgium
+    fci: 'Group 01 Section 02 #191'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - Herding Dogs'
+    tkc: Working
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/7f/Bouvier.JPG/200px-Bouvier.JPG'
+    translations: { en: 'Bouvier des Flandres' }
+boxer:
+    name: Boxer
+    origin: Germany
+    fci: 'Group 02 Section 02 #144'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b7/Boxer_%28dog%29.jpg'
+    translations: { en: Boxer }
+boykin-spaniel:
+    name: 'Boykin Spaniel'
+    origin: 'United States'
+    fci: ''
+    akc: 'Sporting Group'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6e/Boykin_spaniel.jpg'
+    translations: { en: 'Boykin Spaniel' }
+bracco-italiano:
+    name: 'Bracco Italiano'
+    origin: Italy
+    fci: 'Group 07 Section 01 #202'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: Gundogs
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/ab/Umago.dei.Ronchi.JPG/200px-Umago.dei.Ronchi.JPG'
+    translations: { en: 'Bracco Italiano' }
+braque-d-auvergne:
+    name: 'Braque d''Auvergne'
+    origin: France
+    fci: 'Group 07 Section 01 #180'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/bb/Braque_d_Auvergne.jpg'
+    translations: { en: 'Braque d''Auvergne' }
+braque-du-bourbonnais:
+    name: 'Braque du Bourbonnais'
+    origin: France
+    fci: 'Group 07 Section 01 #179'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/49/Braque_du_Bourbonnais.jpg'
+    translations: { en: 'Braque du Bourbonnais' }
+braque-du-puy:
+    name: 'Braque du Puy'
+    origin: France
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a6/Dupuy_Pointer_from_1915.JPG/200px-Dupuy_Pointer_from_1915.JPG'
+    translations: { en: 'Braque du Puy' }
+braque-francais:
+    name: 'Braque Francais'
+    origin: France
+    fci: '#133, 134'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/7c/Wy%C5%BCe%C5%82_pirenejski_308.jpg'
+    translations: { en: 'Braque Francais' }
+braque-saint-germain:
+    name: 'Braque Saint-Germain'
+    origin: France
+    fci: 'Group 07 Section 01 #115'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/54/Braque_saint-germain_666.jpg'
+    translations: { en: 'Braque Saint-Germain' }
+brazilian-dogo:
+    name: 'Brazilian Dogo'
+    origin: Brazil
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/26/Doguepelolongo.jpg'
+    translations: { en: 'Brazilian Dogo' }
+brazilian-terrier:
+    name: 'Brazilian Terrier'
+    origin: Brazil
+    fci: 'Group 03 Section 01 #341'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/54/Brazilian_terrier.JPG/200px-Brazilian_terrier.JPG'
+    translations: { en: 'Brazilian Terrier' }
+briard:
+    name: Briard
+    origin: France
+    fci: 'Group 01 Section 01 #113'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/60/Briard_fauve.JPG/200px-Briard_fauve.JPG'
+    translations: { en: Briard }
+briquet-griffon-vendeen:
+    name: 'Briquet Griffon Vendéen'
+    origin: France
+    fci: 'Group 06 Section 01 #019'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/77/Briquet_Griffon_Vendeen.jpg'
+    translations: { en: 'Briquet Griffon Vendéen' }
+brittany:
+    name: Brittany
+    origin: France
+    fci: 'Group 07 Section 01 #095'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f4/Epagneul_Breton.jpg'
+    translations: { en: Brittany }
+broholmer:
+    name: Broholmer
+    origin: Denmark
+    fci: 'Group 02 Section 02 #315'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0c/Ivarr03.JPG/200px-Ivarr03.JPG'
+    translations: { en: Broholmer }
+bruno-jura-hound:
+    name: 'Bruno Jura Hound'
+    origin: 'Switzerland, France'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/57/09057110_Jura_Laufhund.jpg'
+    translations: { en: 'Bruno Jura Hound' }
+bucovina-shepherd-dog:
+    name: 'Bucovina Shepherd Dog'
+    origin: Romania
+    fci: 'Group 02 Section 02 #357 Provisional'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/dd/Bucovina_Sheepdog.jpg'
+    translations: { en: 'Bucovina Shepherd Dog' }
+bull-and-terrier:
+    name: 'Bull and Terrier'
+    origin: 'United Kingdom'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/74/Benjamin_Marshall_-_Dustman_-_Bulldog_and_Terrier_Mix.jpg'
+    translations: { en: 'Bull and Terrier' }
+bull-terrier:
+    name: 'Bull Terrier'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 03 #011'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e8/Bull_Terrier_Chico_10.jpg'
+    translations: { en: 'Bull Terrier' }
+bull-terrier-miniature:
+    name: 'Bull Terrier (Miniature)'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 03 #011b'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4d/Bull_terier_i_bull_terier_miniatura_d46.jpg'
+    translations: { en: 'Bull Terrier (Miniature)' }
+bulldog:
+    name: Bulldog
+    origin: 'United Kingdom (England)'
+    fci: 'Group 02 Section 02 #149'
+    akc: 'Non-sporting Group'
+    ankc: 'Group 7 (Non-Sporting)'
+    ckc: 'Group 06 - (Non-sporting)'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a4/Racib%C3%B3rz_2007_082.jpg'
+    translations: { en: Bulldog }
+bullenbeisser:
+    name: Bullenbeisser
+    origin: Germany
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/55/Bullenbeiser.jpg'
+    translations: { en: Bullenbeisser }
+bullmastiff:
+    name: Bullmastiff
+    origin: 'United Kingdom (England)'
+    fci: 'Group 02 Section 02 #157'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/65/Brutus_bullmastiff.jpg'
+    translations: { en: Bullmastiff }
+bully-kutta:
+    name: 'Bully Kutta'
+    origin: Pakistan
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c3/PakistaniMastiffPunjab.jpg'
+    translations: { en: 'Bully Kutta' }
+burgos-pointer:
+    name: 'Burgos Pointer'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/28/Burgos_Pointer_or_Perdiguero_de_Burgos.JPG/200px-Burgos_Pointer_or_Perdiguero_de_Burgos.JPG'
+    translations: { en: 'Burgos Pointer' }
+cairn-terrier:
+    name: 'Cairn Terrier'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 03 Section 02 #004'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b0/Cairn-Terrier-Garten1.jpg'
+    translations: { en: 'Cairn Terrier' }
+canaan-dog:
+    name: 'Canaan Dog'
+    origin: 'Middle East Israel'
+    fci: 'Group 05 Section 06 #273'
+    akc: 'Herding Group'
+    ankc: 'Group 07 (Nonsporting)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/88/CanaanDog3.jpg'
+    translations: { en: 'Canaan Dog' }
+canadian-eskimo-dog:
+    name: 'Canadian Eskimo Dog'
+    origin: Canada
+    fci: ''
+    akc: ''
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Working Dogs'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/79/Spoonsced.jpg'
+    translations: { en: 'Canadian Eskimo Dog' }
+cane-corso:
+    name: 'Cane Corso'
+    origin: Italy
+    fci: 'Group 02 Section 02 #343'
+    akc: 'Working Group'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f2/Cane_corso_temi_2_1024x768x24.png/200px-Cane_corso_temi_2_1024x768x24.png'
+    translations: { en: 'Cane Corso' }
+cantabrian-water-dog:
+    name: 'Cantabrian Water Dog'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/cf/Kantauriar_ur-txakurra1.jpg'
+    translations: { en: 'Cantabrian Water Dog' }
+cao-da-serra-de-aires:
+    name: 'Cão da Serra de Aires'
+    origin: Portugal
+    fci: 'Group 01 Section 01 #093'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/49/Cao_de_Serra_de_Aires600.jpg'
+    translations: { en: 'Cão da Serra de Aires' }
+cao-de-castro-laboreiro:
+    name: 'Cão de Castro Laboreiro'
+    origin: Portugal
+    fci: 'Group 02 Section 02 #170'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/88/Cao_de_castro_laboreiro.jpg'
+    translations: { en: 'Cão de Castro Laboreiro' }
+cao-fila-de-sao-miguel:
+    name: 'Cão Fila de São Miguel'
+    origin: Portugal
+    fci: 'Group 02 Section 02 #340'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/1a/Caofila.jpg'
+    translations: { en: 'Cão Fila de São Miguel' }
+carolina-dog:
+    name: 'Carolina Dog'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c0/American_Dingo_aka_Carolina_Dog1.jpg'
+    translations: { en: 'Carolina Dog' }
+carpathian-shepherd-dog:
+    name: 'Carpathian Shepherd Dog'
+    origin: Romania
+    fci: 'Group 01 Section 01 #350 Provisional'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: Pastoral
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/41/Carpatin.jpg'
+    translations: { en: 'Carpathian Shepherd Dog' }
+catahoula-cur:
+    name: 'Catahoula Cur'
+    origin: 'United States'
+    fci: ''
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b2/Ch-Catahoula_002.jpg'
+    translations: { en: 'Catahoula Cur' }
+catalan-sheepdog:
+    name: 'Catalan Sheepdog'
+    origin: Spain
+    fci: 'Group 01 Section 01 #087'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b1/Gos_d%27Atura_Catal%C3%A0.JPG/200px-Gos_d%27Atura_Catal%C3%A0.JPG'
+    translations: { en: 'Catalan Sheepdog' }
+caucasian-shepherd-dog:
+    name: 'Caucasian Shepherd Dog'
+    origin: 'Georgia, Armenia, Azerbaijan'
+    fci: 'Group 02 Section 02 #328'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4b/CaucasianOvcharka-Julius.jpg'
+    translations: { en: 'Caucasian Shepherd Dog' }
+cavalier-king-charles-spaniel:
+    name: 'Cavalier King Charles Spaniel'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 09 Section 07 #136'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05 - Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/73/Miss_Betty.jpg'
+    translations: { en: 'Cavalier King Charles Spaniel' }
+central-asian-shepherd-dog:
+    name: 'Central Asian Shepherd Dog'
+    origin: Russia
+    fci: 'Group 02 Section 02 #335'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/06/Centralasianovcharka.jpg'
+    translations: { en: 'Central Asian Shepherd Dog' }
+cesky-fousek:
+    name: 'Cesky Fousek'
+    origin: 'Czech Republic'
+    fci: 'Group 07 Section 01 #245'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5c/Czeski_fousek_777.jpg'
+    translations: { en: 'Cesky Fousek' }
+cesky-terrier:
+    name: 'Cesky Terrier'
+    origin: 'Czech Republic'
+    fci: 'Group 03 Section 02 #246'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5c/Cesky-Terier.jpg'
+    translations: { en: 'Cesky Terrier' }
+chesapeake-bay-retriever:
+    name: 'Chesapeake Bay Retriever'
+    origin: 'United States'
+    fci: 'Group 08 Section 01 #263'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/97/CH_Chesapeake.jpg'
+    translations: { en: 'Chesapeake Bay Retriever' }
+chien-francais-blanc-et-noir:
+    name: 'Chien Français Blanc et Noir'
+    origin: France
+    fci: 'Group 06 Section 01 #220'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: ''
+    translations: { en: 'Chien Français Blanc et Noir' }
+chien-francais-blanc-et-orange:
+    name: 'Chien Français Blanc et Orange'
+    origin: France
+    fci: 'Group 06 Section 01 #316'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: ''
+    translations: { en: 'Chien Français Blanc et Orange' }
+chien-francais-tricolore:
+    name: 'Chien Français Tricolore'
+    origin: France
+    fci: 'Group 06 Section 01 #219'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4a/MeuteBourbansais.jpg'
+    translations: { en: 'Chien Français Tricolore' }
+chien-gris:
+    name: Chien-gris
+    origin: France
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/71/Gris_De_Saint-Louis_from_1915.JPG/200px-Gris_De_Saint-Louis_from_1915.JPG'
+    translations: { en: Chien-gris }
+chihuahua:
+    name: Chihuahua
+    origin: Mexico
+    fci: 'Group 09 Section 06 #218'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05—Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4c/Chihuahua1_bvdb.jpg'
+    translations: { en: Chihuahua }
+chilean-fox-terrier:
+    name: 'Chilean Fox Terrier'
+    origin: Chile
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c8/Fox_terrier_chileno.JPG/200px-Fox_terrier_chileno.JPG'
+    translations: { en: 'Chilean Fox Terrier' }
+chinese-chongqing-dog:
+    name: 'Chinese Chongqing Dog'
+    origin: China
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/32/Sichuan-chongqing%2C_han_orientali%2C_molosso%2C_II_sec%2C_02.JPG/200px-Sichuan-chongqing%2C_han_orientali%2C_molosso%2C_II_sec%2C_02.JPG'
+    translations: { en: 'Chinese Chongqing Dog' }
+chinese-crested-dog:
+    name: 'Chinese Crested Dog'
+    origin: China
+    fci: 'Group 09 Section 04 #288'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05—Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/97/IndyStands.jpg'
+    translations: { en: 'Chinese Crested Dog' }
+chinese-imperial-dog:
+    name: 'Chinese Imperial Dog'
+    origin: China
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0d/Chinese_Imperial_Dog.jpg'
+    translations: { en: 'Chinese Imperial Dog' }
+chinook:
+    name: Chinook
+    origin: 'United States'
+    fci: ''
+    akc: 'Working Group'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f2/Wikichinook.JPG/200px-Wikichinook.JPG'
+    translations: { en: Chinook }
+chippiparai:
+    name: Chippiparai
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f9/Female_Chippiparai_sitting.jpg'
+    translations: { en: Chippiparai }
+chow-chow:
+    name: 'Chow Chow'
+    origin: China
+    fci: 'Group 05 Section 05 #205'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 07 (Non-sporting)'
+    ckc: 'Group 06 Non-sporting'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4c/ChowChow2Szczecin.jpg'
+    translations: { en: 'Chow Chow' }
+cierny-sery:
+    name: 'Cierny Sery'
+    origin: Slovakia
+    fci: 'Group canpanion dog'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/08/8s45heryprobaobraz_018.jpg'
+    translations: { en: 'Cierny Sery' }
+cirneco-dell-etna:
+    name: 'Cirneco dell''Etna'
+    origin: Italy
+    fci: 'Group 05 Section 07 #199'
+    akc: 'Hound Group'
+    ankc: ''
+    ckc: ''
+    tkc: Hound
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/7b/Cirneco_dell_Etna_611.jpg'
+    translations: { en: 'Cirneco dell''Etna' }
+clumber-spaniel:
+    name: 'Clumber Spaniel'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 08 Section 02 #109'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/bb/Clumber_spaniel_767.jpg'
+    translations: { en: 'Clumber Spaniel' }
+collie-rough:
+    name: 'Collie, Rough'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 01 Section 01 #156'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working dogs)'
+    ckc: 'Group 07 - Herding dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/48/Rough_Collie_600.jpg'
+    translations: { en: 'Collie, Rough' }
+collie-smooth:
+    name: 'Collie, Smooth'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 01 Section 01 #296'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working dogs)'
+    ckc: 'Group 07 - Herding dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/3a/SmoothCollieTri2_wb.jpg'
+    translations: { en: 'Collie, Smooth' }
+combai:
+    name: Combai
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/en/2/28/Combai_dog.jpg'
+    translations: { en: Combai }
+cordoba-fighting-dog:
+    name: 'Cordoba Fighting Dog'
+    origin: Argentina
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a2/Cordoba_profile.jpg'
+    translations: { en: 'Cordoba Fighting Dog' }
+coton-de-tulear:
+    name: 'Coton de Tulear'
+    origin: Madagascar
+    fci: 'Group 09 Section 01 #283'
+    akc: 'Non-Sporting Group'
+    ankc: FSS
+    ckc: Toy
+    tkc: Toy
+    nzkc: ''
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/bd/Coton_de_Tular_1.jpg'
+    translations: { en: 'Coton de Tulear' }
+cretan-hound:
+    name: 'Cretan Hound'
+    origin: Greece
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/ba/Kritikosichnilatis_1.jpg'
+    translations: { en: 'Cretan Hound' }
+croatian-sheepdog:
+    name: 'Croatian Sheepdog'
+    origin: Croatia
+    fci: 'Group 01 Section 01 #277'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/78/Gera062005sed.jpg'
+    translations: { en: 'Croatian Sheepdog' }
+cumberland-sheepdog:
+    name: 'Cumberland Sheepdog'
+    origin: 'United Kingdom (England)'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: ''
+    translations: { en: 'Cumberland Sheepdog' }
+curly-coated-retriever:
+    name: 'Curly Coated Retriever'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 08 Section 01 #110'
+    akc: 'Sporting Group'
+    ankc: ''
+    ckc: 'Group 01 - Sporting'
+    tkc: Gundogs
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/58/Curly_Coated_Retriever.jpg'
+    translations: { en: 'Curly Coated Retriever' }
+cursinu:
+    name: Cursinu
+    origin: 'Corsica (France)'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/42/Cursinu_1.jpg'
+    translations: { en: Cursinu }
+czechoslovak-wolfdog:
+    name: 'Czechoslovak Wolfdog'
+    origin: Czechoslovakia
+    fci: 'Group 01 Section 01 #332 Hunting group'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/9d/TWH-jolly.JPG/200px-TWH-jolly.JPG'
+    translations: { en: 'Czechoslovak Wolfdog' }
+dachshund:
+    name: Dachshund
+    origin: Germany
+    fci: 'Group 04 Section 01 #148'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: ''
+    tkc: ''
+    nzkc: Hound
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/27/Short-haired-Dachshund.jpg'
+    translations: { en: Dachshund }
+dalmatian:
+    name: Dalmatian
+    origin: Croatia
+    fci: 'Group 06 Section 03 #153'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 07 (Non-Sporting)'
+    ckc: 'Group 06 (Non-Sporting)'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/eb/Dalmatian_liver_stacked.jpg'
+    translations: { en: Dalmatian }
+dandie-dinmont-terrier:
+    name: 'Dandie Dinmont Terrier'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 03 Section 02 #168'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/63/Dandie_Dinmont_Terrier_600.jpg'
+    translations: { en: 'Dandie Dinmont Terrier' }
+danish-swedish-farmdog:
+    name: 'Danish Swedish Farmdog'
+    origin: 'Denmark, Sweden'
+    fci: 'Group 02 Section 01 #356 Provisional'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e6/Danish_Swedish_Farmdog.jpg'
+    translations: { en: 'Danish Swedish Farmdog' }
+decker-rat-terrier:
+    name: 'Decker Rat Terrier'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c7/BriarBey_Decker_Terrier.jpg'
+    translations: { en: 'Decker Rat Terrier' }
+deutsche-bracke:
+    name: 'Deutsche Bracke'
+    origin: Germany
+    fci: 'Group 06 Section 01 #299'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/23/DeutscheBracke.jpg'
+    translations: { en: 'Deutsche Bracke' }
+doberman-pinscher:
+    name: 'Doberman Pinscher'
+    origin: Germany
+    fci: 'Group 02 Section 01 #143'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/7a/European_Dobermann.jpg'
+    translations: { en: 'Doberman Pinscher' }
+dogo-argentino:
+    name: 'Dogo Argentino'
+    origin: Argentina
+    fci: 'Group 02 Section 02 #292'
+    akc: 'FSS (Miscellaneous)'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d9/Dogo.jpg'
+    translations: { en: 'Dogo Argentino' }
+dogo-cubano:
+    name: 'Dogo Cubano'
+    origin: Cuba
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/71/DogoCubano2.jpg'
+    translations: { en: 'Dogo Cubano' }
+dogue-de-bordeaux:
+    name: 'Dogue de Bordeaux'
+    origin: France
+    fci: 'Group 02 Section 02 #116'
+    akc: 'Working Group'
+    ankc: 'Group 6 (Utility)'
+    ckc: ''
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ef/Dogo_de_Burdeos.jpg'
+    translations: { en: 'Dogue de Bordeaux' }
+drentse-patrijshond:
+    name: 'Drentse Patrijshond'
+    origin: Netherlands
+    fci: 'Group 07 Section 01 #224'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a6/Drentse_Patrijshond.jpg'
+    translations: { en: 'Drentse Patrijshond' }
+drever:
+    name: Drever
+    origin: Sweden
+    fci: 'Group 06 Section 01 #130'
+    akc: ''
+    ankc: ''
+    ckc: 'Canadian Kennel Club Group 02'
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/34/Drever_NUCh_Tanjo.jpg'
+    translations: { en: Drever }
+dunker:
+    name: Dunker
+    origin: Norway
+    fci: 'Group 06 Section 01 #203'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/48/Dunker.jpg'
+    translations: { en: Dunker }
+dutch-shepherd-dog:
+    name: 'Dutch Shepherd Dog'
+    origin: Netherlands
+    fci: 'Group 01 Section 01 #223'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/02/DutchShepherdRoughCoat.jpg'
+    translations: { en: 'Dutch Shepherd Dog' }
+dutch-smoushond:
+    name: 'Dutch Smoushond'
+    origin: Netherlands
+    fci: 'Group 02 Section 01 #308'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/19/Hollandsche_smoushonden_2.JPG/200px-Hollandsche_smoushonden_2.JPG'
+    translations: { en: 'Dutch Smoushond' }
+east-siberian-laika:
+    name: 'East Siberian Laika'
+    origin: Russia
+    fci: 'Group 05 Section 02 #305'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2f/East_Siberian_Laika.jpg'
+    translations: { en: 'East Siberian Laika' }
+east-european-shepherd:
+    name: 'East-European Shepherd'
+    origin: Russia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d3/Owczarek_wschodnioeuropejski_MB_01.jpg'
+    translations: { en: 'East-European Shepherd' }
+elo:
+    name: Elo
+    origin: Germany
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/84/Elo.jpg'
+    translations: { en: Elo }
+english-cocker-spaniel:
+    name: 'English Cocker Spaniel'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 08 Section 02 #005'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundog
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/99/EnglishCockerSpaniel_wb.jpg'
+    translations: { en: 'English Cocker Spaniel' }
+american-english-coonhound:
+    name: 'American English Coonhound'
+    origin: 'United States'
+    fci: ''
+    akc: 'Hound Group'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/28/English_Coonhound.jpg'
+    translations: { en: 'American English Coonhound' }
+english-foxhound:
+    name: 'English Foxhound'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 06 Section 01 #159'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/44/English_Foxhound_portrait.jpg'
+    translations: { en: 'English Foxhound' }
+english-mastiff:
+    name: 'English Mastiff'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 02 Section 02 #264'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/42/EnglishMastiffChurchill.JPG/200px-EnglishMastiffChurchill.JPG'
+    translations: { en: 'English Mastiff' }
+english-setter:
+    name: 'English Setter'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 07 Section 02 #002'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/15/EnglishSetter9_fx_wb.jpg'
+    translations: { en: 'English Setter' }
+english-shepherd:
+    name: 'English Shepherd'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/54/TricolorEnglishShepherdDog.jpg'
+    translations: { en: 'English Shepherd' }
+english-springer-spaniel:
+    name: 'English Springer Spaniel'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 08 Section 02 #125'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4d/English-Springer-Spaniel_show.jpg'
+    translations: { en: 'English Springer Spaniel' }
+english-toy-terrier-black-tan:
+    name: 'English Toy Terrier (Black & Tan)'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 04 #013'
+    akc: ''
+    ankc: Toy
+    ckc: ''
+    tkc: Toy
+    nzkc: Toy
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f5/English_Toy_Terrier_600_01.jpg'
+    translations: { en: 'English Toy Terrier (Black & Tan)' }
+english-water-spaniel:
+    name: 'English Water Spaniel'
+    origin: 'United Kingdom'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a1/English_Water_Spaniel.jpg'
+    translations: { en: 'English Water Spaniel' }
+english-white-terrier:
+    name: 'English White Terrier'
+    origin: 'United Kingdom'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b9/Old_English_White_Terrier.jpg'
+    translations: { en: 'English White Terrier' }
+entlebucher-mountain-dog:
+    name: 'Entlebucher Mountain Dog'
+    origin: Switzerland
+    fci: 'Group 02 Section 03 #047'
+    akc: 'Herding Group'
+    ankc: ''
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Working
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/ff/Elio_v_Schaerlig_im_Juni_2007_klein.jpg'
+    translations: { en: 'Entlebucher Mountain Dog' }
+epagneul-bleu-de-picardie:
+    name: 'Épagneul Bleu de Picardie'
+    origin: France
+    fci: 'Group 07 Section 01 #106'
+    akc: ''
+    ankc: ''
+    ckc: 'Group 01 - Sporting'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/06/Epagneul_bleu_de_picardie_868.jpg'
+    translations: { en: 'Épagneul Bleu de Picardie' }
+estonian-hound:
+    name: 'Estonian Hound'
+    origin: Estonia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c3/Go%C5%84czy_esto%C5%84ski_MB_01.jpg'
+    translations: { en: 'Estonian Hound' }
+estrela-mountain-dog:
+    name: 'Estrela Mountain Dog'
+    origin: Portugal
+    fci: 'Group 02 Section 02 #173'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: Pastoral
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/1c/Estrela_Mountain_Dog_6_month_old_male.jpg'
+    translations: { en: 'Estrela Mountain Dog' }
+eurasier:
+    name: Eurasier
+    origin: Germany
+    fci: 'Group 05 Section 05 #291'
+    akc: FSS
+    ankc: 'Group 07 (Non-Sporting)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c5/Eurasier_Image_001.jpg'
+    translations: { en: Eurasier }
+field-spaniel:
+    name: 'Field Spaniel'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 08 Section 02 #123'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/78/Field_spaniel_581.jpg'
+    translations: { en: 'Field Spaniel' }
+fila-brasileiro:
+    name: 'Fila Brasileiro'
+    origin: Brazil
+    fci: 'Group 02 Section 02 #225'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: Utility
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2a/Fila_brasileiro_ppk9.jpg'
+    translations: { en: 'Fila Brasileiro' }
+finnish-hound:
+    name: 'Finnish Hound'
+    origin: Finland
+    fci: 'Group 06 Section 01 #051'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/62/Nuori-suomenajokoira.jpg'
+    translations: { en: 'Finnish Hound' }
+finnish-lapphund:
+    name: 'Finnish Lapphund'
+    origin: Finland
+    fci: 'Group 05 Section 03 #189'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a6/Finnish_Lapphund_Glenchess_Revontuli.jpg'
+    translations: { en: 'Finnish Lapphund' }
+finnish-spitz:
+    name: 'Finnish Spitz'
+    origin: Finland
+    fci: 'Group 05 Section 02 #049'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/27/Finnish_Spitz_600.jpg'
+    translations: { en: 'Finnish Spitz' }
+flat-coated-retriever:
+    name: 'Flat-Coated Retriever'
+    origin: 'United Kingdom'
+    fci: 'Group 08 Section 01 #121'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/aa/Flat_Coated_Retriever_-_black.jpg'
+    translations: { en: 'Flat-Coated Retriever' }
+formosan-mountain-dog:
+    name: 'Formosan Mountain Dog'
+    origin: Taiwan
+    fci: 'Group 05 Section 07 #348 Provisional'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b0/Formosan_nina.jpg'
+    translations: { en: 'Formosan Mountain Dog' }
+fox-terrier-smooth:
+    name: 'Fox Terrier (Smooth)'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 01 #012'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f4/Patrickinfield.jpg'
+    translations: { en: 'Fox Terrier (Smooth)' }
+fox-terrier-wire:
+    name: 'Fox Terrier, Wire'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 01 #169'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b7/Elias1%C4%8Derven2006.jpg'
+    translations: { en: 'Fox Terrier, Wire' }
+french-brittany:
+    name: 'French Brittany'
+    origin: France
+    fci: 'Group 07 Section 01'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b6/Timba_arret.jpg'
+    translations: { en: 'French Brittany' }
+french-bulldog:
+    name: 'French Bulldog'
+    origin: 'United Kingdom (England), France'
+    fci: 'Group 09 Section 11 #101'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 07 (Non-Sporting)'
+    ckc: 'Group 06 - Non-Sporting'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/39/Tiger_the_French_Bulldog.jpg'
+    translations: { en: 'French Bulldog' }
+french-spaniel:
+    name: 'French Spaniel'
+    origin: France
+    fci: 'Group 07 Section 01 #175'
+    akc: FSS
+    ankc: ''
+    ckc: 'Group 01 (Sporting)'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c9/04031137_Epagneul_Francais.jpg'
+    translations: { en: 'French Spaniel' }
+gaddi-dog:
+    name: 'Gaddi Dog'
+    origin: Pakistan
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Gaddi Dog' }
+galgo-espanol:
+    name: 'Galgo Español'
+    origin: Spain
+    fci: 'Group 10 Section 03 #285'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/ff/Galgo_espagnol_Hembra.jpg'
+    translations: { en: 'Galgo Español' }
+galician-cattle-dog:
+    name: 'Galician Cattle Dog'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0b/Palleiro1.JPG/200px-Palleiro1.JPG'
+    translations: { en: 'Galician Cattle Dog' }
+garafia-shepherd-dog:
+    name: 'Garafía Shepherd Dog'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/ce/Garafiano2.jpg'
+    translations: { en: 'Garafía Shepherd Dog' }
+gascon-saintongeois:
+    name: 'Gascon Saintongeois'
+    origin: France
+    fci: 'Group 06 Section 01 #21'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f3/Virelade_from_1915.JPG/200px-Virelade_from_1915.JPG'
+    translations: { en: 'Gascon Saintongeois' }
+georgian-shepherd-dog:
+    name: 'Georgian Shepherd Dog'
+    origin: Georgia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0d/Georgia_Shepherd.jpg'
+    translations: { en: 'Georgian Shepherd Dog' }
+german-longhaired-pointer:
+    name: 'German Longhaired Pointer'
+    origin: Germany
+    fci: ''
+    akc: FSS
+    ankc: FSS
+    ckc: 'Group 01 (Sporting)'
+    tkc: ''
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/ba/DeutschLanghaarneu.jpg'
+    translations: { en: 'German Longhaired Pointer' }
+german-pinscher:
+    name: 'German Pinscher'
+    origin: Germany
+    fci: 'Group 02 Section 01 #184'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 06 - Non-Sporting'
+    tkc: Working
+    nzkc: Utility
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5b/German_Pinscher.JPG/200px-German_Pinscher.JPG'
+    translations: { en: 'German Pinscher' }
+german-rough-haired-pointer:
+    name: 'German Rough-haired Pointer'
+    origin: Germany
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/08/03030288_Deutsch_Stichelhaa.jpg'
+    translations: { en: 'German Rough-haired Pointer' }
+german-shepherd-dog:
+    name: 'German Shepherd Dog'
+    origin: Germany
+    fci: 'Group 01 Section 01 #166'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4f/Berger_allemand_en_montagne.jpg'
+    translations: { en: 'German Shepherd Dog' }
+german-shorthaired-pointer:
+    name: 'German Shorthaired Pointer'
+    origin: Germany
+    fci: 'Group 07 Section 01 #119'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/38/Duitse_staande_korthaar_10-10-2.jpg'
+    translations: { en: 'German Shorthaired Pointer' }
+german-spaniel:
+    name: 'German Spaniel'
+    origin: Germany
+    fci: 'Group 08 Section 02 #104'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/1b/Deutscher_Wachtel_2.jpg'
+    translations: { en: 'German Spaniel' }
+german-spitz:
+    name: 'German Spitz'
+    origin: Germany
+    fci: 'Group 05 Section 04 #097'
+    akc: FSS
+    ankc: 'Group 07 (Non Sporting)'
+    ckc: ''
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4c/Spitz.jpg'
+    translations: { en: 'German Spitz' }
+german-wirehaired-pointer:
+    name: 'German Wirehaired Pointer'
+    origin: Germany
+    fci: 'Group 07 Section 01 #098'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2b/GermanWirehrPtr1_wb.jpg'
+    translations: { en: 'German Wirehaired Pointer' }
+giant-schnauzer:
+    name: 'Giant Schnauzer'
+    origin: Germany
+    fci: 'Group 02 Section 01 #181'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6a/GiantSchnauzer.jpg'
+    translations: { en: 'Giant Schnauzer' }
+glen-of-imaal-terrier:
+    name: 'Glen of Imaal Terrier'
+    origin: Ireland
+    fci: 'Group 03 Section 01 #302'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: ''
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/fe/Wheaten_glen_of_imaal.jpg'
+    translations: { en: 'Glen of Imaal Terrier' }
+golden-retriever:
+    name: 'Golden Retriever'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 08 Section 01 #111'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: 'Sporting Dog'
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/82/Golden_Retriever_standing_Tucker.jpg'
+    translations: { en: 'Golden Retriever' }
+gordon-setter:
+    name: 'Gordon Setter'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 07 Section 02 #006'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c0/Orrvilas_enska_w800px.jpg'
+    translations: { en: 'Gordon Setter' }
+gran-mastin-de-borinquen:
+    name: 'Gran Mastín de Borínquen'
+    origin: 'Puerto Rico'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Gran Mastín de Borínquen' }
+grand-anglo-francais-blanc-et-noir:
+    name: 'Grand Anglo-Français Blanc et Noir'
+    origin: France
+    fci: 'Group 06 Section 02 #323'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/53/Grand_anglo_francais_noir.jpg'
+    translations: { en: 'Grand Anglo-Français Blanc et Noir' }
+grand-anglo-francais-blanc-et-orange:
+    name: 'Grand Anglo-Français Blanc et Orange'
+    origin: France
+    fci: 'Group 06 Section 02 #324'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e7/06101298_Grand_anglo_francais_orange.jpg'
+    translations: { en: 'Grand Anglo-Français Blanc et Orange' }
+grand-anglo-francais-tricolore:
+    name: 'Grand Anglo-Français Tricolore'
+    origin: France
+    fci: 'Group 06 Section 02 #322'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/84/Grand_anglo_francais_tricol.jpg'
+    translations: { en: 'Grand Anglo-Français Tricolore' }
+grand-griffon-vendeen:
+    name: 'Grand Griffon Vendéen'
+    origin: France
+    fci: 'Group 06 Section 01 #282'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/99/Rosa_Bonheur_Grand_Griffon_Vendeen.jpg'
+    translations: { en: 'Grand Griffon Vendéen' }
+great-dane:
+    name: 'Great Dane'
+    origin: Germany
+    fci: 'Group 02 Section 02 #235'
+    akc: 'Working Group'
+    ankc: ''
+    ckc: ''
+    tkc: Working
+    nzkc: 'Non Sporting'
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/02/Kehleyr1.jpg'
+    translations: { en: 'Great Dane' }
+great-pyrenees:
+    name: 'Great Pyrenees'
+    origin: 'France, Spain'
+    fci: 'Group 02 Section 02 #137'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Pastoral
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/09/Pyreneittenkoira.jpg'
+    translations: { en: 'Great Pyrenees' }
+greater-swiss-mountain-dog:
+    name: 'Greater Swiss Mountain Dog'
+    origin: Switzerland
+    fci: 'Group 02 Section 03 #058'
+    akc: 'Working Group'
+    ankc: ''
+    ckc: Working
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e2/Du%C5%BCy_szwajcarski_pies_pasterski_72.jpg'
+    translations: { en: 'Greater Swiss Mountain Dog' }
+greek-harehound:
+    name: 'Greek Harehound'
+    origin: Greece
+    fci: 'Group 06 Section 1.2 #214'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Scenthound Group'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6c/Hellinikos_Ichnilatis.jpg'
+    translations: { en: 'Greek Harehound' }
+greenland-dog:
+    name: 'Greenland Dog'
+    origin: Greenland
+    fci: 'Group 05 Section 01 #274'
+    akc: ''
+    ankc: ''
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Working
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/16/Greenland_Dog.jpg'
+    translations: { en: 'Greenland Dog' }
+greyhound:
+    name: Greyhound
+    origin: 'United Kingdom, Middle East'
+    fci: 'Group 10 Section 03 #158'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ef/GraceTheGreyhound.jpg'
+    translations: { en: Greyhound }
+griffon-bleu-de-gascogne:
+    name: 'Griffon Bleu de Gascogne'
+    origin: France
+    fci: 'Group 06 Section 01 #032'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/15/04031124_Griffon_Bleu_de_Gascogne.jpg'
+    translations: { en: 'Griffon Bleu de Gascogne' }
+griffon-bruxellois:
+    name: 'Griffon Bruxellois'
+    origin: Belgium
+    fci: 'Group 09 Section 03 #080,081,082'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toy)'
+    ckc: 'Group 05(Toy)'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/08/Brussels_Griffon_Rembrant.png/200px-Brussels_Griffon_Rembrant.png'
+    translations: { en: 'Griffon Bruxellois' }
+griffon-fauve-de-bretagne:
+    name: 'Griffon Fauve de Bretagne'
+    origin: France
+    fci: 'Group 06 Section 01 #066'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/81/08115500_Griffon_Fauve_Bretagne.jpg'
+    translations: { en: 'Griffon Fauve de Bretagne' }
+griffon-nivernais:
+    name: 'Griffon Nivernais'
+    origin: France
+    fci: 'Group 06 Section 01 #017'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/75/Griffon_nivernais.jpg'
+    translations: { en: 'Griffon Nivernais' }
+guatemalan-dogo:
+    name: 'Guatemalan Dogo'
+    origin: Guatemala
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2a/Dogo1.jpg'
+    translations: { en: 'Guatemalan Dogo' }
+gull-terrier:
+    name: 'Gull Terrier'
+    origin: Pakistan
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/65/Gull_terr_in_india_owned_by_Sahil_thakur_2014-05-29_17-44.jpeg/200px-Gull_terr_in_india_owned_by_Sahil_thakur_2014-05-29_17-44.jpeg'
+    translations: { en: 'Gull Terrier' }
+hamiltonstoevare:
+    name: Hamiltonstövare
+    origin: Sweden
+    fci: 'Group 06 Section 01 #132'
+    akc: ''
+    ankc: 'Group 04 (Hounds)'
+    ckc: ''
+    tkc: Hound
+    nzkc: Hound
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/52/Hamiltonstovare_600.jpg'
+    translations: { en: Hamiltonstövare }
+hanover-hound:
+    name: 'Hanover Hound'
+    origin: Germany
+    fci: 'Group 06 Section 02 #213'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/76/Hannoverscher_Schweisshund.jpg'
+    translations: { en: 'Hanover Hound' }
+hare-indian-dog:
+    name: 'Hare Indian Dog'
+    origin: 'Canada, United States'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/ba/Hareindiandog.jpg'
+    translations: { en: 'Hare Indian Dog' }
+harrier:
+    name: Harrier
+    origin: 'United Kingdom'
+    fci: 'Group 06 Section 01 #295'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 (Hounds)'
+    tkc: ''
+    nzkc: Hound
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/cc/Harrier_tricolour.jpg'
+    translations: { en: Harrier }
+havanese:
+    name: Havanese
+    origin: 'Western Mediterranean Region'
+    fci: 'Group 09 Section 01 #250'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05 — Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/13/Havanese_cd1.jpg'
+    translations: { en: Havanese }
+hawaiian-poi-dog:
+    name: 'Hawaiian Poi Dog'
+    origin: 'United States'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/59/Hawaiian_dog%2C_19th_century.png/200px-Hawaiian_dog%2C_19th_century.png'
+    translations: { en: 'Hawaiian Poi Dog' }
+himalayan-sheepdog:
+    name: 'Himalayan Sheepdog'
+    origin: Nepal
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4a/Jackie_Himalayan_Shephard.jpg'
+    translations: { en: 'Himalayan Sheepdog' }
+hokkaido-ken:
+    name: 'Hokkaido Ken'
+    origin: Japan
+    fci: 'Group 05 Section 05 #261'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/8e/Hokkaidou_inu.jpg'
+    translations: { en: 'Hokkaido Ken' }
+hortaya-borzaya:
+    name: 'Hortaya Borzaya'
+    origin: 'Ukraine, Southern Russia, Belarus'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/fe/Hortaya_Borzaya.jpg'
+    translations: { en: 'Hortaya Borzaya' }
+hovawart:
+    name: Hovawart
+    origin: Germany
+    fci: 'Group 02 Section 02 #190'
+    akc: FSS
+    ankc: FSS
+    ckc: 'Group 02 - Working'
+    tkc: Working
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b9/Hovawart_black_and_tan.jpg'
+    translations: { en: Hovawart }
+huntaway:
+    name: Huntaway
+    origin: 'New Zealand'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/52/Huntaway.JPG/200px-Huntaway.JPG'
+    translations: { en: Huntaway }
+hygenhund:
+    name: Hygenhund
+    origin: Norway
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d6/Norwegian_Hygenhound.jpg'
+    translations: { en: Hygenhund }
+ibizan-hound:
+    name: 'Ibizan Hound'
+    origin: Spain
+    fci: 'Group 05 Section 07 #089'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ef/Podenco_z_ibizy_645.jpg'
+    translations: { en: 'Ibizan Hound' }
+icelandic-sheepdog:
+    name: 'Icelandic Sheepdog'
+    origin: Iceland
+    fci: 'Group 05 Section 03 #289'
+    akc: 'Herding Group'
+    ankc: ''
+    ckc: 'Group 07 - Herding'
+    tkc: ''
+    nzkc: Working
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/44/Ulfur.jpg'
+    translations: { en: 'Icelandic Sheepdog' }
+indian-pariah-dog:
+    name: 'Indian pariah dog'
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/01/The_Indian_Pariah_Dog.jpg'
+    translations: { en: 'Indian pariah dog' }
+indian-spitz:
+    name: 'Indian Spitz'
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f5/Indian_spitz.jpg'
+    translations: { en: 'Indian Spitz' }
+irish-red-and-white-setter:
+    name: 'Irish Red and White Setter'
+    origin: Ireland
+    fci: 'Group 07 Section 02 #330'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/04/Irish_Red_And_White_Setter_2005.jpg'
+    translations: { en: 'Irish Red and White Setter' }
+irish-setter:
+    name: 'Irish Setter'
+    origin: Ireland
+    fci: 'Group 07 Section 02 #120'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2e/Can_Setter_dog_GFDL.jpg'
+    translations: { en: 'Irish Setter' }
+irish-terrier:
+    name: 'Irish Terrier'
+    origin: Ireland
+    fci: 'Group 03 Section 01 #139'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terrier'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e8/Irish-terrier.jpg'
+    translations: { en: 'Irish Terrier' }
+irish-water-spaniel:
+    name: 'Irish Water Spaniel'
+    origin: Ireland
+    fci: 'Group 08 Section 03 #124'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/67/Irlandzki_spaniel_wodny_676.jpg'
+    translations: { en: 'Irish Water Spaniel' }
+irish-wolfhound:
+    name: 'Irish Wolfhound'
+    origin: Ireland
+    fci: 'Group 10 Section 02 #160'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hound)'
+    ckc: 'Group 02 (Hound)'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6e/Irish_Wolfhound_Sam.jpg'
+    translations: { en: 'Irish Wolfhound' }
+istrian-coarse-haired-hound:
+    name: 'Istrian Coarse-haired Hound'
+    origin: Croatia
+    fci: 'Group 06 Section 01 #152'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/50/Istrian_hound2.jpg'
+    translations: { en: 'Istrian Coarse-haired Hound' }
+istrian-shorthaired-hound:
+    name: 'Istrian Shorthaired Hound'
+    origin: Croatia
+    fci: 'Group 06 Section 01 #151'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/12/Istrische_Bracke.jpg'
+    translations: { en: 'Istrian Shorthaired Hound' }
+italian-greyhound:
+    name: 'Italian Greyhound'
+    origin: Italy
+    fci: 'Group 10 Section 03 #200'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05 - Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5f/Italian_Greyhound_standing_gray.jpg'
+    translations: { en: 'Italian Greyhound' }
+jack-russell-terrier:
+    name: 'Jack Russell Terrier'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 02 #345'
+    akc: ''
+    ankc: 'Group 2 (Terriers)'
+    ckc: ''
+    tkc: ''
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/cd/Jrt02.jpg'
+    translations: { en: 'Jack Russell Terrier' }
+jagdterrier:
+    name: Jagdterrier
+    origin: Germany
+    fci: 'Group 03 Section 01 #103'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/42/Jagdterrier.jpg'
+    translations: { en: Jagdterrier }
+jaemthund:
+    name: Jämthund
+    origin: Sweden
+    fci: 'Group 05 Section 02 #042'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/55/J%C3%A4mthund.jpg'
+    translations: { en: Jämthund }
+japanese-chin:
+    name: 'Japanese Chin'
+    origin: Japan
+    fci: 'Group 09 Section 08 #206'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05 (Toys)'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c6/Czin_japo%C5%84ski_554.jpg'
+    translations: { en: 'Japanese Chin' }
+japanese-spitz:
+    name: 'Japanese Spitz'
+    origin: Japan
+    fci: 'Group 05 Section 05 #262'
+    akc: ''
+    ankc: '7 (Non-Sporting)'
+    ckc: 'VI, Non-Sporting'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d2/Japspitzpup.jpg'
+    translations: { en: 'Japanese Spitz' }
+japanese-terrier:
+    name: 'Japanese Terrier'
+    origin: Japan
+    fci: 'Group 03 Section 02 #259'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Japanese Terrier' }
+kaikadi:
+    name: Kaikadi
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: Kaikadi }
+kai-ken:
+    name: 'Kai Ken'
+    origin: Japan
+    fci: 'Group 05 Section 05 #317'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ef/Kai.jpg'
+    translations: { en: 'Kai Ken' }
+kangal-dog:
+    name: 'Kangal Dog'
+    origin: Turkey
+    fci: ''
+    akc: ''
+    ankc: 'Group 06 (Utility)'
+    ckc: ''
+    tkc: Pastoral
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/51/Varish.jpg'
+    translations: { en: 'Kangal Dog' }
+kanni:
+    name: Kanni
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/11/Kanni.png/200px-Kanni.png'
+    translations: { en: Kanni }
+karakachan-dog:
+    name: 'Karakachan Dog'
+    origin: Bulgaria
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/df/Karakatschan.jpg'
+    translations: { en: 'Karakachan Dog' }
+karelian-bear-dog:
+    name: 'Karelian Bear Dog'
+    origin: Finland
+    fci: 'Group 05 Section 02 #048'
+    akc: FSS
+    ankc: ''
+    ckc: 'Group 03 - Working Dogs'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e1/Karelski_pies_na_nied%C5%BAwiedzie_123.jpg'
+    translations: { en: 'Karelian Bear Dog' }
+karst-shepherd:
+    name: 'Karst Shepherd'
+    origin: Slovenia
+    fci: 'Group 02 Section 02 #278'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/44/Owczarek_kraski_654.jpg'
+    translations: { en: 'Karst Shepherd' }
+keeshond:
+    name: Keeshond
+    origin: 'Netherlands, Germany'
+    fci: 'Group 05 Section 04 #097'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 07 (Non-sporting)'
+    ckc: 'Group 06 (Non-sporting)'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/26/Keeshond_Majic_standing_cropped.jpg'
+    translations: { en: Keeshond }
+kerry-beagle:
+    name: 'Kerry Beagle'
+    origin: Ireland
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/75/Kerry_Beagle_from_1915.JPG/200px-Kerry_Beagle_from_1915.JPG'
+    translations: { en: 'Kerry Beagle' }
+kerry-blue-terrier:
+    name: 'Kerry Blue Terrier'
+    origin: Ireland
+    fci: 'Group 03 Section 01 #003'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0e/Kerry_blue_terier_545.jpg'
+    translations: { en: 'Kerry Blue Terrier' }
+king-charles-spaniel:
+    name: 'King Charles Spaniel'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 09 Section 07 #128'
+    akc: 'Toy Group'
+    ankc: 'Group 01 Toys'
+    ckc: 'Group 05 - Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/bc/King_Charles_Spaniel_200.jpg'
+    translations: { en: 'King Charles Spaniel' }
+king-shepherd:
+    name: 'King Shepherd'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/1f/SabreKingShepherd.JPG/200px-SabreKingShepherd.JPG'
+    translations: { en: 'King Shepherd' }
+kintamani:
+    name: Kintamani
+    origin: Indonesia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/96/Kintamani_dog_black.jpg'
+    translations: { en: Kintamani }
+kishu-ken:
+    name: 'Kishu Ken'
+    origin: Japan
+    fci: 'Group 05 Section 05 #318'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2d/Kishu.jpg'
+    translations: { en: 'Kishu Ken' }
+komondor:
+    name: Komondor
+    origin: Hungary
+    fci: 'Group 01 Section 01 #053'
+    akc: 'Working Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/8b/Komondor_delvin.jpg'
+    translations: { en: Komondor }
+kooikerhondje:
+    name: Kooikerhondje
+    origin: Netherlands
+    fci: 'Group 08 Section 02 #314'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: Gundog
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f0/Kooiker03.jpg'
+    translations: { en: Kooikerhondje }
+koolie:
+    name: Koolie
+    origin: Australia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ef/Pete_may01_web.JPG/200px-Pete_may01_web.JPG'
+    translations: { en: Koolie }
+korean-jindo-dog:
+    name: 'Korean Jindo Dog'
+    origin: 'Korea (South)'
+    fci: 'Group 05 Section 05 #334'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breeds'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ea/Korean_Jindo_Dog.jpg'
+    translations: { en: 'Korean Jindo Dog' }
+kromfohrlaender:
+    name: Kromfohrländer
+    origin: Germany
+    fci: 'Group 09 Section 10 #192'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/88/Kromfohrlaender_glatt.jpg'
+    translations: { en: Kromfohrländer }
+kumaon-mastiff:
+    name: 'Kumaon Mastiff'
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Kumaon Mastiff' }
+kunming-wolfdog:
+    name: 'Kunming Wolfdog'
+    origin: China
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/30/Kunming_Dog.jpg'
+    translations: { en: 'Kunming Wolfdog' }
+kuri:
+    name: Kurī
+    origin: 'New Zealand'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b8/ChiefsWithKuri1828.jpg'
+    translations: { en: Kurī }
+kuvasz:
+    name: Kuvasz
+    origin: Hungary
+    fci: 'Group 01 Section 01 #054'
+    akc: 'Working Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6d/Kuvasz_Prince_Juninho_Poster.jpg'
+    translations: { en: Kuvasz }
+kyi-leo:
+    name: Kyi-Leo
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/00/KyiLeoGus.jpg'
+    translations: { en: Kyi-Leo }
+labrador-husky:
+    name: 'Labrador Husky'
+    origin: Canada
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/43/Labrador_huskies.JPG/200px-Labrador_huskies.JPG'
+    translations: { en: 'Labrador Husky' }
+labrador-retriever:
+    name: 'Labrador Retriever'
+    origin: 'Canada, United Kingdom (England)'
+    fci: 'Group 08 Section 01 #122'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gun dogs)'
+    ckc: 'Group 01 — Sporting Dogs'
+    tkc: 'Gun dog'
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/26/YellowLabradorLooking_new.jpg'
+    translations: { en: 'Labrador Retriever' }
+lagotto-romagnolo:
+    name: 'Lagotto Romagnolo'
+    origin: Italy
+    fci: 'Group 08 Section 03 #298'
+    akc: 'FSS (Miscellaneous)'
+    ankc: ''
+    ckc: 'Group 03 Gundogs'
+    tkc: Gundogs
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/9f/Lagotto_Romagnolo.jpg'
+    translations: { en: 'Lagotto Romagnolo' }
+lakeland-terrier:
+    name: 'Lakeland Terrier'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 01 #070'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terrier'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/78/Lakeland_Terrier.jpg'
+    translations: { en: 'Lakeland Terrier' }
+lancashire-heeler:
+    name: 'Lancashire Heeler'
+    origin: 'United Kingdom (England)'
+    fci: ''
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: Pastoral
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/45/Lancashire_Heeler_600.jpg'
+    translations: { en: 'Lancashire Heeler' }
+landseer:
+    name: Landseer
+    origin: Canada
+    fci: 'Group 02 Section 02 #226'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/04/Landseer.jpg'
+    translations: { en: Landseer }
+lapponian-herder:
+    name: 'Lapponian Herder'
+    origin: Finland
+    fci: 'Group 05 Section 03 #284'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d3/Lapskvallhund.jpg'
+    translations: { en: 'Lapponian Herder' }
+leonberger:
+    name: Leonberger
+    origin: Germany
+    fci: 'Group 02 Section 02 #145'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Working Dogs'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d9/Leonberg-Male-Adulte-Ursus.jpg'
+    translations: { en: Leonberger }
+lhasa-apso:
+    name: 'Lhasa Apso'
+    origin: Tibet
+    fci: 'Group 09 Section 05 #227'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 07 (Non-Sporting)'
+    ckc: 'Group 06 - Non-sporting Dogs'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/87/Aishia.jpg'
+    translations: { en: 'Lhasa Apso' }
+lithuanian-hound:
+    name: 'Lithuanian Hound'
+    origin: Lithuania
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Lithuanian Hound' }
+longhaired-whippet:
+    name: 'Longhaired Whippet'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/22/Whippet_d%C5%82ugow%C5%82osy_pies_MB_01.jpg'
+    translations: { en: 'Longhaired Whippet' }
+loewchen:
+    name: Löwchen
+    origin: 'Germany, France, Netherlands, Spain'
+    fci: 'Group 09 Section 01 #233'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 01(Toys)'
+    ckc: 'Group 06 (Non-Sporting)'
+    tkc: Toys
+    nzkc: Toys
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5c/Lowchen.jpg'
+    translations: { en: Löwchen }
+magyar-agar:
+    name: 'Magyar Agár'
+    origin: 'Hungary, Transylvania'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/56/Magyar_ag%C3%A1r_male.jpg'
+    translations: { en: 'Magyar Agár' }
+mahratta-greyhound:
+    name: 'Mahratta Greyhound'
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Mahratta Greyhound' }
+majorca-shepherd-dog:
+    name: 'Majorca Shepherd Dog'
+    origin: Spain
+    fci: 'Group 01 Section 01 #321'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/80/Ca_de_bestiar.jpg'
+    translations: { en: 'Majorca Shepherd Dog' }
+maltese:
+    name: Maltese
+    origin: Italy
+    fci: 'Group 09 Section 01 #065'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05 - Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/94/Maltese_600.jpg'
+    translations: { en: Maltese }
+manchester-terrier:
+    name: 'Manchester Terrier'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 01 #071'
+    akc: 'Terrier Group, Toy Group'
+    ankc: ''
+    ckc: ''
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/62/Mancherster_Terrier.jpg'
+    translations: { en: 'Manchester Terrier' }
+maremma-sheepdog:
+    name: 'Maremma Sheepdog'
+    origin: Italy
+    fci: 'Group 01 Section 01 #201'
+    akc: ''
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: ''
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/82/Cane_Pastore_Abruzzese_Abruzzo.jpg'
+    translations: { en: 'Maremma Sheepdog' }
+mcnab:
+    name: McNab
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/dc/McNab_%28dog%29.jpg'
+    translations: { en: McNab }
+mexican-hairless-dog:
+    name: 'Mexican Hairless Dog'
+    origin: Mexico
+    fci: 'Group 05 Section 06 #234'
+    akc: 'Non-Sporting Group'
+    ankc: ''
+    ckc: 'Toys/Non Sporting'
+    tkc: Utility
+    nzkc: ''
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c2/Mexico.Xoloitzcuintle.01.jpg'
+    translations: { en: 'Mexican Hairless Dog' }
+miniature-australian-shepherd:
+    name: 'Miniature Australian Shepherd'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c7/Miniature_Australian_Shepherd_red_tricolour.jpg'
+    translations: { en: 'Miniature Australian Shepherd' }
+miniature-american-shepherd:
+    name: 'Miniature American Shepherd'
+    origin: 'United States'
+    fci: ''
+    akc: 'FSS (Miscellaneous)'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: ''
+    translations: { en: 'Miniature American Shepherd' }
+miniature-fox-terrier:
+    name: 'Miniature Fox Terrier'
+    origin: Australia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/38/Miniature_Fox_Terrier.jpg'
+    translations: { en: 'Miniature Fox Terrier' }
+miniature-pinscher:
+    name: 'Miniature Pinscher'
+    origin: Germany
+    fci: 'Group 02 Section 01 #185'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05 - Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/11/Gotti.JPG/200px-Gotti.JPG'
+    translations: { en: 'Miniature Pinscher' }
+miniature-schnauzer:
+    name: 'Miniature Schnauzer'
+    origin: Germany
+    fci: 'Group 02 Section 01 #183'
+    akc: 'Terrier Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Utility
+    nzkc: Utility
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/dd/Miniature_Schnauzer_02.jpg'
+    translations: { en: 'Miniature Schnauzer' }
+miniature-shar-pei:
+    name: 'Miniature Shar Pei'
+    origin: China
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0b/XBlack.JPG/200px-XBlack.JPG'
+    translations: { en: 'Miniature Shar Pei' }
+mioritic:
+    name: Mioritic
+    origin: Romania
+    fci: 'Group 01 Section 01 #349 Provisional'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e4/Mioritic.jpg'
+    translations: { en: Mioritic }
+molossus:
+    name: Molossus
+    origin: Greece
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/bf/Molossian_Hound%2C_British_Museum.jpg'
+    translations: { en: Molossus }
+montenegrin-mountain-hound:
+    name: 'Montenegrin Mountain Hound'
+    origin: Montenegro
+    fci: 'Group 06 Section 01 #279'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Montenegrin Mountain Hound' }
+moscow-watchdog:
+    name: 'Moscow Watchdog'
+    origin: Russia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2b/Moscowwatchdog.jpg'
+    translations: { en: 'Moscow Watchdog' }
+moscow-water-dog:
+    name: 'Moscow Water Dog'
+    origin: Russia
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: ''
+    translations: { en: 'Moscow Water Dog' }
+mountain-cur:
+    name: 'Mountain Cur'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a7/MountainCur.jpg'
+    translations: { en: 'Mountain Cur' }
+mucuchies:
+    name: Mucuchies
+    origin: Venezuela
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f6/Mucuchies_natural_habitat.jpg'
+    translations: { en: Mucuchies }
+mudhol-hound:
+    name: 'Mudhol Hound'
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2b/Caravan_hound_Closeupfire.jpg'
+    translations: { en: 'Mudhol Hound' }
+mudi:
+    name: Mudi
+    origin: Hungary
+    fci: 'Group 01 Section 01 #238'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c4/Hondenras_Mudi.jpg'
+    translations: { en: Mudi }
+muensterlaender-large:
+    name: 'Münsterländer, Large'
+    origin: Germany
+    fci: 'Group 07 Section 01 #118'
+    akc: ''
+    ankc: 'Group 03 (Gundogs)'
+    ckc: ''
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/61/GrosserMuensterlaender.jpg'
+    translations: { en: 'Münsterländer, Large' }
+muensterlaender-small:
+    name: 'Münsterländer, Small'
+    origin: Germany
+    fci: 'Group 07 Section 01 #102'
+    akc: FSS
+    ankc: ''
+    ckc: Miscellaneous
+    tkc: Gundog
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6a/Kleiner_Munsterlander_edit.jpg'
+    translations: { en: 'Münsterländer, Small' }
+neapolitan-mastiff:
+    name: 'Neapolitan Mastiff'
+    origin: Italy
+    fci: 'Group 02 Section 02 #197'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: Miscellaneous
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/bb/Cannon_-_Male_Neapolitan_Mastiff_1998.jpeg/200px-Cannon_-_Male_Neapolitan_Mastiff_1998.jpeg'
+    translations: { en: 'Neapolitan Mastiff' }
+newfoundland:
+    name: Newfoundland
+    origin: Canada
+    fci: 'Group 02 Section 02 #050'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/31/Bear-Sparkle_fx.jpg'
+    translations: { en: Newfoundland }
+new-zealand-heading-dog:
+    name: 'New Zealand Heading Dog'
+    origin: 'New Zealand'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'New Zealand Heading Dog' }
+norfolk-spaniel:
+    name: 'Norfolk Spaniel'
+    origin: 'United Kingdom'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/cc/Dash-II-Norfolk-Spaniel.jpg'
+    translations: { en: 'Norfolk Spaniel' }
+norfolk-terrier:
+    name: 'Norfolk Terrier'
+    origin: 'United Kingdom'
+    fci: 'Group 03 Section 02 #272'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 Terriers'
+    ckc: Terrier
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/11/Norfolk_show.jpg'
+    translations: { en: 'Norfolk Terrier' }
+norrbottenspets:
+    name: Norrbottenspets
+    origin: Sweden
+    fci: 'Group 05 Section 02 #276'
+    akc: 'FSS (Miscellaneous)'
+    ankc: ''
+    ckc: 'Group 02 - Hounds'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2d/Nordic_Spitz.jpg'
+    translations: { en: Norrbottenspets }
+north-country-beagle:
+    name: 'North Country Beagle'
+    origin: 'United Kingdom'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: ''
+    translations: { en: 'North Country Beagle' }
+northern-inuit-dog:
+    name: 'Northern Inuit Dog'
+    origin: 'United Kingdom (England)'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Northern Inuit Dog' }
+norwegian-buhund:
+    name: 'Norwegian Buhund'
+    origin: Norway
+    fci: 'Group 05 Section 03 #237'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working Dogs)'
+    ckc: 'Group 07 - Herding'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/3b/Norwegian_Buhund_600.jpg'
+    translations: { en: 'Norwegian Buhund' }
+norwegian-elkhound:
+    name: 'Norwegian Elkhound'
+    origin: Norway
+    fci: 'Group 05 Section 02 #242'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d4/Norwegian_Elkhound.jpg'
+    translations: { en: 'Norwegian Elkhound' }
+norwegian-lundehund:
+    name: 'Norwegian Lundehund'
+    origin: Norway
+    fci: 'Group 05 Section 02 #265'
+    akc: 'Non-Sporting Group'
+    ankc: ''
+    ckc: 'Group 02 - Hounds'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/10/Lundehund-2003.jpg'
+    translations: { en: 'Norwegian Lundehund' }
+norwich-terrier:
+    name: 'Norwich Terrier'
+    origin: 'United Kingdom'
+    fci: 'Group 03 Section 02 #072'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: 'Group 04 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/db/Norwichterrier.jpg'
+    translations: { en: 'Norwich Terrier' }
+nova-scotia-duck-tolling-retriever:
+    name: 'Nova Scotia Duck-Tolling Retriever'
+    origin: Canada
+    fci: 'Group 08 Section 01 #312'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/70/Tollers.jpg'
+    translations: { en: 'Nova Scotia Duck-Tolling Retriever' }
+old-croatian-sighthound:
+    name: 'Old Croatian Sighthound'
+    origin: Croatia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Old Croatian Sighthound' }
+old-danish-pointer:
+    name: 'Old Danish Pointer'
+    origin: Denmark
+    fci: 'Group 07 Section 01 #281'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/15/Wy%C5%BCe%C5%82_du%C5%84ski_123.jpg'
+    translations: { en: 'Old Danish Pointer' }
+old-english-sheepdog:
+    name: 'Old English Sheepdog'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 01 Section 01 #016'
+    akc: 'Herding Group'
+    ankc: 'Working Group'
+    ckc: 'Group 07 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c8/Old_english_sheepdog_Ch_Bobbyclown%27s_Dare_for_More.jpg'
+    translations: { en: 'Old English Sheepdog' }
+old-english-terrier:
+    name: 'Old English Terrier'
+    origin: 'United Kingdom (England)'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0f/Old_english_terrier_041.jpg'
+    translations: { en: 'Old English Terrier' }
+old-german-shepherd-dog:
+    name: 'Old German Shepherd Dog'
+    origin: Germany
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/3d/Altdeutscher_Schaeferhund_cropped.jpg'
+    translations: { en: 'Old German Shepherd Dog' }
+old-time-farm-shepherd:
+    name: 'Old Time Farm Shepherd'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e2/Sable_and_White_Female_OTFS_Dog.JPG/200px-Sable_and_White_Female_OTFS_Dog.JPG'
+    translations: { en: 'Old Time Farm Shepherd' }
+olde-english-bulldogge:
+    name: 'Olde English Bulldogge'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Guardian
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/17/UKC_Olde_English_Bulldogge_Male.jpg'
+    translations: { en: 'Olde English Bulldogge' }
+otterhound:
+    name: Otterhound
+    origin: 'United Kingdom (England)'
+    fci: 'Group 06 Section 02 #294'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5f/Two_otterhounds.jpg'
+    translations: { en: Otterhound }
+pachon-navarro:
+    name: 'Pachon Navarro'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Pachon Navarro' }
+pandikona:
+    name: Pandikona
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: Pandikona }
+paisley-terrier:
+    name: 'Paisley Terrier'
+    origin: 'United Kingdom (Scotland)'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/38/Paisley1903.jpg'
+    translations: { en: 'Paisley Terrier' }
+papillon:
+    name: Papillon
+    origin: 'Spain, Belgium, France'
+    fci: 'Group 09 Section 09 #077'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 02- Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f7/RileyPapillon.JPG/200px-RileyPapillon.JPG'
+    translations: { en: Papillon }
+parson-russell-terrier:
+    name: 'Parson Russell Terrier'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 01 #339'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terrier)'
+    ckc: Terrier
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/fe/05052881_PRT_braun_rau.jpg'
+    translations: { en: 'Parson Russell Terrier' }
+patterdale-terrier:
+    name: 'Patterdale Terrier'
+    origin: 'United Kingdom (England)'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/60/Truf2.JPG/200px-Truf2.JPG'
+    translations: { en: 'Patterdale Terrier' }
+pekingese:
+    name: Pekingese
+    origin: China
+    fci: 'Group 09 Section 08 #207'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05- Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ed/Pekingese1904.jpg'
+    translations: { en: Pekingese }
+perro-de-presa-canario:
+    name: 'Perro de Presa Canario'
+    origin: Spain
+    fci: 'Group 02 Section 02 #346'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/cb/Dogo_Canario.jpg'
+    translations: { en: 'Perro de Presa Canario' }
+perro-de-presa-mallorquin:
+    name: 'Perro de Presa Mallorquin'
+    origin: Spain
+    fci: 'Group 02 Section 02 #249'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/54/Ca_de_bou_dog.jpg'
+    translations: { en: 'Perro de Presa Mallorquin' }
+perro-fino-colombiano:
+    name: 'Perro fino Colombiano'
+    origin: Colombia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'scenthount Dog'
+    image: ''
+    translations: { en: 'Perro fino Colombiano' }
+peruvian-hairless-dog:
+    name: 'Peruvian Hairless Dog'
+    origin: Peru
+    fci: 'Group 05 Section 06 #310'
+    akc: 'FSS (Miscellaneous)'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: 'Non Sporting'
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/81/PHDStandardStanding_-_Perro_Sin_Pelo_del_Per%C3%BA.jpg'
+    translations: { en: 'Peruvian Hairless Dog' }
+phalene:
+    name: Phalène
+    origin: 'Belgium, Spain'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/87/Spaniel_miniaturowy_kontynentalny_phalene_00.jpg'
+    translations: { en: Phalène }
+pharaoh-hound:
+    name: 'Pharaoh Hound'
+    origin: Malta
+    fci: 'Group 05 Section 06 #248'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/51/Pies_faraona_e34.jpg'
+    translations: { en: 'Pharaoh Hound' }
+phu-quoc-ridgeback-dog:
+    name: 'Phu Quoc ridgeback dog'
+    origin: Vietnam
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f5/Phu_Quoc_dog.jpg'
+    translations: { en: 'Phu Quoc ridgeback dog' }
+picardy-spaniel:
+    name: 'Picardy Spaniel'
+    origin: France
+    fci: 'Group 07 Section 01 #108'
+    akc: ''
+    ankc: ''
+    ckc: Miscellaneous
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/cd/Epagneul_picard_685.jpg'
+    translations: { en: 'Picardy Spaniel' }
+plott-hound:
+    name: 'Plott Hound'
+    origin: 'United States'
+    fci: ''
+    akc: 'Hound Group'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/1d/Plotthound.jpg'
+    translations: { en: 'Plott Hound' }
+podenco-canario:
+    name: 'Podenco Canario'
+    origin: Spain
+    fci: 'Group 05 Section 07 #329'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a9/Podenco_canario_hembra.jpg'
+    translations: { en: 'Podenco Canario' }
+pointer:
+    name: Pointer
+    origin: 'United Kingdom (England)'
+    fci: 'Group 07 Section 02 #001'
+    akc: 'Sporting Group'
+    ankc: 'Group 03 (Gundogs)'
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c5/English_pointer.jpg'
+    translations: { en: Pointer }
+poitevin:
+    name: Poitevin
+    origin: France
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: Poitevin }
+polish-greyhound:
+    name: 'Polish Greyhound'
+    origin: Poland
+    fci: 'Group 10 Section 03 #333'
+    akc: ''
+    ankc: ''
+    ckc: Miscellaneous
+    tkc: ''
+    nzkc: ''
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/17/Chart_polski_67u7.jpg'
+    translations: { en: 'Polish Greyhound' }
+polish-hound:
+    name: 'Polish Hound'
+    origin: Poland
+    fci: 'Group 06 Section 01 #052'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ed/PolishHound-MlChPl-OKSANA-ZOstregoBoru-wl.JoannaZembrzuska_3.JPG/200px-PolishHound-MlChPl-OKSANA-ZOstregoBoru-wl.JoannaZembrzuska_3.JPG'
+    translations: { en: 'Polish Hound' }
+polish-hunting-dog:
+    name: 'Polish Hunting Dog'
+    origin: Poland
+    fci: 'Group 06 Section 01 #354 Provisional'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/fb/PolishScenthound-%22NUTKA_Klusujaca_Sfora_wl_A.Balcerzak.jpg'
+    translations: { en: 'Polish Hunting Dog' }
+polish-lowland-sheepdog:
+    name: 'Polish Lowland Sheepdog'
+    origin: Poland
+    fci: 'Group 01 Section 01 #251'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working)'
+    ckc: 'Group 07 - Herding'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/22/Polski_owczarek_nizinny_rybnik-kamien_pl.jpg'
+    translations: { en: 'Polish Lowland Sheepdog' }
+polish-tatra-sheepdog:
+    name: 'Polish Tatra Sheepdog'
+    origin: Poland
+    fci: 'Group 01 Section 01 #252'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/87/Polski_Owczarek_Podhalanski.jpg'
+    translations: { en: 'Polish Tatra Sheepdog' }
+pomeranian:
+    name: Pomeranian
+    origin: 'Germany, Poland'
+    fci: 'Group 05 Section 04 #097'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05- Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6a/Pomeranian_600.jpg'
+    translations: { en: Pomeranian }
+pont-audemer-spaniel:
+    name: 'Pont-Audemer Spaniel'
+    origin: France
+    fci: 'Group 07 Section 01 #114'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a8/04031158_Epagneul_Pont_Audemer.jpg'
+    translations: { en: 'Pont-Audemer Spaniel' }
+poodle:
+    name: Poodle
+    origin: 'Germany, France'
+    fci: 'Group 09 Section 02 #172'
+    akc: 'Non-Sporting Group, Toy Group'
+    ankc: 'Group 07 (Non-Sporting)'
+    ckc: 'Group 06 - Non-Sporting, Group 05 - Toys'
+    tkc: Utility
+    nzkc: Utility
+    ukc: 'Companion Dog, Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f3/Silver_Miniature_Poodle_stacked.jpg'
+    translations: { en: Poodle }
+porcelaine:
+    name: Porcelaine
+    origin: France
+    fci: 'Group 06 Section 01 #030'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/08/Porcelaine.jpg'
+    translations: { en: Porcelaine }
+portuguese-podengo:
+    name: 'Portuguese Podengo'
+    origin: Portugal
+    fci: 'Group 05 Section 07 #094'
+    akc: 'Hound, FSS (Miscellaneous)'
+    ankc: ''
+    ckc: ''
+    tkc: Hound
+    nzkc: ''
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c6/Evitarocks.jpg'
+    translations: { en: 'Portuguese Podengo' }
+portuguese-pointer:
+    name: 'Portuguese Pointer'
+    origin: Portugal
+    fci: 'Group 07 Section 01 #187'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/3b/Portuguese_pointer_11yo.jpg'
+    translations: { en: 'Portuguese Pointer' }
+portuguese-water-dog:
+    name: 'Portuguese Water Dog'
+    origin: Portugal
+    fci: 'Group 08 Section 03 #037'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working dogs'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/09/C%C3%A3o_de_agua_Portugu%C3%AAs_2.jpg'
+    translations: { en: 'Portuguese Water Dog' }
+posavac-hound:
+    name: 'Posavac Hound'
+    origin: Croatia
+    fci: 'Group 06 Section 01 #154'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a9/Posavac.jpg'
+    translations: { en: 'Posavac Hound' }
+prazsky-krysarik:
+    name: 'Pražský Krysařík'
+    origin: 'Czech Republic'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/3d/Prazsky_krysarik_1.jpg'
+    translations: { en: 'Pražský Krysařík' }
+pudelpointer:
+    name: Pudelpointer
+    origin: Germany
+    fci: 'Group 07 Section 01 #216'
+    akc: ''
+    ankc: ''
+    ckc: 'Group 01 - Sporting Dogs'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/05/Pudelpointer_on_point.jpg'
+    translations: { en: Pudelpointer }
+pug:
+    name: Pug
+    origin: China
+    fci: 'Group 09 Section 11 #253'
+    akc: 'Toy Group'
+    ankc: 'Group 01 (Toys)'
+    ckc: 'Group 05- Toys'
+    tkc: Toy
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c1/Fawn_pug_2.5year-old.JPG/200px-Fawn_pug_2.5year-old.JPG'
+    translations: { en: Pug }
+puli:
+    name: Puli
+    origin: Hungary
+    fci: 'Group 01 Section 01 #055'
+    akc: 'Herding Group'
+    ankc: 'Group 05 (Working)'
+    ckc: 'Group 07 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/ab/PuliBlack_wb.jpg'
+    translations: { en: Puli }
+pumi:
+    name: Pumi
+    origin: Hungary
+    fci: 'Group 01 Section 01 #056'
+    akc: 'FSS (Miscellaneous)'
+    ankc: 'Group 05 (Working)'
+    ckc: ''
+    tkc: ''
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/67/Pumi_2.jpg'
+    translations: { en: Pumi }
+pungsan-dog:
+    name: 'Pungsan Dog'
+    origin: 'Korea (North)'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/47/Poongsandogs.JPG/200px-Poongsandogs.JPG'
+    translations: { en: 'Pungsan Dog' }
+pyrenean-mastiff:
+    name: 'Pyrenean Mastiff'
+    origin: Spain
+    fci: 'Group 02 Section 02 #092'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: Utility
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/11/MasPiri-Puma-FIN.jpg'
+    translations: { en: 'Pyrenean Mastiff' }
+pyrenean-shepherd:
+    name: 'Pyrenean Shepherd'
+    origin: France
+    fci: 'Group 01 Section 01 #141'
+    akc: 'Herding Group'
+    ankc: ''
+    ckc: 'Group 07 (Herding)'
+    tkc: Pastoral
+    nzkc: Utility
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/9d/PyreneanShepSmooth_wb.jpg'
+    translations: { en: 'Pyrenean Shepherd' }
+rafeiro-do-alentejo:
+    name: 'Rafeiro do Alentejo'
+    origin: Portugal
+    fci: 'Group 02 Section 02 #096'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/50/Rafeiro_male.jpg'
+    translations: { en: 'Rafeiro do Alentejo' }
+rajapalayam:
+    name: Rajapalayam
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ea/Rajapalayam_Hound.PNG/200px-Rajapalayam_Hound.PNG'
+    translations: { en: Rajapalayam }
+rampur-greyhound:
+    name: 'Rampur Greyhound'
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6c/Rampurgreyhound.jpg'
+    translations: { en: 'Rampur Greyhound' }
+rastreador-brasileiro:
+    name: 'Rastreador Brasileiro'
+    origin: Brazil
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: ''
+    translations: { en: 'Rastreador Brasileiro' }
+ratonero-bodeguero-andaluz:
+    name: 'Ratonero Bodeguero Andaluz'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0e/Ratonero_Bodeguero_Andaluz.jpg'
+    translations: { en: 'Ratonero Bodeguero Andaluz' }
+ratonero-valenciano:
+    name: 'Ratonero Valenciano'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/7d/Ratonero_valenciano_hell.jpg'
+    translations: { en: 'Ratonero Valenciano' }
+rat-terrier:
+    name: 'Rat Terrier'
+    origin: 'United States'
+    fci: ''
+    akc: 'Terrier Group'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terriers
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4e/AmRatTerr2_wb.jpg'
+    translations: { en: 'Rat Terrier' }
+redbone-coonhound:
+    name: 'Redbone Coonhound'
+    origin: 'United States'
+    fci: ''
+    akc: 'Hound Group'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d3/Memphis_the_Redbone_Coonhound_%287_Nov_2004%29.jpg'
+    translations: { en: 'Redbone Coonhound' }
+rhodesian-ridgeback:
+    name: 'Rhodesian Ridgeback'
+    origin: Zimbabwe
+    fci: 'Group 06 Section 03 #146'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ec/Rhodesian_Ridgeback_600.jpg'
+    translations: { en: 'Rhodesian Ridgeback' }
+rottweiler:
+    name: Rottweiler
+    origin: Germany
+    fci: 'Group 02 Section 02 #147'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/57/Rottweiler.jpg'
+    translations: { en: Rottweiler }
+russian-spaniel:
+    name: 'Russian Spaniel'
+    origin: Russia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/29/Russpaniel.jpg'
+    translations: { en: 'Russian Spaniel' }
+russian-toy:
+    name: 'Russian Toy'
+    origin: Russia
+    fci: 'Group 09 Section 09 #352 Provisional'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0a/RusskiyToyWelpe.jpg'
+    translations: { en: 'Russian Toy' }
+russian-tracker:
+    name: 'Russian tracker'
+    origin: Russia
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/9c/Russian_Yellow_Retriever_from_1915.jpg'
+    translations: { en: 'Russian tracker' }
+russo-european-laika:
+    name: 'Russo-European Laika'
+    origin: Russia
+    fci: 'Group 05 Section 02 #304'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/83/Russo_European_Laika_2.jpg'
+    translations: { en: 'Russo-European Laika' }
+russell-terrier:
+    name: 'Russell Terrier'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 02 #345'
+    akc: 'Terrier Group'
+    ankc: 'Group 02 (Terriers)'
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/73/FCI_JRT.jpg'
+    translations: { en: 'Russell Terrier' }
+saarlooswolfhond:
+    name: Saarlooswolfhond
+    origin: 'Netherlands, Germany'
+    fci: 'Group 01 Section 01 #311'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/7e/Bow_bow.jpg'
+    translations: { en: Saarlooswolfhond }
+sabueso-espanol:
+    name: 'Sabueso Español'
+    origin: Spain
+    fci: 'Group 06 Section 01 #204'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/af/Angoi_de_A_Fonsagrada.JPG/200px-Angoi_de_A_Fonsagrada.JPG'
+    translations: { en: 'Sabueso Español' }
+saint-usuge-spaniel:
+    name: 'Saint-Usuge Spaniel'
+    origin: France
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/27/EpagneuldeSaintUsuge.jpg'
+    translations: { en: 'Saint-Usuge Spaniel' }
+sakhalin-husky:
+    name: 'Sakhalin Husky'
+    origin: Japan
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Sakhalin Husky' }
+saluki:
+    name: Saluki
+    origin: 'Middle East'
+    fci: 'Group 10 Section 01 #269'
+    akc: 'Hound Group'
+    ankc: 'Group 04 (Hounds)'
+    ckc: 'Group 02 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a9/Saluki_dog_breed.jpg'
+    translations: { en: Saluki }
+samoyed:
+    name: Samoyed
+    origin: Russia
+    fci: 'Group 05 Section 01 #212'
+    akc: 'Working Group'
+    ankc: 'Group 06 (Utility)'
+    ckc: 'Group 03 - Working Dogs'
+    tkc: Pastoral
+    nzkc: Utility
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a1/Samoyed_600.jpg'
+    translations: { en: Samoyed }
+santal-hound:
+    name: 'Santal Hound'
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/9a/Santal.jpg'
+    translations: { en: 'Santal Hound' }
+sapsali:
+    name: Sapsali
+    origin: Korea
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b9/Sapsali.jpg'
+    translations: { en: Sapsali }
+sarplaninac:
+    name: 'Šarplaninac'
+    origin: 'Serbia, Republic of Macedonia'
+    fci: 'Group 02 Section 02 #041'
+    akc: ''
+    ankc: ''
+    ckc: 'Miscellaneous List'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/30/%D0%A8%D0%B0%D1%80%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD%D0%B5%D1%86%D0%BE%D1%82_%D0%BE%D0%B4_%D0%A1%D0%B2.%D0%88%D0%BE%D0%B2%D0%B0%D0%BD_%D0%91%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8.jpg'
+    translations: { en: 'Šarplaninac' }
+schapendoes:
+    name: Schapendoes
+    origin: Netherlands
+    fci: 'Group 03 Section 01 #313'
+    akc: FSS
+    ankc: ''
+    ckc: 'Herding Group'
+    tkc: ''
+    nzkc: ''
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6f/Nederlandse-schapendoes-02.jpg'
+    translations: { en: Schapendoes }
+schillerstoevare:
+    name: Schillerstövare
+    origin: Sweden
+    fci: 'Group 06 Section 01 #131'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e7/Schillerst%C3%B6vare_bearbeitet.jpg'
+    translations: { en: Schillerstövare }
+schipperke:
+    name: Schipperke
+    origin: Belgium
+    fci: 'Group 01 Section 01 #083'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 07 (Non-sporting)'
+    ckc: 'Group 06 (Non-sporting)'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/27/Schipperke_gismo_12.jpg'
+    translations: { en: Schipperke }
+standard-schnauzer:
+    name: 'Standard Schnauzer'
+    origin: Germany
+    fci: 'Group 02 Section 01 #182'
+    akc: 'Working Group'
+    ankc: 'Group 6 (Utility)'
+    ckc: 'Group 3 - Working Dogs'
+    tkc: Utility
+    nzkc: Utility
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a1/Emppumenossa.jpg'
+    translations: { en: 'Standard Schnauzer' }
+schweizer-laufhund:
+    name: 'Schweizer Laufhund'
+    origin: Switzerland
+    fci: 'Group 06 Section 01 #059'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f8/Swiss_Hound.jpg'
+    translations: { en: 'Schweizer Laufhund' }
+schweizerischer-niederlaufhund:
+    name: 'Schweizerischer Niederlaufhund'
+    origin: Switzerland
+    fci: 'Group 06 Section 01 #060'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c6/08115491_Schwyzer_Niederlaufhund.jpg'
+    translations: { en: 'Schweizerischer Niederlaufhund' }
+scotch-collie:
+    name: 'Scotch Collie'
+    origin: 'United Kingdom (Scotland)'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4a/Smooth_Collie_600.jpg'
+    translations: { en: 'Scotch Collie' }
+scottish-deerhound:
+    name: 'Scottish Deerhound'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 10 Section 02 #164'
+    akc: 'Hound Group'
+    ankc: 'Group 4 (Hounds)'
+    ckc: 'Group 2 - Hounds'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4a/Deerhound._F%27s_K.jpg'
+    translations: { en: 'Scottish Deerhound' }
+scottish-terrier:
+    name: 'Scottish Terrier'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 03 Section 02 #073'
+    akc: 'Terrier Group'
+    ankc: 'Group 2 (Terriers)'
+    ckc: 'Group 4 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/ad/ScottishTerrier.jpg'
+    translations: { en: 'Scottish Terrier' }
+sealyham-terrier:
+    name: 'Sealyham Terrier'
+    origin: 'United Kingdom (Wales)'
+    fci: 'Group 03 Section 02 #074'
+    akc: 'Terrier Group'
+    ankc: 'Group 2 (Terriers)'
+    ckc: 'Group 4 - Terrier'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f2/SealyhamTerrier2.jpg'
+    translations: { en: 'Sealyham Terrier' }
+segugio-italiano:
+    name: 'Segugio Italiano'
+    origin: Italy
+    fci: 'Group 06 Section 01 #337 #198'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: Hound
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6d/Segugioitalianopelorasofulvo.JPG/200px-Segugioitalianopelorasofulvo.JPG'
+    translations: { en: 'Segugio Italiano' }
+seppala-siberian-sleddog:
+    name: 'Seppala Siberian Sleddog'
+    origin: Canada
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/33/Seppala_Siberian_Sleddog.jpg'
+    translations: { en: 'Seppala Siberian Sleddog' }
+serbian-hound:
+    name: 'Serbian Hound'
+    origin: Serbia
+    fci: 'Group 06 Section 01 #150'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d3/Serbian_Hound_Face.JPG/200px-Serbian_Hound_Face.JPG'
+    translations: { en: 'Serbian Hound' }
+serbian-tricolour-hound:
+    name: 'Serbian Tricolour Hound'
+    origin: Serbia
+    fci: 'Group 06 Section 01 #229'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ef/Srpski_Trobojni_Gonic.gif/200px-Srpski_Trobojni_Gonic.gif'
+    translations: { en: 'Serbian Tricolour Hound' }
+seskar-seal-dog:
+    name: 'Seskar Seal Dog'
+    origin: Finland
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/76/Seiskarinkoira_Seiskari_dog.jpg'
+    translations: { en: 'Seskar Seal Dog' }
+shar-pei:
+    name: 'Shar Pei'
+    origin: China
+    fci: 'Group 02 Section 02 #309'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 7 (Non-Sporting)'
+    ckc: 'Group 6 - Non-Sporting'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/83/BandWSharPei.JPG/200px-BandWSharPei.JPG'
+    translations: { en: 'Shar Pei' }
+shetland-sheepdog:
+    name: 'Shetland Sheepdog'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 01 Section 01 #088'
+    akc: 'Herding Group'
+    ankc: 'Group 5 (Working Dogs)'
+    ckc: 'Group 7 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/a2/Shetland_Sheepdog_600.jpg'
+    translations: { en: 'Shetland Sheepdog' }
+shiba-inu:
+    name: 'Shiba Inu'
+    origin: Japan
+    fci: 'Group 05 Section 05 #257'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 6 (Utility)'
+    ckc: 'Group 6 - Non-Sporting'
+    tkc: Utility
+    nzkc: Utility
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/6b/Taka_Shiba.jpg'
+    translations: { en: 'Shiba Inu' }
+shih-tzu:
+    name: 'Shih Tzu'
+    origin: China
+    fci: 'Group 09 Section 05 #208'
+    akc: 'Toy Group'
+    ankc: 'Group 7 - Non-Sporting'
+    ckc: 'Group 6 - Non-Sporting'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/30/Shih-Tzu.JPG/200px-Shih-Tzu.JPG'
+    translations: { en: 'Shih Tzu' }
+shikoku-ken:
+    name: 'Shikoku Ken'
+    origin: Japan
+    fci: 'Group 05 Section 05 #319'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/69/Shikokuken.jpg'
+    translations: { en: 'Shikoku Ken' }
+shiloh-shepherd-dog:
+    name: 'Shiloh Shepherd Dog'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d2/Plushcoatshilohshepherd.jpg'
+    translations: { en: 'Shiloh Shepherd Dog' }
+siberian-husky:
+    name: 'Siberian Husky'
+    origin: Russia
+    fci: 'Group 05 Section 01 #270'
+    akc: 'Working Group'
+    ankc: 'Group 6 (Utility)'
+    ckc: 'Group 3 (Working)'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Northern Breed'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/ca/Siberian-husky.jpg'
+    translations: { en: 'Siberian Husky' }
+silken-windhound:
+    name: 'Silken Windhound'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/be/Fallon1.jpg'
+    translations: { en: 'Silken Windhound' }
+sinhala-hound:
+    name: 'Sinhala Hound'
+    origin: 'Sri Lanka'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Sinhala Hound' }
+skye-terrier:
+    name: 'Skye Terrier'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 03 Section 02 #075'
+    akc: 'Terrier Group'
+    ankc: 'Group 2 (Terriers)'
+    ckc: 'Group 4 (Terriers)'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/61/Skye_terrier_800.jpg'
+    translations: { en: 'Skye Terrier' }
+sloughi:
+    name: Sloughi
+    origin: Morocco
+    fci: 'Group 10 Section 03 #188'
+    akc: 'FSS (Miscellaneous)'
+    ankc: 'Group 4 (Hounds)'
+    ckc: ''
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/18/Sloughi_sandcolor.jpg'
+    translations: { en: Sloughi }
+slovak-cuvac:
+    name: 'Slovak Cuvac'
+    origin: Slovakia
+    fci: 'Group 01 Section 01 #142'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c6/Cuvac_1.jpg'
+    translations: { en: 'Slovak Cuvac' }
+slovakian-rough-haired-pointer:
+    name: 'Slovakian Rough-haired Pointer'
+    origin: Slovakia
+    fci: 'Group 07 Section 01 #320'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/7f/ICh_Brita_z_Ruzenice.jpg'
+    translations: { en: 'Slovakian Rough-haired Pointer' }
+slovensky-kopov:
+    name: 'Slovenský Kopov'
+    origin: Slovakia
+    fci: 'Group 06 Section 01 #244'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/56/MVP_Nitra_2004_%288%29.jpg'
+    translations: { en: 'Slovenský Kopov' }
+smalandsstoevare:
+    name: Smålandsstövare
+    origin: Sweden
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e0/Smaland-St%C3%B6vare.jpg'
+    translations: { en: Smålandsstövare }
+small-greek-domestic-dog:
+    name: 'Small Greek Domestic Dog'
+    origin: Greece
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/cb/SmallGreekDomesticDog.jpg'
+    translations: { en: 'Small Greek Domestic Dog' }
+soft-coated-wheaten-terrier:
+    name: 'Soft-Coated Wheaten Terrier'
+    origin: Ireland
+    fci: 'Group 03 Section 01 #040'
+    akc: 'Terrier Group'
+    ankc: 'Group 2 (Terriers)'
+    ckc: 'Group 4 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/3e/Dog2wheaten.jpg'
+    translations: { en: 'Soft-Coated Wheaten Terrier' }
+south-russian-ovcharka:
+    name: 'South Russian Ovcharka'
+    origin: Russia
+    fci: 'Group 01 Section 01 #326'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/25/South_Russian_Ovcharka.jpg'
+    translations: { en: 'South Russian Ovcharka' }
+southern-hound:
+    name: 'Southern Hound'
+    origin: 'United Kingdom'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/06/Southern_Hound.jpg'
+    translations: { en: 'Southern Hound' }
+spanish-mastiff:
+    name: 'Spanish Mastiff'
+    origin: Spain
+    fci: 'Group 02 Section 02 #091'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f7/Mastif_hiszpanski_pl.jpg'
+    translations: { en: 'Spanish Mastiff' }
+spanish-water-dog:
+    name: 'Spanish Water Dog'
+    origin: Spain
+    fci: 'Group 08 Section 03 #336'
+    akc: 'Herding Group'
+    ankc: ''
+    ckc: ''
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/9f/Perro_agua.jpg'
+    translations: { en: 'Spanish Water Dog' }
+spinone-italiano:
+    name: 'Spinone Italiano'
+    origin: Italy
+    fci: 'Group 07 Section 01 #165'
+    akc: 'Sporting Group'
+    ankc: 'Group 3 (Gundogs)'
+    ckc: Sporting
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/99/Spinone_italiano_Oliver.jpg'
+    translations: { en: 'Spinone Italiano' }
+sporting-lucas-terrier:
+    name: 'Sporting Lucas Terrier'
+    origin: 'United Kingdom (England)'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/16/LucasTerrier.jpg'
+    translations: { en: 'Sporting Lucas Terrier' }
+st-bernard:
+    name: 'St. Bernard'
+    origin: 'Italy, Switzerland'
+    fci: 'Group 02 Section 02 #061'
+    akc: 'Working Group'
+    ankc: 'Utility Group'
+    ckc: 'Working Group'
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e3/Stbernardinsnow.jpg'
+    translations: { en: 'St. Bernard' }
+st-john-s-water-dog:
+    name: 'St. John''s water dog'
+    origin: 'Newfoundland, Canada'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/ef/St_Johns_dog.jpg'
+    translations: { en: 'St. John''s water dog' }
+stabyhoun:
+    name: Stabyhoun
+    origin: Netherlands
+    fci: 'Group 07 Section 01 #222'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/f7/Frisianstaby.jpg'
+    translations: { en: Stabyhoun }
+staffordshire-bull-terrier:
+    name: 'Staffordshire Bull Terrier'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 03 #076'
+    akc: 'Terrier Group'
+    ankc: 'Group 2 (Terriers)'
+    ckc: 'Group 4 - Terriers'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/1a/Staffordshire_Bull_Terrier_600.jpg'
+    translations: { en: 'Staffordshire Bull Terrier' }
+stephens-cur:
+    name: 'Stephens Cur'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4c/Stephens_Cur.jpg'
+    translations: { en: 'Stephens Cur' }
+styrian-coarse-haired-hound:
+    name: 'Styrian Coarse-haired Hound'
+    origin: Austria
+    fci: 'Group 06 Section 01 #062'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/1b/Steirische_Rauhhaarbracke.jpg'
+    translations: { en: 'Styrian Coarse-haired Hound' }
+sussex-spaniel:
+    name: 'Sussex Spaniel'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 08 Section 02 #127'
+    akc: 'Sporting Group'
+    ankc: 'Group 3 (Gundogs)'
+    ckc: 'Group 1 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c9/Sussex_spaniel_t43.jpg'
+    translations: { en: 'Sussex Spaniel' }
+swedish-lapphund:
+    name: 'Swedish Lapphund'
+    origin: Sweden
+    fci: 'Group 05 Section 03 #135'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: Working
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0f/Svensk_lapphund.JPG/200px-Svensk_lapphund.JPG'
+    translations: { en: 'Swedish Lapphund' }
+swedish-vallhund:
+    name: 'Swedish Vallhund'
+    origin: Sweden
+    fci: 'Group 05 Section 03 #014'
+    akc: 'Herding Group'
+    ankc: 'Group 5 (Working Dogs)'
+    ckc: 'Group 7 (Herding Dogs)'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/68/SwedishVallhundAgility_wb.jpg'
+    translations: { en: 'Swedish Vallhund' }
+tahltan-bear-dog:
+    name: 'Tahltan Bear Dog'
+    origin: Canada
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/da/Tahltan_Bear_Dog_sketch2.jpg'
+    translations: { en: 'Tahltan Bear Dog' }
+taigan:
+    name: Taigan
+    origin: Kyrgyzstan
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2a/Taigan.jpg'
+    translations: { en: Taigan }
+talbot:
+    name: Talbot
+    origin: 'United Kingdom, Belgium, France'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/en/e/e2/Cartercrest.jpg'
+    translations: { en: Talbot }
+tamaskan-dog:
+    name: 'Tamaskan Dog'
+    origin: Finland
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/8d/Tamaskan.jpg'
+    translations: { en: 'Tamaskan Dog' }
+teddy-roosevelt-terrier:
+    name: 'Teddy Roosevelt Terrier'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/7/73/Teddyterrier.jpg'
+    translations: { en: 'Teddy Roosevelt Terrier' }
+telomian:
+    name: Telomian
+    origin: Malaysia
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/89/Telomian.jpg'
+    translations: { en: Telomian }
+tennessee-treeing-brindle:
+    name: 'Tennessee Treeing Brindle'
+    origin: 'United States'
+    fci: ''
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/be/Sienna_TTBD.jpg'
+    translations: { en: 'Tennessee Treeing Brindle' }
+tenterfield-terrier:
+    name: 'Tenterfield Terrier'
+    origin: Australia
+    fci: ''
+    akc: ''
+    ankc: 'Group 2 (Terriers)'
+    ckc: ''
+    tkc: ''
+    nzkc: Terrier
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/en/d/dd/TenterfieldTerrier.jpg'
+    translations: { en: 'Tenterfield Terrier' }
+terceira-mastiff:
+    name: 'Terceira Mastiff'
+    origin: Portugal
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2f/Fila_de_Terceira.jpg'
+    translations: { en: 'Terceira Mastiff' }
+thai-bangkaew-dog:
+    name: 'Thai Bangkaew Dog'
+    origin: Thailand
+    fci: 'Group 05 Section 05 #358 Provisional'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5d/Bangkaew.jpg'
+    translations: { en: 'Thai Bangkaew Dog' }
+thai-ridgeback:
+    name: 'Thai Ridgeback'
+    origin: Thailand
+    fci: 'Group 05 Section 07 #338'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d6/Thai-Ridgeback.jpg'
+    translations: { en: 'Thai Ridgeback' }
+tibetan-mastiff:
+    name: 'Tibetan Mastiff'
+    origin: Tibet
+    fci: 'Group 02 Section 02 #230'
+    akc: 'Working Group'
+    ankc: 'Group 6 (Utility)'
+    ckc: ''
+    tkc: Working
+    nzkc: Utility
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/e/e3/Bea_Miu_Nan_%C5%A0an%2C_CAC.jpg'
+    translations: { en: 'Tibetan Mastiff' }
+tibetan-spaniel:
+    name: 'Tibetan Spaniel'
+    origin: Tibet
+    fci: 'Group 09 Section 05 #231'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 1 (Toys)'
+    ckc: 'Group 6 - Non-Sporting Dogs'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/38/Tibetansk_spaniel.jpg'
+    translations: { en: 'Tibetan Spaniel' }
+tibetan-terrier:
+    name: 'Tibetan Terrier'
+    origin: Tibet
+    fci: 'Group 09 Section 05 #209'
+    akc: 'Non-Sporting Group'
+    ankc: 'Group 1 (Toys)'
+    ckc: 'Group 6 - Non-Sporting Dogs'
+    tkc: Utility
+    nzkc: 'Non Sporting'
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/0/0e/Tibetan-terrier-Blue-Blossom-Guldborg-Denmarkjpg.jpg'
+    translations: { en: 'Tibetan Terrier' }
+tornjak:
+    name: Tornjak
+    origin: 'Bosnia and Herzegovina, Croatia'
+    fci: 'Group 02 Section 02 #355 Provisional'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: Tornjak }
+tosa:
+    name: Tosa
+    origin: Japan
+    fci: 'Group 02 Section 02 #260'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guarding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/f/fe/Tosa_inu_-_g%C5%82owa.jpg'
+    translations: { en: Tosa }
+toy-bulldog:
+    name: 'Toy Bulldog'
+    origin: ''
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/6/62/Toy_Bulldog_Little_Knot_1903.jpg'
+    translations: { en: 'Toy Bulldog' }
+toy-fox-terrier:
+    name: 'Toy Fox Terrier'
+    origin: 'United States'
+    fci: ''
+    akc: 'Toy Group'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/24/Toy_Fox_Terrier_2.jpg'
+    translations: { en: 'Toy Fox Terrier' }
+toy-manchester-terrier:
+    name: 'Toy Manchester Terrier'
+    origin: 'United Kingdom (England), United States'
+    fci: ''
+    akc: 'Toy Group'
+    ankc: 'Toy Group'
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/ab/Toy-manchester-terrier-weave.png/200px-Toy-manchester-terrier-weave.png'
+    translations: { en: 'Toy Manchester Terrier' }
+toy-trawler-spaniel:
+    name: 'Toy Trawler Spaniel'
+    origin: 'United Kingdom'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/af/Trawler_spaniel_goblin.jpg'
+    translations: { en: 'Toy Trawler Spaniel' }
+transylvanian-hound:
+    name: 'Transylvanian Hound'
+    origin: Hungary
+    fci: 'Group 06 Section 01 #241'
+    akc: FSS
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d8/Erdelyi_kopo_VadaszNimrodSzeder01.jpg'
+    translations: { en: 'Transylvanian Hound' }
+treeing-cur:
+    name: 'Treeing Cur'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: ''
+    translations: { en: 'Treeing Cur' }
+treeing-walker-coonhound:
+    name: 'Treeing Walker Coonhound'
+    origin: 'United States'
+    fci: ''
+    akc: 'Hound Group'
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/46/Treeing-walker-coonhound-standing.jpg'
+    translations: { en: 'Treeing Walker Coonhound' }
+trigg-hound:
+    name: 'Trigg Hound'
+    origin: 'Kentucky, United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/en/c/c2/Ned_%28Trigg%29.png/200px-Ned_%28Trigg%29.png'
+    translations: { en: 'Trigg Hound' }
+tweed-water-spaniel:
+    name: 'Tweed Water Spaniel'
+    origin: 'United Kingdom'
+    fci: Extinct
+    akc: Extinct
+    ankc: Extinct
+    ckc: Extinct
+    tkc: Extinct
+    nzkc: Extinct
+    ukc: Extinct
+    image: 'http://upload.wikimedia.org/wikipedia/commons/9/98/Tweed_Water_Spaniel.jpg'
+    translations: { en: 'Tweed Water Spaniel' }
+tyrolean-hound:
+    name: 'Tyrolean Hound'
+    origin: Austria
+    fci: 'Group 06 Section 01 #068'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/d0/Tiroler_Bracke.jpg'
+    translations: { en: 'Tyrolean Hound' }
+uruguayan-cimarron:
+    name: 'Uruguayan Cimarron'
+    origin: Uruguay
+    fci: 'Group 02 Section 02 #353 Provisional'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Guardian Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/48/Boqueron_de_Quilligan.JPG/200px-Boqueron_de_Quilligan.JPG'
+    translations: { en: 'Uruguayan Cimarron' }
+vanjari-hound:
+    name: 'Vanjari Hound'
+    origin: India
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/21/Banjara_from_1915.JPG/200px-Banjara_from_1915.JPG'
+    translations: { en: 'Vanjari Hound' }
+villano-de-las-encartaciones:
+    name: 'Villano de las Encartaciones'
+    origin: Spain
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b3/Billano_arra1.JPG/200px-Billano_arra1.JPG'
+    translations: { en: 'Villano de las Encartaciones' }
+vizsla:
+    name: Vizsla
+    origin: Hungary
+    fci: 'Group 07 Section 01 #057'
+    akc: 'Sporting Group'
+    ankc: 'Group 3 (Gundogs)'
+    ckc: 'Group 1 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/18/Vizsla.jpg'
+    translations: { en: Vizsla }
+volpino-italiano:
+    name: 'Volpino Italiano'
+    origin: Italy
+    fci: 'Group 05 Section 04 #195'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/b7/Volpino04.jpg'
+    translations: { en: 'Volpino Italiano' }
+weimaraner:
+    name: Weimaraner
+    origin: Germany
+    fci: 'Group 07 Section 01 #099'
+    akc: 'Sporting Group'
+    ankc: 'Group 3 (Gun dogs)'
+    ckc: 'Group 1 - Sporting'
+    tkc: 'Gun dog'
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/32/Weimaraner_wb.jpg'
+    translations: { en: Weimaraner }
+welsh-corgi-cardigan:
+    name: 'Welsh Corgi, Cardigan'
+    origin: 'United Kingdom (Wales)'
+    fci: 'Group 01 Section 01 #038'
+    akc: 'Herding Group'
+    ankc: 'Group 5 (Working Dogs)'
+    ckc: 'Group 7 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/c/c0/Cardigan_Welsh_Corgi_600.jpg'
+    translations: { en: 'Welsh Corgi, Cardigan' }
+welsh-corgi-pembroke:
+    name: 'Welsh Corgi, Pembroke'
+    origin: 'United Kingdom (Wales)'
+    fci: 'Group 01 Section 08 #039'
+    akc: 'Herding Group'
+    ankc: 'Group 5 (Working Dogs)'
+    ckc: 'Group 7 - Herding Dogs'
+    tkc: Pastoral
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/b/bf/Pembroke_Welsh_Corgi_600.jpg'
+    translations: { en: 'Welsh Corgi, Pembroke' }
+welsh-sheepdog:
+    name: 'Welsh Sheepdog'
+    origin: 'United Kingdom (Wales)'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/85/Welsh_Sheepdog.jpg'
+    translations: { en: 'Welsh Sheepdog' }
+welsh-springer-spaniel:
+    name: 'Welsh Springer Spaniel'
+    origin: 'United Kingdom (Wales)'
+    fci: 'Group 08 Section 02 #126'
+    akc: 'Sporting Group'
+    ankc: 'Group 3 (Gundogs)'
+    ckc: 'Sporting dogs'
+    tkc: Gundog
+    nzkc: Gundogs
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/a/ab/Welsh_Springer_Spaniel_1.jpg'
+    translations: { en: 'Welsh Springer Spaniel' }
+welsh-terrier:
+    name: 'Welsh Terrier'
+    origin: 'United Kingdom (Wales)'
+    fci: 'Group 03 Section 01 #078'
+    akc: 'Terrier Group'
+    ankc: 'Group 2 (Terriers)'
+    ckc: 'Group 4 - Terrier'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2b/Welch_Terrier_on_sand_-_2007.png/200px-Welch_Terrier_on_sand_-_2007.png'
+    translations: { en: 'Welsh Terrier' }
+west-highland-white-terrier:
+    name: 'West Highland White Terrier'
+    origin: 'United Kingdom (Scotland)'
+    fci: 'Group 03 Section 02 #085'
+    akc: 'Terrier Group'
+    ankc: 'Group 2 (Terriers)'
+    ckc: 'Group 4 - Terrier'
+    tkc: Terrier
+    nzkc: Terrier
+    ukc: Terrier
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2c/West_Highland_White_Terrier_Krakow.jpg'
+    translations: { en: 'West Highland White Terrier' }
+west-siberian-laika:
+    name: 'West Siberian Laika'
+    origin: Russia
+    fci: 'Group 05 Section 02 #306'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: ''
+    image: 'http://upload.wikimedia.org/wikipedia/commons/2/2b/West_Siberian_Laika.jpg'
+    translations: { en: 'West Siberian Laika' }
+westphalian-dachsbracke:
+    name: 'Westphalian Dachsbracke'
+    origin: Germany
+    fci: 'Group 06 Section 01 #100'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: Scenthound
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/80/Westf%C3%A4lische_Dachsbracke.jpg'
+    translations: { en: 'Westphalian Dachsbracke' }
+wetterhoun:
+    name: Wetterhoun
+    origin: Netherlands
+    fci: 'Group 08 Section 03 #221'
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/d/dd/Fryzyjski_pies_wodny_u68.jpg'
+    translations: { en: Wetterhoun }
+whippet:
+    name: Whippet
+    origin: England
+    fci: 'Group 10 Section 03 #162'
+    akc: 'Hound Group'
+    ankc: 'Group 4 (Hounds)'
+    ckc: 'Group 2 (Hounds)'
+    tkc: Hound
+    nzkc: Hound
+    ukc: 'Sighthound and Pariah'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/5/5e/WhippetWhiteSaddled_wb.jpg'
+    translations: { en: Whippet }
+white-shepherd:
+    name: 'White Shepherd'
+    origin: 'United States'
+    fci: ''
+    akc: ''
+    ankc: ''
+    ckc: ''
+    tkc: ''
+    nzkc: Working
+    ukc: 'Herding Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/3/30/Schweizer_Sch%C3%A4ferhund%2C_9_Monate.JPG/200px-Schweizer_Sch%C3%A4ferhund%2C_9_Monate.JPG'
+    translations: { en: 'White Shepherd' }
+wirehaired-pointing-griffon:
+    name: 'Wirehaired Pointing Griffon'
+    origin: 'Netherlands, France'
+    fci: 'Group 07 Section 01 #107'
+    akc: 'Sporting Group'
+    ankc: ''
+    ckc: 'Group 1 - Sporting Dogs'
+    tkc: Gundog
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/4/4b/Korthalsgriffon.jpg'
+    translations: { en: 'Wirehaired Pointing Griffon' }
+wirehaired-vizsla:
+    name: 'Wirehaired Vizsla'
+    origin: Hungary
+    fci: 'Group 07 Section 01 ##239'
+    akc: 'Sporting Group'
+    ankc: 'Group 1 - Sporting Dogs'
+    ckc: Gundog
+    tkc: ''
+    nzkc: ''
+    ukc: 'Gun Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/1/1f/Drahthaarvizsla.jpg'
+    translations: { en: 'Wirehaired Vizsla' }
+yorkshire-terrier:
+    name: 'Yorkshire Terrier'
+    origin: 'United Kingdom (England)'
+    fci: 'Group 03 Section 04 #086'
+    akc: 'Toy Group'
+    ankc: 'Group 1 (Toys)'
+    ckc: 'Group V, Toys'
+    tkc: 'Toy Group'
+    nzkc: Toy
+    ukc: 'Companion Dog'
+    image: 'http://upload.wikimedia.org/wikipedia/commons/8/8f/Yorkshire_Terrier_WA_Mozart_Dolce_Sinfonia.jpg'
+    translations: { en: 'Yorkshire Terrier' }
