@@ -16,8 +16,25 @@ class Reader
         $this->data = Yaml::parse(file_get_contents(__DIR__ . '/Resources/data/breeds.yml'));
     }
 
+    /**
+     * @return array
+     */
     public function all()
     {
         return $this->data;
+    }
+
+    /**
+     * @param string $id
+     *
+     * @return array
+     */
+    public function findById($id)
+    {
+        if (isset($this->data[$id])) {
+            return $this->data[$id];
+        }
+
+        return null;
     }
 }

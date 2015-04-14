@@ -20,4 +20,19 @@ class DogBreedRepositoryTest extends \PHPUnit_Framework_TestCase
 
         $this->assertCount(10, $result);
     }
+
+    public function testFind()
+    {
+        $reader = $this->getMockBuilder('Velikonja\\DogBreedsBundle\\Reader')->getMock();
+
+        $reader
+            ->method('findById')
+            ->with('some-id')
+            ->willReturn('something');
+
+        $repo   = new DogBreedRepository($reader);
+        $result = $repo->find('some-id');
+
+        $this->assertEquals('something', $result);
+    }
 }

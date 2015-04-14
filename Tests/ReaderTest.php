@@ -14,4 +14,12 @@ class ReaderTest extends \PHPUnit_Framework_TestCase
 
         $this->assertCount(506, $result);
     }
+
+    public function testFindById()
+    {
+        $reader = new Reader();
+        $result = $reader->findById('labrador-retriever');
+
+        $this->assertNotNull($result);
+    }
 }
