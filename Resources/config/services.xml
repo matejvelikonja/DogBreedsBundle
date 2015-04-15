@@ -4,13 +4,17 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
 
-    <!--
     <services>
-        <service id="velikonja_dog_breeds.example" class="Velikonja\DogBreedsBundle\Example">
-            <argument type="service" id="service_id" />
-            <argument>plain_value</argument>
-            <argument>%parameter_name%</argument>
+        <service id="velikonja.dog_breeds.reader" class="Velikonja\DogBreedsBundle\Reader">
+        </service>
+
+        <service id="velikonja.dog_breeds.repository.dog_breed" class="Velikonja\DogBreedsBundle\Repository\DogBreedRepository">
+            <argument id="velikonja.dog_breeds.reader" type="service"/>
+        </service>
+
+        <service id="velikonja.dog_breeds.form.type.dog_breeds" class="Velikonja\DogBreedsBundle\Form\Type\DogBreedType">
+            <argument id="velikonja.dog_breeds.repository.dog_breed" type="service"/>
+            <tag name="form.type" alias="dog_breeds" />
         </service>
     </services>
-    -->
 </container>

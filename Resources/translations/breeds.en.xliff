@@ -732,7 +732,7 @@
             </trans-unit>
             <trans-unit id="english-toy-terrier-black-tan">
                 <source>english-toy-terrier-black-tan</source>
-                <target>English Toy Terrier (Black & Tan)</target>
+                <target><![CDATA[English Toy Terrier (Black & Tan)]]></target>
             </trans-unit>
             <trans-unit id="english-water-spaniel">
                 <source>english-water-spaniel</source>
