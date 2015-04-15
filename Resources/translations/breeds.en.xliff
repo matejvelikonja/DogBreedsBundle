@@ -1,0 +1,2031 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="affenpinscher">
+                <source>affenpinscher</source>
+                <target>Affenpinscher</target>
+            </trans-unit>
+            <trans-unit id="afghan-hound">
+                <source>afghan-hound</source>
+                <target>Afghan Hound</target>
+            </trans-unit>
+            <trans-unit id="afghan-shepherd">
+                <source>afghan-shepherd</source>
+                <target>Afghan Shepherd</target>
+            </trans-unit>
+            <trans-unit id="aidi">
+                <source>aidi</source>
+                <target>Aidi</target>
+            </trans-unit>
+            <trans-unit id="airedale-terrier">
+                <source>airedale-terrier</source>
+                <target>Airedale Terrier</target>
+            </trans-unit>
+            <trans-unit id="akbash">
+                <source>akbash</source>
+                <target>Akbash</target>
+            </trans-unit>
+            <trans-unit id="akita-inu">
+                <source>akita-inu</source>
+                <target>Akita Inu</target>
+            </trans-unit>
+            <trans-unit id="alano-espanol">
+                <source>alano-espanol</source>
+                <target>Alano Español</target>
+            </trans-unit>
+            <trans-unit id="alaskan-klee-kai">
+                <source>alaskan-klee-kai</source>
+                <target>Alaskan Klee Kai</target>
+            </trans-unit>
+            <trans-unit id="alaskan-malamute">
+                <source>alaskan-malamute</source>
+                <target>Alaskan Malamute</target>
+            </trans-unit>
+            <trans-unit id="alpine-dachsbracke">
+                <source>alpine-dachsbracke</source>
+                <target>Alpine Dachsbracke</target>
+            </trans-unit>
+            <trans-unit id="alpine-spaniel">
+                <source>alpine-spaniel</source>
+                <target>Alpine Spaniel</target>
+            </trans-unit>
+            <trans-unit id="american-akita">
+                <source>american-akita</source>
+                <target>American Akita</target>
+            </trans-unit>
+            <trans-unit id="american-bulldog">
+                <source>american-bulldog</source>
+                <target>American Bulldog</target>
+            </trans-unit>
+            <trans-unit id="american-cocker-spaniel">
+                <source>american-cocker-spaniel</source>
+                <target>American Cocker Spaniel</target>
+            </trans-unit>
+            <trans-unit id="american-eskimo-dog">
+                <source>american-eskimo-dog</source>
+                <target>American Eskimo Dog</target>
+            </trans-unit>
+            <trans-unit id="american-foxhound">
+                <source>american-foxhound</source>
+                <target>American Foxhound</target>
+            </trans-unit>
+            <trans-unit id="american-hairless-terrier">
+                <source>american-hairless-terrier</source>
+                <target>American Hairless Terrier</target>
+            </trans-unit>
+            <trans-unit id="american-pit-bull-terrier">
+                <source>american-pit-bull-terrier</source>
+                <target>American Pit Bull Terrier</target>
+            </trans-unit>
+            <trans-unit id="american-staffordshire-terrier">
+                <source>american-staffordshire-terrier</source>
+                <target>American Staffordshire Terrier</target>
+            </trans-unit>
+            <trans-unit id="american-water-spaniel">
+                <source>american-water-spaniel</source>
+                <target>American Water Spaniel</target>
+            </trans-unit>
+            <trans-unit id="anatolian-shepherd-dog">
+                <source>anatolian-shepherd-dog</source>
+                <target>Anatolian Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="andalusian-hound">
+                <source>andalusian-hound</source>
+                <target>Andalusian Hound</target>
+            </trans-unit>
+            <trans-unit id="anglo-francais-de-petite-venerie">
+                <source>anglo-francais-de-petite-venerie</source>
+                <target>Anglo-Français de Petite Vénerie</target>
+            </trans-unit>
+            <trans-unit id="appenzeller-sennenhund">
+                <source>appenzeller-sennenhund</source>
+                <target>Appenzeller Sennenhund</target>
+            </trans-unit>
+            <trans-unit id="ariege-pointer">
+                <source>ariege-pointer</source>
+                <target>Ariege Pointer</target>
+            </trans-unit>
+            <trans-unit id="ariegeois">
+                <source>ariegeois</source>
+                <target>Ariegeois</target>
+            </trans-unit>
+            <trans-unit id="armant">
+                <source>armant</source>
+                <target>Armant</target>
+            </trans-unit>
+            <trans-unit id="armenian-gampr-dog">
+                <source>armenian-gampr-dog</source>
+                <target>Armenian Gampr dog</target>
+            </trans-unit>
+            <trans-unit id="artois-hound">
+                <source>artois-hound</source>
+                <target>Artois Hound</target>
+            </trans-unit>
+            <trans-unit id="australian-cattle-dog">
+                <source>australian-cattle-dog</source>
+                <target>Australian Cattle Dog</target>
+            </trans-unit>
+            <trans-unit id="australian-kelpie">
+                <source>australian-kelpie</source>
+                <target>Australian Kelpie</target>
+            </trans-unit>
+            <trans-unit id="australian-shepherd">
+                <source>australian-shepherd</source>
+                <target>Australian Shepherd</target>
+            </trans-unit>
+            <trans-unit id="australian-silky-terrier">
+                <source>australian-silky-terrier</source>
+                <target>Australian Silky Terrier</target>
+            </trans-unit>
+            <trans-unit id="australian-stumpy-tail-cattle-dog-10">
+                <source>australian-stumpy-tail-cattle-dog-10</source>
+                <target>Australian Stumpy Tail Cattle Dog[10]</target>
+            </trans-unit>
+            <trans-unit id="australian-terrier">
+                <source>australian-terrier</source>
+                <target>Australian Terrier</target>
+            </trans-unit>
+            <trans-unit id="austrian-black-and-tan-hound">
+                <source>austrian-black-and-tan-hound</source>
+                <target>Austrian Black and Tan Hound</target>
+            </trans-unit>
+            <trans-unit id="austrian-pinscher">
+                <source>austrian-pinscher</source>
+                <target>Austrian Pinscher</target>
+            </trans-unit>
+            <trans-unit id="azawakh">
+                <source>azawakh</source>
+                <target>Azawakh</target>
+            </trans-unit>
+            <trans-unit id="bakharwal-dog">
+                <source>bakharwal-dog</source>
+                <target>Bakharwal Dog</target>
+            </trans-unit>
+            <trans-unit id="barbet">
+                <source>barbet</source>
+                <target>Barbet</target>
+            </trans-unit>
+            <trans-unit id="basenji">
+                <source>basenji</source>
+                <target>Basenji</target>
+            </trans-unit>
+            <trans-unit id="basque-ratter">
+                <source>basque-ratter</source>
+                <target>Basque Ratter</target>
+            </trans-unit>
+            <trans-unit id="basque-shepherd-dog">
+                <source>basque-shepherd-dog</source>
+                <target>Basque Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="basset-artesien-normand">
+                <source>basset-artesien-normand</source>
+                <target>Basset Artésien Normand</target>
+            </trans-unit>
+            <trans-unit id="basset-bleu-de-gascogne">
+                <source>basset-bleu-de-gascogne</source>
+                <target>Basset Bleu de Gascogne</target>
+            </trans-unit>
+            <trans-unit id="basset-fauve-de-bretagne">
+                <source>basset-fauve-de-bretagne</source>
+                <target>Basset Fauve de Bretagne</target>
+            </trans-unit>
+            <trans-unit id="basset-griffon-vendeen-grand">
+                <source>basset-griffon-vendeen-grand</source>
+                <target>Basset Griffon Vendéen, Grand</target>
+            </trans-unit>
+            <trans-unit id="basset-griffon-vendeen-petit">
+                <source>basset-griffon-vendeen-petit</source>
+                <target>Basset Griffon Vendéen, Petit</target>
+            </trans-unit>
+            <trans-unit id="basset-hound">
+                <source>basset-hound</source>
+                <target>Basset Hound</target>
+            </trans-unit>
+            <trans-unit id="bavarian-mountain-hound">
+                <source>bavarian-mountain-hound</source>
+                <target>Bavarian Mountain Hound</target>
+            </trans-unit>
+            <trans-unit id="beagle">
+                <source>beagle</source>
+                <target>Beagle</target>
+            </trans-unit>
+            <trans-unit id="beagle-harrier">
+                <source>beagle-harrier</source>
+                <target>Beagle-Harrier</target>
+            </trans-unit>
+            <trans-unit id="bearded-collie">
+                <source>bearded-collie</source>
+                <target>Bearded Collie</target>
+            </trans-unit>
+            <trans-unit id="beauceron">
+                <source>beauceron</source>
+                <target>Beauceron</target>
+            </trans-unit>
+            <trans-unit id="bedlington-terrier">
+                <source>bedlington-terrier</source>
+                <target>Bedlington Terrier</target>
+            </trans-unit>
+            <trans-unit id="belgian-shepherd-dog-groenendael">
+                <source>belgian-shepherd-dog-groenendael</source>
+                <target>Belgian Shepherd Dog (Groenendael)</target>
+            </trans-unit>
+            <trans-unit id="belgian-shepherd-dog-laekenois">
+                <source>belgian-shepherd-dog-laekenois</source>
+                <target>Belgian Shepherd Dog (Laekenois)</target>
+            </trans-unit>
+            <trans-unit id="belgian-shepherd-dog-malinois">
+                <source>belgian-shepherd-dog-malinois</source>
+                <target>Belgian Shepherd Dog (Malinois)</target>
+            </trans-unit>
+            <trans-unit id="belgian-shepherd-tervuren">
+                <source>belgian-shepherd-tervuren</source>
+                <target>Belgian Shepherd (Tervuren)</target>
+            </trans-unit>
+            <trans-unit id="bergamasco-shepherd">
+                <source>bergamasco-shepherd</source>
+                <target>Bergamasco Shepherd</target>
+            </trans-unit>
+            <trans-unit id="berger-blanc-suisse">
+                <source>berger-blanc-suisse</source>
+                <target>Berger Blanc Suisse</target>
+            </trans-unit>
+            <trans-unit id="berger-picard">
+                <source>berger-picard</source>
+                <target>Berger Picard</target>
+            </trans-unit>
+            <trans-unit id="berner-laufhund">
+                <source>berner-laufhund</source>
+                <target>Berner Laufhund</target>
+            </trans-unit>
+            <trans-unit id="bernese-mountain-dog">
+                <source>bernese-mountain-dog</source>
+                <target>Bernese Mountain Dog</target>
+            </trans-unit>
+            <trans-unit id="bichon-frise">
+                <source>bichon-frise</source>
+                <target>Bichon Frisé</target>
+            </trans-unit>
+            <trans-unit id="billy">
+                <source>billy</source>
+                <target>Billy</target>
+            </trans-unit>
+            <trans-unit id="black-and-tan-coonhound">
+                <source>black-and-tan-coonhound</source>
+                <target>Black and Tan Coonhound</target>
+            </trans-unit>
+            <trans-unit id="black-and-tan-virginia-foxhound">
+                <source>black-and-tan-virginia-foxhound</source>
+                <target>Black and Tan Virginia Foxhound</target>
+            </trans-unit>
+            <trans-unit id="black-norwegian-elkhound">
+                <source>black-norwegian-elkhound</source>
+                <target>Black Norwegian Elkhound</target>
+            </trans-unit>
+            <trans-unit id="black-russian-terrier">
+                <source>black-russian-terrier</source>
+                <target>Black Russian Terrier</target>
+            </trans-unit>
+            <trans-unit id="blackmouth-cur">
+                <source>blackmouth-cur</source>
+                <target>Blackmouth Cur</target>
+            </trans-unit>
+            <trans-unit id="bleu-de-gascogne-grand">
+                <source>bleu-de-gascogne-grand</source>
+                <target>Bleu de Gascogne, Grand</target>
+            </trans-unit>
+            <trans-unit id="bleu-de-gascogne-petit">
+                <source>bleu-de-gascogne-petit</source>
+                <target>Bleu de Gascogne, Petit</target>
+            </trans-unit>
+            <trans-unit id="bloodhound">
+                <source>bloodhound</source>
+                <target>Bloodhound</target>
+            </trans-unit>
+            <trans-unit id="blue-heeler">
+                <source>blue-heeler</source>
+                <target>Blue Heeler</target>
+            </trans-unit>
+            <trans-unit id="blue-lacy">
+                <source>blue-lacy</source>
+                <target>Blue Lacy</target>
+            </trans-unit>
+            <trans-unit id="blue-paul-terrier">
+                <source>blue-paul-terrier</source>
+                <target>Blue Paul Terrier</target>
+            </trans-unit>
+            <trans-unit id="bluetick-coonhound">
+                <source>bluetick-coonhound</source>
+                <target>Bluetick Coonhound</target>
+            </trans-unit>
+            <trans-unit id="boerboel">
+                <source>boerboel</source>
+                <target>Boerboel</target>
+            </trans-unit>
+            <trans-unit id="bohemian-shepherd">
+                <source>bohemian-shepherd</source>
+                <target>Bohemian Shepherd</target>
+            </trans-unit>
+            <trans-unit id="bolognese">
+                <source>bolognese</source>
+                <target>Bolognese</target>
+            </trans-unit>
+            <trans-unit id="border-collie">
+                <source>border-collie</source>
+                <target>Border Collie</target>
+            </trans-unit>
+            <trans-unit id="border-terrier">
+                <source>border-terrier</source>
+                <target>Border Terrier</target>
+            </trans-unit>
+            <trans-unit id="borzoi">
+                <source>borzoi</source>
+                <target>Borzoi</target>
+            </trans-unit>
+            <trans-unit id="bosnian-coarse-haired-hound">
+                <source>bosnian-coarse-haired-hound</source>
+                <target>Bosnian Coarse-haired Hound</target>
+            </trans-unit>
+            <trans-unit id="boston-terrier">
+                <source>boston-terrier</source>
+                <target>Boston Terrier</target>
+            </trans-unit>
+            <trans-unit id="bouvier-des-ardennes">
+                <source>bouvier-des-ardennes</source>
+                <target>Bouvier des Ardennes</target>
+            </trans-unit>
+            <trans-unit id="bouvier-des-flandres">
+                <source>bouvier-des-flandres</source>
+                <target>Bouvier des Flandres</target>
+            </trans-unit>
+            <trans-unit id="boxer">
+                <source>boxer</source>
+                <target>Boxer</target>
+            </trans-unit>
+            <trans-unit id="boykin-spaniel">
+                <source>boykin-spaniel</source>
+                <target>Boykin Spaniel</target>
+            </trans-unit>
+            <trans-unit id="bracco-italiano">
+                <source>bracco-italiano</source>
+                <target>Bracco Italiano</target>
+            </trans-unit>
+            <trans-unit id="braque-d-auvergne">
+                <source>braque-d-auvergne</source>
+                <target>Braque d'Auvergne</target>
+            </trans-unit>
+            <trans-unit id="braque-du-bourbonnais">
+                <source>braque-du-bourbonnais</source>
+                <target>Braque du Bourbonnais</target>
+            </trans-unit>
+            <trans-unit id="braque-du-puy">
+                <source>braque-du-puy</source>
+                <target>Braque du Puy</target>
+            </trans-unit>
+            <trans-unit id="braque-francais">
+                <source>braque-francais</source>
+                <target>Braque Francais</target>
+            </trans-unit>
+            <trans-unit id="braque-saint-germain">
+                <source>braque-saint-germain</source>
+                <target>Braque Saint-Germain</target>
+            </trans-unit>
+            <trans-unit id="brazilian-dogo">
+                <source>brazilian-dogo</source>
+                <target>Brazilian Dogo</target>
+            </trans-unit>
+            <trans-unit id="brazilian-terrier">
+                <source>brazilian-terrier</source>
+                <target>Brazilian Terrier</target>
+            </trans-unit>
+            <trans-unit id="briard">
+                <source>briard</source>
+                <target>Briard</target>
+            </trans-unit>
+            <trans-unit id="briquet-griffon-vendeen">
+                <source>briquet-griffon-vendeen</source>
+                <target>Briquet Griffon Vendéen</target>
+            </trans-unit>
+            <trans-unit id="brittany">
+                <source>brittany</source>
+                <target>Brittany</target>
+            </trans-unit>
+            <trans-unit id="broholmer">
+                <source>broholmer</source>
+                <target>Broholmer</target>
+            </trans-unit>
+            <trans-unit id="bruno-jura-hound">
+                <source>bruno-jura-hound</source>
+                <target>Bruno Jura Hound</target>
+            </trans-unit>
+            <trans-unit id="bucovina-shepherd-dog">
+                <source>bucovina-shepherd-dog</source>
+                <target>Bucovina Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="bull-and-terrier">
+                <source>bull-and-terrier</source>
+                <target>Bull and Terrier</target>
+            </trans-unit>
+            <trans-unit id="bull-terrier">
+                <source>bull-terrier</source>
+                <target>Bull Terrier</target>
+            </trans-unit>
+            <trans-unit id="bull-terrier-miniature">
+                <source>bull-terrier-miniature</source>
+                <target>Bull Terrier (Miniature)</target>
+            </trans-unit>
+            <trans-unit id="bulldog">
+                <source>bulldog</source>
+                <target>Bulldog</target>
+            </trans-unit>
+            <trans-unit id="bullenbeisser">
+                <source>bullenbeisser</source>
+                <target>Bullenbeisser</target>
+            </trans-unit>
+            <trans-unit id="bullmastiff">
+                <source>bullmastiff</source>
+                <target>Bullmastiff</target>
+            </trans-unit>
+            <trans-unit id="bully-kutta">
+                <source>bully-kutta</source>
+                <target>Bully Kutta</target>
+            </trans-unit>
+            <trans-unit id="burgos-pointer">
+                <source>burgos-pointer</source>
+                <target>Burgos Pointer</target>
+            </trans-unit>
+            <trans-unit id="cairn-terrier">
+                <source>cairn-terrier</source>
+                <target>Cairn Terrier</target>
+            </trans-unit>
+            <trans-unit id="canaan-dog">
+                <source>canaan-dog</source>
+                <target>Canaan Dog</target>
+            </trans-unit>
+            <trans-unit id="canadian-eskimo-dog">
+                <source>canadian-eskimo-dog</source>
+                <target>Canadian Eskimo Dog</target>
+            </trans-unit>
+            <trans-unit id="cane-corso">
+                <source>cane-corso</source>
+                <target>Cane Corso</target>
+            </trans-unit>
+            <trans-unit id="cantabrian-water-dog">
+                <source>cantabrian-water-dog</source>
+                <target>Cantabrian Water Dog</target>
+            </trans-unit>
+            <trans-unit id="cao-da-serra-de-aires">
+                <source>cao-da-serra-de-aires</source>
+                <target>Cão da Serra de Aires</target>
+            </trans-unit>
+            <trans-unit id="cao-de-castro-laboreiro">
+                <source>cao-de-castro-laboreiro</source>
+                <target>Cão de Castro Laboreiro</target>
+            </trans-unit>
+            <trans-unit id="cao-fila-de-sao-miguel">
+                <source>cao-fila-de-sao-miguel</source>
+                <target>Cão Fila de São Miguel</target>
+            </trans-unit>
+            <trans-unit id="carolina-dog">
+                <source>carolina-dog</source>
+                <target>Carolina Dog</target>
+            </trans-unit>
+            <trans-unit id="carpathian-shepherd-dog">
+                <source>carpathian-shepherd-dog</source>
+                <target>Carpathian Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="catahoula-cur">
+                <source>catahoula-cur</source>
+                <target>Catahoula Cur</target>
+            </trans-unit>
+            <trans-unit id="catalan-sheepdog">
+                <source>catalan-sheepdog</source>
+                <target>Catalan Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="caucasian-shepherd-dog">
+                <source>caucasian-shepherd-dog</source>
+                <target>Caucasian Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="cavalier-king-charles-spaniel">
+                <source>cavalier-king-charles-spaniel</source>
+                <target>Cavalier King Charles Spaniel</target>
+            </trans-unit>
+            <trans-unit id="central-asian-shepherd-dog">
+                <source>central-asian-shepherd-dog</source>
+                <target>Central Asian Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="cesky-fousek">
+                <source>cesky-fousek</source>
+                <target>Cesky Fousek</target>
+            </trans-unit>
+            <trans-unit id="cesky-terrier">
+                <source>cesky-terrier</source>
+                <target>Cesky Terrier</target>
+            </trans-unit>
+            <trans-unit id="chesapeake-bay-retriever">
+                <source>chesapeake-bay-retriever</source>
+                <target>Chesapeake Bay Retriever</target>
+            </trans-unit>
+            <trans-unit id="chien-francais-blanc-et-noir">
+                <source>chien-francais-blanc-et-noir</source>
+                <target>Chien Français Blanc et Noir</target>
+            </trans-unit>
+            <trans-unit id="chien-francais-blanc-et-orange">
+                <source>chien-francais-blanc-et-orange</source>
+                <target>Chien Français Blanc et Orange</target>
+            </trans-unit>
+            <trans-unit id="chien-francais-tricolore">
+                <source>chien-francais-tricolore</source>
+                <target>Chien Français Tricolore</target>
+            </trans-unit>
+            <trans-unit id="chien-gris">
+                <source>chien-gris</source>
+                <target>Chien-gris</target>
+            </trans-unit>
+            <trans-unit id="chihuahua">
+                <source>chihuahua</source>
+                <target>Chihuahua</target>
+            </trans-unit>
+            <trans-unit id="chilean-fox-terrier">
+                <source>chilean-fox-terrier</source>
+                <target>Chilean Fox Terrier</target>
+            </trans-unit>
+            <trans-unit id="chinese-chongqing-dog">
+                <source>chinese-chongqing-dog</source>
+                <target>Chinese Chongqing Dog</target>
+            </trans-unit>
+            <trans-unit id="chinese-crested-dog">
+                <source>chinese-crested-dog</source>
+                <target>Chinese Crested Dog</target>
+            </trans-unit>
+            <trans-unit id="chinese-imperial-dog">
+                <source>chinese-imperial-dog</source>
+                <target>Chinese Imperial Dog</target>
+            </trans-unit>
+            <trans-unit id="chinook">
+                <source>chinook</source>
+                <target>Chinook</target>
+            </trans-unit>
+            <trans-unit id="chippiparai">
+                <source>chippiparai</source>
+                <target>Chippiparai</target>
+            </trans-unit>
+            <trans-unit id="chow-chow">
+                <source>chow-chow</source>
+                <target>Chow Chow</target>
+            </trans-unit>
+            <trans-unit id="cierny-sery">
+                <source>cierny-sery</source>
+                <target>Cierny Sery</target>
+            </trans-unit>
+            <trans-unit id="cirneco-dell-etna">
+                <source>cirneco-dell-etna</source>
+                <target>Cirneco dell'Etna</target>
+            </trans-unit>
+            <trans-unit id="clumber-spaniel">
+                <source>clumber-spaniel</source>
+                <target>Clumber Spaniel</target>
+            </trans-unit>
+            <trans-unit id="collie-rough">
+                <source>collie-rough</source>
+                <target>Collie, Rough</target>
+            </trans-unit>
+            <trans-unit id="collie-smooth">
+                <source>collie-smooth</source>
+                <target>Collie, Smooth</target>
+            </trans-unit>
+            <trans-unit id="combai">
+                <source>combai</source>
+                <target>Combai</target>
+            </trans-unit>
+            <trans-unit id="cordoba-fighting-dog">
+                <source>cordoba-fighting-dog</source>
+                <target>Cordoba Fighting Dog</target>
+            </trans-unit>
+            <trans-unit id="coton-de-tulear">
+                <source>coton-de-tulear</source>
+                <target>Coton de Tulear</target>
+            </trans-unit>
+            <trans-unit id="cretan-hound">
+                <source>cretan-hound</source>
+                <target>Cretan Hound</target>
+            </trans-unit>
+            <trans-unit id="croatian-sheepdog">
+                <source>croatian-sheepdog</source>
+                <target>Croatian Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="cumberland-sheepdog">
+                <source>cumberland-sheepdog</source>
+                <target>Cumberland Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="curly-coated-retriever">
+                <source>curly-coated-retriever</source>
+                <target>Curly Coated Retriever</target>
+            </trans-unit>
+            <trans-unit id="cursinu">
+                <source>cursinu</source>
+                <target>Cursinu</target>
+            </trans-unit>
+            <trans-unit id="czechoslovak-wolfdog">
+                <source>czechoslovak-wolfdog</source>
+                <target>Czechoslovak Wolfdog</target>
+            </trans-unit>
+            <trans-unit id="dachshund">
+                <source>dachshund</source>
+                <target>Dachshund</target>
+            </trans-unit>
+            <trans-unit id="dalmatian">
+                <source>dalmatian</source>
+                <target>Dalmatian</target>
+            </trans-unit>
+            <trans-unit id="dandie-dinmont-terrier">
+                <source>dandie-dinmont-terrier</source>
+                <target>Dandie Dinmont Terrier</target>
+            </trans-unit>
+            <trans-unit id="danish-swedish-farmdog">
+                <source>danish-swedish-farmdog</source>
+                <target>Danish Swedish Farmdog</target>
+            </trans-unit>
+            <trans-unit id="decker-rat-terrier">
+                <source>decker-rat-terrier</source>
+                <target>Decker Rat Terrier</target>
+            </trans-unit>
+            <trans-unit id="deutsche-bracke">
+                <source>deutsche-bracke</source>
+                <target>Deutsche Bracke</target>
+            </trans-unit>
+            <trans-unit id="doberman-pinscher">
+                <source>doberman-pinscher</source>
+                <target>Doberman Pinscher</target>
+            </trans-unit>
+            <trans-unit id="dogo-argentino">
+                <source>dogo-argentino</source>
+                <target>Dogo Argentino</target>
+            </trans-unit>
+            <trans-unit id="dogo-cubano">
+                <source>dogo-cubano</source>
+                <target>Dogo Cubano</target>
+            </trans-unit>
+            <trans-unit id="dogue-de-bordeaux">
+                <source>dogue-de-bordeaux</source>
+                <target>Dogue de Bordeaux</target>
+            </trans-unit>
+            <trans-unit id="drentse-patrijshond">
+                <source>drentse-patrijshond</source>
+                <target>Drentse Patrijshond</target>
+            </trans-unit>
+            <trans-unit id="drever">
+                <source>drever</source>
+                <target>Drever</target>
+            </trans-unit>
+            <trans-unit id="dunker">
+                <source>dunker</source>
+                <target>Dunker</target>
+            </trans-unit>
+            <trans-unit id="dutch-shepherd-dog">
+                <source>dutch-shepherd-dog</source>
+                <target>Dutch Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="dutch-smoushond">
+                <source>dutch-smoushond</source>
+                <target>Dutch Smoushond</target>
+            </trans-unit>
+            <trans-unit id="east-siberian-laika">
+                <source>east-siberian-laika</source>
+                <target>East Siberian Laika</target>
+            </trans-unit>
+            <trans-unit id="east-european-shepherd">
+                <source>east-european-shepherd</source>
+                <target>East-European Shepherd</target>
+            </trans-unit>
+            <trans-unit id="elo">
+                <source>elo</source>
+                <target>Elo</target>
+            </trans-unit>
+            <trans-unit id="english-cocker-spaniel">
+                <source>english-cocker-spaniel</source>
+                <target>English Cocker Spaniel</target>
+            </trans-unit>
+            <trans-unit id="american-english-coonhound">
+                <source>american-english-coonhound</source>
+                <target>American English Coonhound</target>
+            </trans-unit>
+            <trans-unit id="english-foxhound">
+                <source>english-foxhound</source>
+                <target>English Foxhound</target>
+            </trans-unit>
+            <trans-unit id="english-mastiff">
+                <source>english-mastiff</source>
+                <target>English Mastiff</target>
+            </trans-unit>
+            <trans-unit id="english-setter">
+                <source>english-setter</source>
+                <target>English Setter</target>
+            </trans-unit>
+            <trans-unit id="english-shepherd">
+                <source>english-shepherd</source>
+                <target>English Shepherd</target>
+            </trans-unit>
+            <trans-unit id="english-springer-spaniel">
+                <source>english-springer-spaniel</source>
+                <target>English Springer Spaniel</target>
+            </trans-unit>
+            <trans-unit id="english-toy-terrier-black-tan">
+                <source>english-toy-terrier-black-tan</source>
+                <target>English Toy Terrier (Black & Tan)</target>
+            </trans-unit>
+            <trans-unit id="english-water-spaniel">
+                <source>english-water-spaniel</source>
+                <target>English Water Spaniel</target>
+            </trans-unit>
+            <trans-unit id="english-white-terrier">
+                <source>english-white-terrier</source>
+                <target>English White Terrier</target>
+            </trans-unit>
+            <trans-unit id="entlebucher-mountain-dog">
+                <source>entlebucher-mountain-dog</source>
+                <target>Entlebucher Mountain Dog</target>
+            </trans-unit>
+            <trans-unit id="epagneul-bleu-de-picardie">
+                <source>epagneul-bleu-de-picardie</source>
+                <target>Épagneul Bleu de Picardie</target>
+            </trans-unit>
+            <trans-unit id="estonian-hound">
+                <source>estonian-hound</source>
+                <target>Estonian Hound</target>
+            </trans-unit>
+            <trans-unit id="estrela-mountain-dog">
+                <source>estrela-mountain-dog</source>
+                <target>Estrela Mountain Dog</target>
+            </trans-unit>
+            <trans-unit id="eurasier">
+                <source>eurasier</source>
+                <target>Eurasier</target>
+            </trans-unit>
+            <trans-unit id="field-spaniel">
+                <source>field-spaniel</source>
+                <target>Field Spaniel</target>
+            </trans-unit>
+            <trans-unit id="fila-brasileiro">
+                <source>fila-brasileiro</source>
+                <target>Fila Brasileiro</target>
+            </trans-unit>
+            <trans-unit id="finnish-hound">
+                <source>finnish-hound</source>
+                <target>Finnish Hound</target>
+            </trans-unit>
+            <trans-unit id="finnish-lapphund">
+                <source>finnish-lapphund</source>
+                <target>Finnish Lapphund</target>
+            </trans-unit>
+            <trans-unit id="finnish-spitz">
+                <source>finnish-spitz</source>
+                <target>Finnish Spitz</target>
+            </trans-unit>
+            <trans-unit id="flat-coated-retriever">
+                <source>flat-coated-retriever</source>
+                <target>Flat-Coated Retriever</target>
+            </trans-unit>
+            <trans-unit id="formosan-mountain-dog">
+                <source>formosan-mountain-dog</source>
+                <target>Formosan Mountain Dog</target>
+            </trans-unit>
+            <trans-unit id="fox-terrier-smooth">
+                <source>fox-terrier-smooth</source>
+                <target>Fox Terrier (Smooth)</target>
+            </trans-unit>
+            <trans-unit id="fox-terrier-wire">
+                <source>fox-terrier-wire</source>
+                <target>Fox Terrier, Wire</target>
+            </trans-unit>
+            <trans-unit id="french-brittany">
+                <source>french-brittany</source>
+                <target>French Brittany</target>
+            </trans-unit>
+            <trans-unit id="french-bulldog">
+                <source>french-bulldog</source>
+                <target>French Bulldog</target>
+            </trans-unit>
+            <trans-unit id="french-spaniel">
+                <source>french-spaniel</source>
+                <target>French Spaniel</target>
+            </trans-unit>
+            <trans-unit id="gaddi-dog">
+                <source>gaddi-dog</source>
+                <target>Gaddi Dog</target>
+            </trans-unit>
+            <trans-unit id="galgo-espanol">
+                <source>galgo-espanol</source>
+                <target>Galgo Español</target>
+            </trans-unit>
+            <trans-unit id="galician-cattle-dog">
+                <source>galician-cattle-dog</source>
+                <target>Galician Cattle Dog</target>
+            </trans-unit>
+            <trans-unit id="garafia-shepherd-dog">
+                <source>garafia-shepherd-dog</source>
+                <target>Garafía Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="gascon-saintongeois">
+                <source>gascon-saintongeois</source>
+                <target>Gascon Saintongeois</target>
+            </trans-unit>
+            <trans-unit id="georgian-shepherd-dog">
+                <source>georgian-shepherd-dog</source>
+                <target>Georgian Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="german-longhaired-pointer">
+                <source>german-longhaired-pointer</source>
+                <target>German Longhaired Pointer</target>
+            </trans-unit>
+            <trans-unit id="german-pinscher">
+                <source>german-pinscher</source>
+                <target>German Pinscher</target>
+            </trans-unit>
+            <trans-unit id="german-rough-haired-pointer">
+                <source>german-rough-haired-pointer</source>
+                <target>German Rough-haired Pointer</target>
+            </trans-unit>
+            <trans-unit id="german-shepherd-dog">
+                <source>german-shepherd-dog</source>
+                <target>German Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="german-shorthaired-pointer">
+                <source>german-shorthaired-pointer</source>
+                <target>German Shorthaired Pointer</target>
+            </trans-unit>
+            <trans-unit id="german-spaniel">
+                <source>german-spaniel</source>
+                <target>German Spaniel</target>
+            </trans-unit>
+            <trans-unit id="german-spitz">
+                <source>german-spitz</source>
+                <target>German Spitz</target>
+            </trans-unit>
+            <trans-unit id="german-wirehaired-pointer">
+                <source>german-wirehaired-pointer</source>
+                <target>German Wirehaired Pointer</target>
+            </trans-unit>
+            <trans-unit id="giant-schnauzer">
+                <source>giant-schnauzer</source>
+                <target>Giant Schnauzer</target>
+            </trans-unit>
+            <trans-unit id="glen-of-imaal-terrier">
+                <source>glen-of-imaal-terrier</source>
+                <target>Glen of Imaal Terrier</target>
+            </trans-unit>
+            <trans-unit id="golden-retriever">
+                <source>golden-retriever</source>
+                <target>Golden Retriever</target>
+            </trans-unit>
+            <trans-unit id="gordon-setter">
+                <source>gordon-setter</source>
+                <target>Gordon Setter</target>
+            </trans-unit>
+            <trans-unit id="gran-mastin-de-borinquen">
+                <source>gran-mastin-de-borinquen</source>
+                <target>Gran Mastín de Borínquen</target>
+            </trans-unit>
+            <trans-unit id="grand-anglo-francais-blanc-et-noir">
+                <source>grand-anglo-francais-blanc-et-noir</source>
+                <target>Grand Anglo-Français Blanc et Noir</target>
+            </trans-unit>
+            <trans-unit id="grand-anglo-francais-blanc-et-orange">
+                <source>grand-anglo-francais-blanc-et-orange</source>
+                <target>Grand Anglo-Français Blanc et Orange</target>
+            </trans-unit>
+            <trans-unit id="grand-anglo-francais-tricolore">
+                <source>grand-anglo-francais-tricolore</source>
+                <target>Grand Anglo-Français Tricolore</target>
+            </trans-unit>
+            <trans-unit id="grand-griffon-vendeen">
+                <source>grand-griffon-vendeen</source>
+                <target>Grand Griffon Vendéen</target>
+            </trans-unit>
+            <trans-unit id="great-dane">
+                <source>great-dane</source>
+                <target>Great Dane</target>
+            </trans-unit>
+            <trans-unit id="great-pyrenees">
+                <source>great-pyrenees</source>
+                <target>Great Pyrenees</target>
+            </trans-unit>
+            <trans-unit id="greater-swiss-mountain-dog">
+                <source>greater-swiss-mountain-dog</source>
+                <target>Greater Swiss Mountain Dog</target>
+            </trans-unit>
+            <trans-unit id="greek-harehound">
+                <source>greek-harehound</source>
+                <target>Greek Harehound</target>
+            </trans-unit>
+            <trans-unit id="greenland-dog">
+                <source>greenland-dog</source>
+                <target>Greenland Dog</target>
+            </trans-unit>
+            <trans-unit id="greyhound">
+                <source>greyhound</source>
+                <target>Greyhound</target>
+            </trans-unit>
+            <trans-unit id="griffon-bleu-de-gascogne">
+                <source>griffon-bleu-de-gascogne</source>
+                <target>Griffon Bleu de Gascogne</target>
+            </trans-unit>
+            <trans-unit id="griffon-bruxellois">
+                <source>griffon-bruxellois</source>
+                <target>Griffon Bruxellois</target>
+            </trans-unit>
+            <trans-unit id="griffon-fauve-de-bretagne">
+                <source>griffon-fauve-de-bretagne</source>
+                <target>Griffon Fauve de Bretagne</target>
+            </trans-unit>
+            <trans-unit id="griffon-nivernais">
+                <source>griffon-nivernais</source>
+                <target>Griffon Nivernais</target>
+            </trans-unit>
+            <trans-unit id="guatemalan-dogo">
+                <source>guatemalan-dogo</source>
+                <target>Guatemalan Dogo</target>
+            </trans-unit>
+            <trans-unit id="gull-terrier">
+                <source>gull-terrier</source>
+                <target>Gull Terrier</target>
+            </trans-unit>
+            <trans-unit id="hamiltonstoevare">
+                <source>hamiltonstoevare</source>
+                <target>Hamiltonstövare</target>
+            </trans-unit>
+            <trans-unit id="hanover-hound">
+                <source>hanover-hound</source>
+                <target>Hanover Hound</target>
+            </trans-unit>
+            <trans-unit id="hare-indian-dog">
+                <source>hare-indian-dog</source>
+                <target>Hare Indian Dog</target>
+            </trans-unit>
+            <trans-unit id="harrier">
+                <source>harrier</source>
+                <target>Harrier</target>
+            </trans-unit>
+            <trans-unit id="havanese">
+                <source>havanese</source>
+                <target>Havanese</target>
+            </trans-unit>
+            <trans-unit id="hawaiian-poi-dog">
+                <source>hawaiian-poi-dog</source>
+                <target>Hawaiian Poi Dog</target>
+            </trans-unit>
+            <trans-unit id="himalayan-sheepdog">
+                <source>himalayan-sheepdog</source>
+                <target>Himalayan Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="hokkaido-ken">
+                <source>hokkaido-ken</source>
+                <target>Hokkaido Ken</target>
+            </trans-unit>
+            <trans-unit id="hortaya-borzaya">
+                <source>hortaya-borzaya</source>
+                <target>Hortaya Borzaya</target>
+            </trans-unit>
+            <trans-unit id="hovawart">
+                <source>hovawart</source>
+                <target>Hovawart</target>
+            </trans-unit>
+            <trans-unit id="huntaway">
+                <source>huntaway</source>
+                <target>Huntaway</target>
+            </trans-unit>
+            <trans-unit id="hygenhund">
+                <source>hygenhund</source>
+                <target>Hygenhund</target>
+            </trans-unit>
+            <trans-unit id="ibizan-hound">
+                <source>ibizan-hound</source>
+                <target>Ibizan Hound</target>
+            </trans-unit>
+            <trans-unit id="icelandic-sheepdog">
+                <source>icelandic-sheepdog</source>
+                <target>Icelandic Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="indian-pariah-dog">
+                <source>indian-pariah-dog</source>
+                <target>Indian pariah dog</target>
+            </trans-unit>
+            <trans-unit id="indian-spitz">
+                <source>indian-spitz</source>
+                <target>Indian Spitz</target>
+            </trans-unit>
+            <trans-unit id="irish-red-and-white-setter">
+                <source>irish-red-and-white-setter</source>
+                <target>Irish Red and White Setter</target>
+            </trans-unit>
+            <trans-unit id="irish-setter">
+                <source>irish-setter</source>
+                <target>Irish Setter</target>
+            </trans-unit>
+            <trans-unit id="irish-terrier">
+                <source>irish-terrier</source>
+                <target>Irish Terrier</target>
+            </trans-unit>
+            <trans-unit id="irish-water-spaniel">
+                <source>irish-water-spaniel</source>
+                <target>Irish Water Spaniel</target>
+            </trans-unit>
+            <trans-unit id="irish-wolfhound">
+                <source>irish-wolfhound</source>
+                <target>Irish Wolfhound</target>
+            </trans-unit>
+            <trans-unit id="istrian-coarse-haired-hound">
+                <source>istrian-coarse-haired-hound</source>
+                <target>Istrian Coarse-haired Hound</target>
+            </trans-unit>
+            <trans-unit id="istrian-shorthaired-hound">
+                <source>istrian-shorthaired-hound</source>
+                <target>Istrian Shorthaired Hound</target>
+            </trans-unit>
+            <trans-unit id="italian-greyhound">
+                <source>italian-greyhound</source>
+                <target>Italian Greyhound</target>
+            </trans-unit>
+            <trans-unit id="jack-russell-terrier">
+                <source>jack-russell-terrier</source>
+                <target>Jack Russell Terrier</target>
+            </trans-unit>
+            <trans-unit id="jagdterrier">
+                <source>jagdterrier</source>
+                <target>Jagdterrier</target>
+            </trans-unit>
+            <trans-unit id="jaemthund">
+                <source>jaemthund</source>
+                <target>Jämthund</target>
+            </trans-unit>
+            <trans-unit id="japanese-chin">
+                <source>japanese-chin</source>
+                <target>Japanese Chin</target>
+            </trans-unit>
+            <trans-unit id="japanese-spitz">
+                <source>japanese-spitz</source>
+                <target>Japanese Spitz</target>
+            </trans-unit>
+            <trans-unit id="japanese-terrier">
+                <source>japanese-terrier</source>
+                <target>Japanese Terrier</target>
+            </trans-unit>
+            <trans-unit id="kaikadi">
+                <source>kaikadi</source>
+                <target>Kaikadi</target>
+            </trans-unit>
+            <trans-unit id="kai-ken">
+                <source>kai-ken</source>
+                <target>Kai Ken</target>
+            </trans-unit>
+            <trans-unit id="kangal-dog">
+                <source>kangal-dog</source>
+                <target>Kangal Dog</target>
+            </trans-unit>
+            <trans-unit id="kanni">
+                <source>kanni</source>
+                <target>Kanni</target>
+            </trans-unit>
+            <trans-unit id="karakachan-dog">
+                <source>karakachan-dog</source>
+                <target>Karakachan Dog</target>
+            </trans-unit>
+            <trans-unit id="karelian-bear-dog">
+                <source>karelian-bear-dog</source>
+                <target>Karelian Bear Dog</target>
+            </trans-unit>
+            <trans-unit id="karst-shepherd">
+                <source>karst-shepherd</source>
+                <target>Karst Shepherd</target>
+            </trans-unit>
+            <trans-unit id="keeshond">
+                <source>keeshond</source>
+                <target>Keeshond</target>
+            </trans-unit>
+            <trans-unit id="kerry-beagle">
+                <source>kerry-beagle</source>
+                <target>Kerry Beagle</target>
+            </trans-unit>
+            <trans-unit id="kerry-blue-terrier">
+                <source>kerry-blue-terrier</source>
+                <target>Kerry Blue Terrier</target>
+            </trans-unit>
+            <trans-unit id="king-charles-spaniel">
+                <source>king-charles-spaniel</source>
+                <target>King Charles Spaniel</target>
+            </trans-unit>
+            <trans-unit id="king-shepherd">
+                <source>king-shepherd</source>
+                <target>King Shepherd</target>
+            </trans-unit>
+            <trans-unit id="kintamani">
+                <source>kintamani</source>
+                <target>Kintamani</target>
+            </trans-unit>
+            <trans-unit id="kishu-ken">
+                <source>kishu-ken</source>
+                <target>Kishu Ken</target>
+            </trans-unit>
+            <trans-unit id="komondor">
+                <source>komondor</source>
+                <target>Komondor</target>
+            </trans-unit>
+            <trans-unit id="kooikerhondje">
+                <source>kooikerhondje</source>
+                <target>Kooikerhondje</target>
+            </trans-unit>
+            <trans-unit id="koolie">
+                <source>koolie</source>
+                <target>Koolie</target>
+            </trans-unit>
+            <trans-unit id="korean-jindo-dog">
+                <source>korean-jindo-dog</source>
+                <target>Korean Jindo Dog</target>
+            </trans-unit>
+            <trans-unit id="kromfohrlaender">
+                <source>kromfohrlaender</source>
+                <target>Kromfohrländer</target>
+            </trans-unit>
+            <trans-unit id="kumaon-mastiff">
+                <source>kumaon-mastiff</source>
+                <target>Kumaon Mastiff</target>
+            </trans-unit>
+            <trans-unit id="kunming-wolfdog">
+                <source>kunming-wolfdog</source>
+                <target>Kunming Wolfdog</target>
+            </trans-unit>
+            <trans-unit id="kuri">
+                <source>kuri</source>
+                <target>Kurī</target>
+            </trans-unit>
+            <trans-unit id="kuvasz">
+                <source>kuvasz</source>
+                <target>Kuvasz</target>
+            </trans-unit>
+            <trans-unit id="kyi-leo">
+                <source>kyi-leo</source>
+                <target>Kyi-Leo</target>
+            </trans-unit>
+            <trans-unit id="labrador-husky">
+                <source>labrador-husky</source>
+                <target>Labrador Husky</target>
+            </trans-unit>
+            <trans-unit id="labrador-retriever">
+                <source>labrador-retriever</source>
+                <target>Labrador Retriever</target>
+            </trans-unit>
+            <trans-unit id="lagotto-romagnolo">
+                <source>lagotto-romagnolo</source>
+                <target>Lagotto Romagnolo</target>
+            </trans-unit>
+            <trans-unit id="lakeland-terrier">
+                <source>lakeland-terrier</source>
+                <target>Lakeland Terrier</target>
+            </trans-unit>
+            <trans-unit id="lancashire-heeler">
+                <source>lancashire-heeler</source>
+                <target>Lancashire Heeler</target>
+            </trans-unit>
+            <trans-unit id="landseer">
+                <source>landseer</source>
+                <target>Landseer</target>
+            </trans-unit>
+            <trans-unit id="lapponian-herder">
+                <source>lapponian-herder</source>
+                <target>Lapponian Herder</target>
+            </trans-unit>
+            <trans-unit id="leonberger">
+                <source>leonberger</source>
+                <target>Leonberger</target>
+            </trans-unit>
+            <trans-unit id="lhasa-apso">
+                <source>lhasa-apso</source>
+                <target>Lhasa Apso</target>
+            </trans-unit>
+            <trans-unit id="lithuanian-hound">
+                <source>lithuanian-hound</source>
+                <target>Lithuanian Hound</target>
+            </trans-unit>
+            <trans-unit id="longhaired-whippet">
+                <source>longhaired-whippet</source>
+                <target>Longhaired Whippet</target>
+            </trans-unit>
+            <trans-unit id="loewchen">
+                <source>loewchen</source>
+                <target>Löwchen</target>
+            </trans-unit>
+            <trans-unit id="magyar-agar">
+                <source>magyar-agar</source>
+                <target>Magyar Agár</target>
+            </trans-unit>
+            <trans-unit id="mahratta-greyhound">
+                <source>mahratta-greyhound</source>
+                <target>Mahratta Greyhound</target>
+            </trans-unit>
+            <trans-unit id="majorca-shepherd-dog">
+                <source>majorca-shepherd-dog</source>
+                <target>Majorca Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="maltese">
+                <source>maltese</source>
+                <target>Maltese</target>
+            </trans-unit>
+            <trans-unit id="manchester-terrier">
+                <source>manchester-terrier</source>
+                <target>Manchester Terrier</target>
+            </trans-unit>
+            <trans-unit id="maremma-sheepdog">
+                <source>maremma-sheepdog</source>
+                <target>Maremma Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="mcnab">
+                <source>mcnab</source>
+                <target>McNab</target>
+            </trans-unit>
+            <trans-unit id="mexican-hairless-dog">
+                <source>mexican-hairless-dog</source>
+                <target>Mexican Hairless Dog</target>
+            </trans-unit>
+            <trans-unit id="miniature-australian-shepherd">
+                <source>miniature-australian-shepherd</source>
+                <target>Miniature Australian Shepherd</target>
+            </trans-unit>
+            <trans-unit id="miniature-american-shepherd">
+                <source>miniature-american-shepherd</source>
+                <target>Miniature American Shepherd</target>
+            </trans-unit>
+            <trans-unit id="miniature-fox-terrier">
+                <source>miniature-fox-terrier</source>
+                <target>Miniature Fox Terrier</target>
+            </trans-unit>
+            <trans-unit id="miniature-pinscher">
+                <source>miniature-pinscher</source>
+                <target>Miniature Pinscher</target>
+            </trans-unit>
+            <trans-unit id="miniature-schnauzer">
+                <source>miniature-schnauzer</source>
+                <target>Miniature Schnauzer</target>
+            </trans-unit>
+            <trans-unit id="miniature-shar-pei">
+                <source>miniature-shar-pei</source>
+                <target>Miniature Shar Pei</target>
+            </trans-unit>
+            <trans-unit id="mioritic">
+                <source>mioritic</source>
+                <target>Mioritic</target>
+            </trans-unit>
+            <trans-unit id="molossus">
+                <source>molossus</source>
+                <target>Molossus</target>
+            </trans-unit>
+            <trans-unit id="montenegrin-mountain-hound">
+                <source>montenegrin-mountain-hound</source>
+                <target>Montenegrin Mountain Hound</target>
+            </trans-unit>
+            <trans-unit id="moscow-watchdog">
+                <source>moscow-watchdog</source>
+                <target>Moscow Watchdog</target>
+            </trans-unit>
+            <trans-unit id="moscow-water-dog">
+                <source>moscow-water-dog</source>
+                <target>Moscow Water Dog</target>
+            </trans-unit>
+            <trans-unit id="mountain-cur">
+                <source>mountain-cur</source>
+                <target>Mountain Cur</target>
+            </trans-unit>
+            <trans-unit id="mucuchies">
+                <source>mucuchies</source>
+                <target>Mucuchies</target>
+            </trans-unit>
+            <trans-unit id="mudhol-hound">
+                <source>mudhol-hound</source>
+                <target>Mudhol Hound</target>
+            </trans-unit>
+            <trans-unit id="mudi">
+                <source>mudi</source>
+                <target>Mudi</target>
+            </trans-unit>
+            <trans-unit id="muensterlaender-large">
+                <source>muensterlaender-large</source>
+                <target>Münsterländer, Large</target>
+            </trans-unit>
+            <trans-unit id="muensterlaender-small">
+                <source>muensterlaender-small</source>
+                <target>Münsterländer, Small</target>
+            </trans-unit>
+            <trans-unit id="neapolitan-mastiff">
+                <source>neapolitan-mastiff</source>
+                <target>Neapolitan Mastiff</target>
+            </trans-unit>
+            <trans-unit id="newfoundland">
+                <source>newfoundland</source>
+                <target>Newfoundland</target>
+            </trans-unit>
+            <trans-unit id="new-zealand-heading-dog">
+                <source>new-zealand-heading-dog</source>
+                <target>New Zealand Heading Dog</target>
+            </trans-unit>
+            <trans-unit id="norfolk-spaniel">
+                <source>norfolk-spaniel</source>
+                <target>Norfolk Spaniel</target>
+            </trans-unit>
+            <trans-unit id="norfolk-terrier">
+                <source>norfolk-terrier</source>
+                <target>Norfolk Terrier</target>
+            </trans-unit>
+            <trans-unit id="norrbottenspets">
+                <source>norrbottenspets</source>
+                <target>Norrbottenspets</target>
+            </trans-unit>
+            <trans-unit id="north-country-beagle">
+                <source>north-country-beagle</source>
+                <target>North Country Beagle</target>
+            </trans-unit>
+            <trans-unit id="northern-inuit-dog">
+                <source>northern-inuit-dog</source>
+                <target>Northern Inuit Dog</target>
+            </trans-unit>
+            <trans-unit id="norwegian-buhund">
+                <source>norwegian-buhund</source>
+                <target>Norwegian Buhund</target>
+            </trans-unit>
+            <trans-unit id="norwegian-elkhound">
+                <source>norwegian-elkhound</source>
+                <target>Norwegian Elkhound</target>
+            </trans-unit>
+            <trans-unit id="norwegian-lundehund">
+                <source>norwegian-lundehund</source>
+                <target>Norwegian Lundehund</target>
+            </trans-unit>
+            <trans-unit id="norwich-terrier">
+                <source>norwich-terrier</source>
+                <target>Norwich Terrier</target>
+            </trans-unit>
+            <trans-unit id="nova-scotia-duck-tolling-retriever">
+                <source>nova-scotia-duck-tolling-retriever</source>
+                <target>Nova Scotia Duck-Tolling Retriever</target>
+            </trans-unit>
+            <trans-unit id="old-croatian-sighthound">
+                <source>old-croatian-sighthound</source>
+                <target>Old Croatian Sighthound</target>
+            </trans-unit>
+            <trans-unit id="old-danish-pointer">
+                <source>old-danish-pointer</source>
+                <target>Old Danish Pointer</target>
+            </trans-unit>
+            <trans-unit id="old-english-sheepdog">
+                <source>old-english-sheepdog</source>
+                <target>Old English Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="old-english-terrier">
+                <source>old-english-terrier</source>
+                <target>Old English Terrier</target>
+            </trans-unit>
+            <trans-unit id="old-german-shepherd-dog">
+                <source>old-german-shepherd-dog</source>
+                <target>Old German Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="old-time-farm-shepherd">
+                <source>old-time-farm-shepherd</source>
+                <target>Old Time Farm Shepherd</target>
+            </trans-unit>
+            <trans-unit id="olde-english-bulldogge">
+                <source>olde-english-bulldogge</source>
+                <target>Olde English Bulldogge</target>
+            </trans-unit>
+            <trans-unit id="otterhound">
+                <source>otterhound</source>
+                <target>Otterhound</target>
+            </trans-unit>
+            <trans-unit id="pachon-navarro">
+                <source>pachon-navarro</source>
+                <target>Pachon Navarro</target>
+            </trans-unit>
+            <trans-unit id="pandikona">
+                <source>pandikona</source>
+                <target>Pandikona</target>
+            </trans-unit>
+            <trans-unit id="paisley-terrier">
+                <source>paisley-terrier</source>
+                <target>Paisley Terrier</target>
+            </trans-unit>
+            <trans-unit id="papillon">
+                <source>papillon</source>
+                <target>Papillon</target>
+            </trans-unit>
+            <trans-unit id="parson-russell-terrier">
+                <source>parson-russell-terrier</source>
+                <target>Parson Russell Terrier</target>
+            </trans-unit>
+            <trans-unit id="patterdale-terrier">
+                <source>patterdale-terrier</source>
+                <target>Patterdale Terrier</target>
+            </trans-unit>
+            <trans-unit id="pekingese">
+                <source>pekingese</source>
+                <target>Pekingese</target>
+            </trans-unit>
+            <trans-unit id="perro-de-presa-canario">
+                <source>perro-de-presa-canario</source>
+                <target>Perro de Presa Canario</target>
+            </trans-unit>
+            <trans-unit id="perro-de-presa-mallorquin">
+                <source>perro-de-presa-mallorquin</source>
+                <target>Perro de Presa Mallorquin</target>
+            </trans-unit>
+            <trans-unit id="perro-fino-colombiano">
+                <source>perro-fino-colombiano</source>
+                <target>Perro fino Colombiano</target>
+            </trans-unit>
+            <trans-unit id="peruvian-hairless-dog">
+                <source>peruvian-hairless-dog</source>
+                <target>Peruvian Hairless Dog</target>
+            </trans-unit>
+            <trans-unit id="phalene">
+                <source>phalene</source>
+                <target>Phalène</target>
+            </trans-unit>
+            <trans-unit id="pharaoh-hound">
+                <source>pharaoh-hound</source>
+                <target>Pharaoh Hound</target>
+            </trans-unit>
+            <trans-unit id="phu-quoc-ridgeback-dog">
+                <source>phu-quoc-ridgeback-dog</source>
+                <target>Phu Quoc ridgeback dog</target>
+            </trans-unit>
+            <trans-unit id="picardy-spaniel">
+                <source>picardy-spaniel</source>
+                <target>Picardy Spaniel</target>
+            </trans-unit>
+            <trans-unit id="plott-hound">
+                <source>plott-hound</source>
+                <target>Plott Hound</target>
+            </trans-unit>
+            <trans-unit id="podenco-canario">
+                <source>podenco-canario</source>
+                <target>Podenco Canario</target>
+            </trans-unit>
+            <trans-unit id="pointer">
+                <source>pointer</source>
+                <target>Pointer</target>
+            </trans-unit>
+            <trans-unit id="poitevin">
+                <source>poitevin</source>
+                <target>Poitevin</target>
+            </trans-unit>
+            <trans-unit id="polish-greyhound">
+                <source>polish-greyhound</source>
+                <target>Polish Greyhound</target>
+            </trans-unit>
+            <trans-unit id="polish-hound">
+                <source>polish-hound</source>
+                <target>Polish Hound</target>
+            </trans-unit>
+            <trans-unit id="polish-hunting-dog">
+                <source>polish-hunting-dog</source>
+                <target>Polish Hunting Dog</target>
+            </trans-unit>
+            <trans-unit id="polish-lowland-sheepdog">
+                <source>polish-lowland-sheepdog</source>
+                <target>Polish Lowland Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="polish-tatra-sheepdog">
+                <source>polish-tatra-sheepdog</source>
+                <target>Polish Tatra Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="pomeranian">
+                <source>pomeranian</source>
+                <target>Pomeranian</target>
+            </trans-unit>
+            <trans-unit id="pont-audemer-spaniel">
+                <source>pont-audemer-spaniel</source>
+                <target>Pont-Audemer Spaniel</target>
+            </trans-unit>
+            <trans-unit id="poodle">
+                <source>poodle</source>
+                <target>Poodle</target>
+            </trans-unit>
+            <trans-unit id="porcelaine">
+                <source>porcelaine</source>
+                <target>Porcelaine</target>
+            </trans-unit>
+            <trans-unit id="portuguese-podengo">
+                <source>portuguese-podengo</source>
+                <target>Portuguese Podengo</target>
+            </trans-unit>
+            <trans-unit id="portuguese-pointer">
+                <source>portuguese-pointer</source>
+                <target>Portuguese Pointer</target>
+            </trans-unit>
+            <trans-unit id="portuguese-water-dog">
+                <source>portuguese-water-dog</source>
+                <target>Portuguese Water Dog</target>
+            </trans-unit>
+            <trans-unit id="posavac-hound">
+                <source>posavac-hound</source>
+                <target>Posavac Hound</target>
+            </trans-unit>
+            <trans-unit id="prazsky-krysarik">
+                <source>prazsky-krysarik</source>
+                <target>Pražský Krysařík</target>
+            </trans-unit>
+            <trans-unit id="pudelpointer">
+                <source>pudelpointer</source>
+                <target>Pudelpointer</target>
+            </trans-unit>
+            <trans-unit id="pug">
+                <source>pug</source>
+                <target>Pug</target>
+            </trans-unit>
+            <trans-unit id="puli">
+                <source>puli</source>
+                <target>Puli</target>
+            </trans-unit>
+            <trans-unit id="pumi">
+                <source>pumi</source>
+                <target>Pumi</target>
+            </trans-unit>
+            <trans-unit id="pungsan-dog">
+                <source>pungsan-dog</source>
+                <target>Pungsan Dog</target>
+            </trans-unit>
+            <trans-unit id="pyrenean-mastiff">
+                <source>pyrenean-mastiff</source>
+                <target>Pyrenean Mastiff</target>
+            </trans-unit>
+            <trans-unit id="pyrenean-shepherd">
+                <source>pyrenean-shepherd</source>
+                <target>Pyrenean Shepherd</target>
+            </trans-unit>
+            <trans-unit id="rafeiro-do-alentejo">
+                <source>rafeiro-do-alentejo</source>
+                <target>Rafeiro do Alentejo</target>
+            </trans-unit>
+            <trans-unit id="rajapalayam">
+                <source>rajapalayam</source>
+                <target>Rajapalayam</target>
+            </trans-unit>
+            <trans-unit id="rampur-greyhound">
+                <source>rampur-greyhound</source>
+                <target>Rampur Greyhound</target>
+            </trans-unit>
+            <trans-unit id="rastreador-brasileiro">
+                <source>rastreador-brasileiro</source>
+                <target>Rastreador Brasileiro</target>
+            </trans-unit>
+            <trans-unit id="ratonero-bodeguero-andaluz">
+                <source>ratonero-bodeguero-andaluz</source>
+                <target>Ratonero Bodeguero Andaluz</target>
+            </trans-unit>
+            <trans-unit id="ratonero-valenciano">
+                <source>ratonero-valenciano</source>
+                <target>Ratonero Valenciano</target>
+            </trans-unit>
+            <trans-unit id="rat-terrier">
+                <source>rat-terrier</source>
+                <target>Rat Terrier</target>
+            </trans-unit>
+            <trans-unit id="redbone-coonhound">
+                <source>redbone-coonhound</source>
+                <target>Redbone Coonhound</target>
+            </trans-unit>
+            <trans-unit id="rhodesian-ridgeback">
+                <source>rhodesian-ridgeback</source>
+                <target>Rhodesian Ridgeback</target>
+            </trans-unit>
+            <trans-unit id="rottweiler">
+                <source>rottweiler</source>
+                <target>Rottweiler</target>
+            </trans-unit>
+            <trans-unit id="russian-spaniel">
+                <source>russian-spaniel</source>
+                <target>Russian Spaniel</target>
+            </trans-unit>
+            <trans-unit id="russian-toy">
+                <source>russian-toy</source>
+                <target>Russian Toy</target>
+            </trans-unit>
+            <trans-unit id="russian-tracker">
+                <source>russian-tracker</source>
+                <target>Russian tracker</target>
+            </trans-unit>
+            <trans-unit id="russo-european-laika">
+                <source>russo-european-laika</source>
+                <target>Russo-European Laika</target>
+            </trans-unit>
+            <trans-unit id="russell-terrier">
+                <source>russell-terrier</source>
+                <target>Russell Terrier</target>
+            </trans-unit>
+            <trans-unit id="saarlooswolfhond">
+                <source>saarlooswolfhond</source>
+                <target>Saarlooswolfhond</target>
+            </trans-unit>
+            <trans-unit id="sabueso-espanol">
+                <source>sabueso-espanol</source>
+                <target>Sabueso Español</target>
+            </trans-unit>
+            <trans-unit id="saint-usuge-spaniel">
+                <source>saint-usuge-spaniel</source>
+                <target>Saint-Usuge Spaniel</target>
+            </trans-unit>
+            <trans-unit id="sakhalin-husky">
+                <source>sakhalin-husky</source>
+                <target>Sakhalin Husky</target>
+            </trans-unit>
+            <trans-unit id="saluki">
+                <source>saluki</source>
+                <target>Saluki</target>
+            </trans-unit>
+            <trans-unit id="samoyed">
+                <source>samoyed</source>
+                <target>Samoyed</target>
+            </trans-unit>
+            <trans-unit id="santal-hound">
+                <source>santal-hound</source>
+                <target>Santal Hound</target>
+            </trans-unit>
+            <trans-unit id="sapsali">
+                <source>sapsali</source>
+                <target>Sapsali</target>
+            </trans-unit>
+            <trans-unit id="sarplaninac">
+                <source>sarplaninac</source>
+                <target>Šarplaninac</target>
+            </trans-unit>
+            <trans-unit id="schapendoes">
+                <source>schapendoes</source>
+                <target>Schapendoes</target>
+            </trans-unit>
+            <trans-unit id="schillerstoevare">
+                <source>schillerstoevare</source>
+                <target>Schillerstövare</target>
+            </trans-unit>
+            <trans-unit id="schipperke">
+                <source>schipperke</source>
+                <target>Schipperke</target>
+            </trans-unit>
+            <trans-unit id="standard-schnauzer">
+                <source>standard-schnauzer</source>
+                <target>Standard Schnauzer</target>
+            </trans-unit>
+            <trans-unit id="schweizer-laufhund">
+                <source>schweizer-laufhund</source>
+                <target>Schweizer Laufhund</target>
+            </trans-unit>
+            <trans-unit id="schweizerischer-niederlaufhund">
+                <source>schweizerischer-niederlaufhund</source>
+                <target>Schweizerischer Niederlaufhund</target>
+            </trans-unit>
+            <trans-unit id="scotch-collie">
+                <source>scotch-collie</source>
+                <target>Scotch Collie</target>
+            </trans-unit>
+            <trans-unit id="scottish-deerhound">
+                <source>scottish-deerhound</source>
+                <target>Scottish Deerhound</target>
+            </trans-unit>
+            <trans-unit id="scottish-terrier">
+                <source>scottish-terrier</source>
+                <target>Scottish Terrier</target>
+            </trans-unit>
+            <trans-unit id="sealyham-terrier">
+                <source>sealyham-terrier</source>
+                <target>Sealyham Terrier</target>
+            </trans-unit>
+            <trans-unit id="segugio-italiano">
+                <source>segugio-italiano</source>
+                <target>Segugio Italiano</target>
+            </trans-unit>
+            <trans-unit id="seppala-siberian-sleddog">
+                <source>seppala-siberian-sleddog</source>
+                <target>Seppala Siberian Sleddog</target>
+            </trans-unit>
+            <trans-unit id="serbian-hound">
+                <source>serbian-hound</source>
+                <target>Serbian Hound</target>
+            </trans-unit>
+            <trans-unit id="serbian-tricolour-hound">
+                <source>serbian-tricolour-hound</source>
+                <target>Serbian Tricolour Hound</target>
+            </trans-unit>
+            <trans-unit id="seskar-seal-dog">
+                <source>seskar-seal-dog</source>
+                <target>Seskar Seal Dog</target>
+            </trans-unit>
+            <trans-unit id="shar-pei">
+                <source>shar-pei</source>
+                <target>Shar Pei</target>
+            </trans-unit>
+            <trans-unit id="shetland-sheepdog">
+                <source>shetland-sheepdog</source>
+                <target>Shetland Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="shiba-inu">
+                <source>shiba-inu</source>
+                <target>Shiba Inu</target>
+            </trans-unit>
+            <trans-unit id="shih-tzu">
+                <source>shih-tzu</source>
+                <target>Shih Tzu</target>
+            </trans-unit>
+            <trans-unit id="shikoku-ken">
+                <source>shikoku-ken</source>
+                <target>Shikoku Ken</target>
+            </trans-unit>
+            <trans-unit id="shiloh-shepherd-dog">
+                <source>shiloh-shepherd-dog</source>
+                <target>Shiloh Shepherd Dog</target>
+            </trans-unit>
+            <trans-unit id="siberian-husky">
+                <source>siberian-husky</source>
+                <target>Siberian Husky</target>
+            </trans-unit>
+            <trans-unit id="silken-windhound">
+                <source>silken-windhound</source>
+                <target>Silken Windhound</target>
+            </trans-unit>
+            <trans-unit id="sinhala-hound">
+                <source>sinhala-hound</source>
+                <target>Sinhala Hound</target>
+            </trans-unit>
+            <trans-unit id="skye-terrier">
+                <source>skye-terrier</source>
+                <target>Skye Terrier</target>
+            </trans-unit>
+            <trans-unit id="sloughi">
+                <source>sloughi</source>
+                <target>Sloughi</target>
+            </trans-unit>
+            <trans-unit id="slovak-cuvac">
+                <source>slovak-cuvac</source>
+                <target>Slovak Cuvac</target>
+            </trans-unit>
+            <trans-unit id="slovakian-rough-haired-pointer">
+                <source>slovakian-rough-haired-pointer</source>
+                <target>Slovakian Rough-haired Pointer</target>
+            </trans-unit>
+            <trans-unit id="slovensky-kopov">
+                <source>slovensky-kopov</source>
+                <target>Slovenský Kopov</target>
+            </trans-unit>
+            <trans-unit id="smalandsstoevare">
+                <source>smalandsstoevare</source>
+                <target>Smålandsstövare</target>
+            </trans-unit>
+            <trans-unit id="small-greek-domestic-dog">
+                <source>small-greek-domestic-dog</source>
+                <target>Small Greek Domestic Dog</target>
+            </trans-unit>
+            <trans-unit id="soft-coated-wheaten-terrier">
+                <source>soft-coated-wheaten-terrier</source>
+                <target>Soft-Coated Wheaten Terrier</target>
+            </trans-unit>
+            <trans-unit id="south-russian-ovcharka">
+                <source>south-russian-ovcharka</source>
+                <target>South Russian Ovcharka</target>
+            </trans-unit>
+            <trans-unit id="southern-hound">
+                <source>southern-hound</source>
+                <target>Southern Hound</target>
+            </trans-unit>
+            <trans-unit id="spanish-mastiff">
+                <source>spanish-mastiff</source>
+                <target>Spanish Mastiff</target>
+            </trans-unit>
+            <trans-unit id="spanish-water-dog">
+                <source>spanish-water-dog</source>
+                <target>Spanish Water Dog</target>
+            </trans-unit>
+            <trans-unit id="spinone-italiano">
+                <source>spinone-italiano</source>
+                <target>Spinone Italiano</target>
+            </trans-unit>
+            <trans-unit id="sporting-lucas-terrier">
+                <source>sporting-lucas-terrier</source>
+                <target>Sporting Lucas Terrier</target>
+            </trans-unit>
+            <trans-unit id="st-bernard">
+                <source>st-bernard</source>
+                <target>St. Bernard</target>
+            </trans-unit>
+            <trans-unit id="st-john-s-water-dog">
+                <source>st-john-s-water-dog</source>
+                <target>St. John's water dog</target>
+            </trans-unit>
+            <trans-unit id="stabyhoun">
+                <source>stabyhoun</source>
+                <target>Stabyhoun</target>
+            </trans-unit>
+            <trans-unit id="staffordshire-bull-terrier">
+                <source>staffordshire-bull-terrier</source>
+                <target>Staffordshire Bull Terrier</target>
+            </trans-unit>
+            <trans-unit id="stephens-cur">
+                <source>stephens-cur</source>
+                <target>Stephens Cur</target>
+            </trans-unit>
+            <trans-unit id="styrian-coarse-haired-hound">
+                <source>styrian-coarse-haired-hound</source>
+                <target>Styrian Coarse-haired Hound</target>
+            </trans-unit>
+            <trans-unit id="sussex-spaniel">
+                <source>sussex-spaniel</source>
+                <target>Sussex Spaniel</target>
+            </trans-unit>
+            <trans-unit id="swedish-lapphund">
+                <source>swedish-lapphund</source>
+                <target>Swedish Lapphund</target>
+            </trans-unit>
+            <trans-unit id="swedish-vallhund">
+                <source>swedish-vallhund</source>
+                <target>Swedish Vallhund</target>
+            </trans-unit>
+            <trans-unit id="tahltan-bear-dog">
+                <source>tahltan-bear-dog</source>
+                <target>Tahltan Bear Dog</target>
+            </trans-unit>
+            <trans-unit id="taigan">
+                <source>taigan</source>
+                <target>Taigan</target>
+            </trans-unit>
+            <trans-unit id="talbot">
+                <source>talbot</source>
+                <target>Talbot</target>
+            </trans-unit>
+            <trans-unit id="tamaskan-dog">
+                <source>tamaskan-dog</source>
+                <target>Tamaskan Dog</target>
+            </trans-unit>
+            <trans-unit id="teddy-roosevelt-terrier">
+                <source>teddy-roosevelt-terrier</source>
+                <target>Teddy Roosevelt Terrier</target>
+            </trans-unit>
+            <trans-unit id="telomian">
+                <source>telomian</source>
+                <target>Telomian</target>
+            </trans-unit>
+            <trans-unit id="tennessee-treeing-brindle">
+                <source>tennessee-treeing-brindle</source>
+                <target>Tennessee Treeing Brindle</target>
+            </trans-unit>
+            <trans-unit id="tenterfield-terrier">
+                <source>tenterfield-terrier</source>
+                <target>Tenterfield Terrier</target>
+            </trans-unit>
+            <trans-unit id="terceira-mastiff">
+                <source>terceira-mastiff</source>
+                <target>Terceira Mastiff</target>
+            </trans-unit>
+            <trans-unit id="thai-bangkaew-dog">
+                <source>thai-bangkaew-dog</source>
+                <target>Thai Bangkaew Dog</target>
+            </trans-unit>
+            <trans-unit id="thai-ridgeback">
+                <source>thai-ridgeback</source>
+                <target>Thai Ridgeback</target>
+            </trans-unit>
+            <trans-unit id="tibetan-mastiff">
+                <source>tibetan-mastiff</source>
+                <target>Tibetan Mastiff</target>
+            </trans-unit>
+            <trans-unit id="tibetan-spaniel">
+                <source>tibetan-spaniel</source>
+                <target>Tibetan Spaniel</target>
+            </trans-unit>
+            <trans-unit id="tibetan-terrier">
+                <source>tibetan-terrier</source>
+                <target>Tibetan Terrier</target>
+            </trans-unit>
+            <trans-unit id="tornjak">
+                <source>tornjak</source>
+                <target>Tornjak</target>
+            </trans-unit>
+            <trans-unit id="tosa">
+                <source>tosa</source>
+                <target>Tosa</target>
+            </trans-unit>
+            <trans-unit id="toy-bulldog">
+                <source>toy-bulldog</source>
+                <target>Toy Bulldog</target>
+            </trans-unit>
+            <trans-unit id="toy-fox-terrier">
+                <source>toy-fox-terrier</source>
+                <target>Toy Fox Terrier</target>
+            </trans-unit>
+            <trans-unit id="toy-manchester-terrier">
+                <source>toy-manchester-terrier</source>
+                <target>Toy Manchester Terrier</target>
+            </trans-unit>
+            <trans-unit id="toy-trawler-spaniel">
+                <source>toy-trawler-spaniel</source>
+                <target>Toy Trawler Spaniel</target>
+            </trans-unit>
+            <trans-unit id="transylvanian-hound">
+                <source>transylvanian-hound</source>
+                <target>Transylvanian Hound</target>
+            </trans-unit>
+            <trans-unit id="treeing-cur">
+                <source>treeing-cur</source>
+                <target>Treeing Cur</target>
+            </trans-unit>
+            <trans-unit id="treeing-walker-coonhound">
+                <source>treeing-walker-coonhound</source>
+                <target>Treeing Walker Coonhound</target>
+            </trans-unit>
+            <trans-unit id="trigg-hound">
+                <source>trigg-hound</source>
+                <target>Trigg Hound</target>
+            </trans-unit>
+            <trans-unit id="tweed-water-spaniel">
+                <source>tweed-water-spaniel</source>
+                <target>Tweed Water Spaniel</target>
+            </trans-unit>
+            <trans-unit id="tyrolean-hound">
+                <source>tyrolean-hound</source>
+                <target>Tyrolean Hound</target>
+            </trans-unit>
+            <trans-unit id="uruguayan-cimarron">
+                <source>uruguayan-cimarron</source>
+                <target>Uruguayan Cimarron</target>
+            </trans-unit>
+            <trans-unit id="vanjari-hound">
+                <source>vanjari-hound</source>
+                <target>Vanjari Hound</target>
+            </trans-unit>
+            <trans-unit id="villano-de-las-encartaciones">
+                <source>villano-de-las-encartaciones</source>
+                <target>Villano de las Encartaciones</target>
+            </trans-unit>
+            <trans-unit id="vizsla">
+                <source>vizsla</source>
+                <target>Vizsla</target>
+            </trans-unit>
+            <trans-unit id="volpino-italiano">
+                <source>volpino-italiano</source>
+                <target>Volpino Italiano</target>
+            </trans-unit>
+            <trans-unit id="weimaraner">
+                <source>weimaraner</source>
+                <target>Weimaraner</target>
+            </trans-unit>
+            <trans-unit id="welsh-corgi-cardigan">
+                <source>welsh-corgi-cardigan</source>
+                <target>Welsh Corgi, Cardigan</target>
+            </trans-unit>
+            <trans-unit id="welsh-corgi-pembroke">
+                <source>welsh-corgi-pembroke</source>
+                <target>Welsh Corgi, Pembroke</target>
+            </trans-unit>
+            <trans-unit id="welsh-sheepdog">
+                <source>welsh-sheepdog</source>
+                <target>Welsh Sheepdog</target>
+            </trans-unit>
+            <trans-unit id="welsh-springer-spaniel">
+                <source>welsh-springer-spaniel</source>
+                <target>Welsh Springer Spaniel</target>
+            </trans-unit>
+            <trans-unit id="welsh-terrier">
+                <source>welsh-terrier</source>
+                <target>Welsh Terrier</target>
+            </trans-unit>
+            <trans-unit id="west-highland-white-terrier">
+                <source>west-highland-white-terrier</source>
+                <target>West Highland White Terrier</target>
+            </trans-unit>
+            <trans-unit id="west-siberian-laika">
+                <source>west-siberian-laika</source>
+                <target>West Siberian Laika</target>
+            </trans-unit>
+            <trans-unit id="westphalian-dachsbracke">
+                <source>westphalian-dachsbracke</source>
+                <target>Westphalian Dachsbracke</target>
+            </trans-unit>
+            <trans-unit id="wetterhoun">
+                <source>wetterhoun</source>
+                <target>Wetterhoun</target>
+            </trans-unit>
+            <trans-unit id="whippet">
+                <source>whippet</source>
+                <target>Whippet</target>
+            </trans-unit>
+            <trans-unit id="white-shepherd">
+                <source>white-shepherd</source>
+                <target>White Shepherd</target>
+            </trans-unit>
+            <trans-unit id="wirehaired-pointing-griffon">
+                <source>wirehaired-pointing-griffon</source>
+                <target>Wirehaired Pointing Griffon</target>
+            </trans-unit>
+            <trans-unit id="wirehaired-vizsla">
+                <source>wirehaired-vizsla</source>
+                <target>Wirehaired Vizsla</target>
+            </trans-unit>
+            <trans-unit id="yorkshire-terrier">
+                <source>yorkshire-terrier</source>
+                <target>Yorkshire Terrier</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
